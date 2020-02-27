@@ -1,0 +1,1070 @@
+Differences by subcorpus:
+  43970  (100.00%)   TOTAL
+
+  10367  (23.58%)    web13
+  8805  (20.03%)    nc_fiction
+  8665  (19.71%)    nc_periodicals
+  8579  (19.51%)    nc_science
+  7554  (17.18%)    wiki17
+
+Differences by annotation match type:
+  74389  (100.00%)   TOTAL
+
+  29456  (39.60%)    EXTRA
+  23586  (31.71%)    COMMON
+  20596  (27.69%)    MODIFIED
+  751  (1.01%)    MISSING
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   nc_periodicals
+  20   nc_fiction
+  20   nc_science
+  20   web13
+  20   wiki17
+
+
+=====================================================================================
+
+nc_periodicals::nc_10175_625283::275 (++A)
+
+...andimaa\n\nUskumatuid lugusid võib lugeda meie ajalehtedest .  {Ühel}  päeval on politseinikud töö ajal  in corpore  purjus , mõne...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+nc_periodicals::nc_10532_642047::625 (+)
+
+...on selle raketi tehnoloogia tulnud Hiinast ja Põhja-Koreast  {1990ndatel}  aastatel .\n\nTegu oli Pakistani teise raketikatsetusega viim...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['1990=s', 'O', 'pl ad']
+v1_6_morph_analysis_flat    ['1990.', 'O', 'pl ad']
+
+=====================================================================================
+
+nc_periodicals::nc_1103_89020::1021 (-)
+
+....\n\nKathy karjäär sai hoo sisse 80. aastatel populaarses r'n' {b-bändis}  Sweet Cinnamon . Soolokarjääri esilugu Can't Play Around on...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['b-bänd', 'S', 'sg in']
+v1_6_morph_analysis_flat    ['bänd', 'S', 'sg in']
+
+=====================================================================================
+
+nc_fiction::nc_11675_731877::1771 (++A)
+
+... siinne rahvas rääkis .\n\nTa oli öelnud viimases meelehärmis  {ühele}  näitlejale — tee Brežnevit ! Ja näis , et see läks pihta . ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg all']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg all']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg all']
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::2723 (+)
+
+...mõtet on suuremal viljasaagil , kui röövlid selle võtavad ?  {Üks}  kolmandik mõlema küla meestest harjutas mõõgavõitlust , täi...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::2853 (+)
+
+...ndrile , sest ta kõnges poolel teel mürgitatud veest , mida  {ühest}  mahapõletatud küla kaevust jõi . Muidugi sosistati , et Dva...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühest', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg el']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg el']
+
+=====================================================================================
+
+nc_fiction::nc_11715_732134::3380 (++A)
+
+...kaks , aga nad käivad ühe alla kokku , Valgevene hulkurid .  {Üks}  oli seitseteist , aga nii kõhn , et nägi noorem välja , tei...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11719_732138::3550 (-)
+
+...eelega oleks Sven Sarap öelnud südamepõhjast : " Persse ! "  {Tema}  hädiselt magus naeratus ei väljendanud midagi peale lapsepõ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['tema', 'P', 'sg g']
+v1_6_morph_analysis_flat    ['tema', 'P', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11724_732210::3696 (++A)
+
+...li . Kahjuks hakkasin ma hiljem kahtlema . Mulle jäi nimelt  {üks}  sinu fraas meelde . Sa ütlesid , et kui Peidetud Informatsi...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11760_732723::5024 (+)
+
+...ee õuel . "\n\n" Ja mistarvis — ? " küsisid ema ja tädi Piret  {ühest}  suust , ainult üsna erinevalt toonil , tädi Piret nagu juba...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühest', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg el']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg el']
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::5488 (+)
+
+...iga sageli Evi ja minu pingi taga maailma uurida , toetudes  {ühe}  jalaga meie tagumisele tühjale pingile . Eks meie siis püüd...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::6483 (+)
+
+...eie vaieluse põhipunkti juure . Kudas õnnestub naisel , kes  {ühe}  mitte ihaldatud seltskonna juures on oma nime määrinud , kü...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::7125 (+)
+
+... mis siis , et Pariisist ( kuigi saan selle teate Tallinnas  {ühte}  tänavat ületades , Kaarli puiestee juures valgusfooriga ris...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg p']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg p']
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::7312 (++A)
+
+...atud kirja postkontorisse viisin , teenindas mind leti taga  {üks}  aasia naine . Ta ei teadnud muidugi , mis tariif on Estonie...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::7472 (-)
+
+...89. aastal sain Vikerkaare kirjandustoimetaja koha . Ja ühe  {vana}  kaugelt sugulase , tädi Marta ( ta oli tegelikult tädimehe ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['vana', 'A', 'sg n']
+v1_6_morph_analysis_flat    ['vana', 'A', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::8056 (+)
+
+...ud püramiidid .\n\nAga ta ikka möllas , see tuule kurivaim !\n\n {Ühe}  prügikasti lükkas tormipuhang koguni ümber . Selle lahtireb...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Ühe', 'H', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::8980 (+)
+
+... tüdrukutega kaasa , noo ja siis ? "\n\n" Kirjutan Teile vaid  {ühel}  põhjusel - mul on perekond ! Ma ei tea , kas ka Teil see ol...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::9178 (++A)
+
+... külge kinnitatud , mis näitas , et nööbi sinna paigutamine  {ühelgi}  juhul juhuslik olla ei saanud . Selle jopi all ei saanud mä...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::9348 (++A)
+
+...sed omavahel liiga hästi — nimepidi — sobivad . Oli ka veel  {üks}  lisapõhjus , aga sellest finaalis . Nel modo russico .\n\nKui...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11860_733732::10072 (+)
+
+...ndi peapiiskop ja Tallinna haldur Eestimaal , kirjutan seda  {21-se}  augusti ööl Issanda aastal 1221 oma hingehädas –\n\nJa ma kuj...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['21-se', 'Y', '?']
+v1_6_morph_analysis_flat    ['21.', 'O', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::10186 (++A)
+
+...n ma Susannale sellest jurakast . Tookord lembisin ma Lenny  {üht}  mõne aasta vanust plaati , mille ümbrisel oli ta profiilis ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg p']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg p']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg p']
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::10221 (++A)
+
+...\n\nKalmer helistas mulle kolme päeva pärast , laupäeval .\n\n"  {Üks}  mu sõber laenas mulle ühe Jimi Hendrixi kontserdi originaal...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::10422 (++A)
+
+...kindlasti " , oleks neile " kindlastitele " lisandunud veel  {üks}  " kindlasti " : kindlasti oleksin ma mõne aja pärast olnud ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'N', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_1364_103059::10723 (-)
+
+..., nagu asjalood on , pean alustama sellest , kui nägin ühel  {kesklinna}  haljasalal tudengit põõsa all põõnamas . Sellest võis järel...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['kesk_linn', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['kesk_linn', 'S', 'adt']
+
+=====================================================================================
+
+nc_periodicals::nc_1468_109516::10879 (+)
+
+...b pühapäeval ära .\n\nKui mängus Saksamaaga oskasid horvaadid  {üht}  lisameest nutikalt ära kasutada , siis prantslaste vastu jä...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg p']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg p']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg p']
+
+=====================================================================================
+
+nc_science::nc_17085_739748::10997 (++A)
+
+...puhul , võivad pangad operatsiooniriski hinnates ise valida  {ühe}  kolmest võimalikust lähenemisest , tuginedes seejuures oma ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'N', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17088_739785::11082 (+)
+
+...t muud meiliaadressi ( nt Elioni hot.ee serveris ) . Ainult  {ühel}  vastanul ei ole isiklikku meiliaadressi ning ta kasutab oma...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+nc_science::nc_17088_739785::11096 (+)
+
+...is  kohati häirib  ligi pooli vastajaist , paistis välja ka  {ühest}  varasemast vastusest erialase tarkvara vähese kasutamisena ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühest', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg el']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg el']
+
+=====================================================================================
+
+nc_science::nc_17097_739862::11365 (--)
+
+...usvõimsuse ehk töötlusvahendite ja salvestusmahu koondumist  {ühte}  asukohta .\n\nKlassikaliselt tuuakse tsentraliseeritud süstee...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg p']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg p']
+
+=====================================================================================
+
+nc_science::nc_17138_741156::13824 (++A)
+
+...igusnorme võib liigitada " kahte lehte " muudelgi alustel .  {Üheks}  selliseks on liigitus üldisteks käitumisnormideks ehk regul...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg tr']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg tr']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg tr']
+
+=====================================================================================
+
+nc_science::nc_17149_741240::14541 (-)
+
+...ele' , keige maade sees 'kõikides maades' . ( Vt . lähemalt  {Saareste}  1939 , Kask 1970 : 93-97. ) Piibli rikkaliku sõnavara hulga...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Saareste', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['Saareste', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['Saares', 'H', 'pl g']
+
+=====================================================================================
+
+nc_science::nc_17150_741243::14711 (-)
+
+...e , fetišism alla , arvestamata , et viimane kujutab endast  {vaid}  üht aafriklaste religioosse elu külge . Fetišism koos nõiap...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['vaid', 'D', '']
+v1_6_morph_analysis_flat    ['vaid', 'J', '']
+
+=====================================================================================
+
+nc_science::nc_17164_741348::15694 (++A)
+
+...gasihoidlikum olla kui ülejäänutel . Eesti tingimustes võib  {ühe}  põhjusena esile tuua , et venelaste integratsiooniprobleemi...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17164_741348::15743 (--)
+
+...Morgan ( 1997 ) ja Alvesson ( 1993 ) , vaatleb kultuuri kui  {ühte}  organisatsiooni iseloomustamiseks sobivat metafoori paljude...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'N', 'adt']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'adt']
+
+=====================================================================================
+
+nc_science::nc_17181_741495::16412 (+)
+
+...st ja eriti World Wide Web'i massikasutusse jõudmine alates  {1990-ndatest}  . Nagu mainitud , on küberruum , mis tekib loendamatute arv...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['1990=s', 'O', 'pl el']
+v1_6_morph_analysis_flat    ['1990.', 'O', 'pl el']
+
+=====================================================================================
+
+nc_science::nc_17193_741578::16912 (-)
+
+...iselt paremad võrreldes vähemedukate õpilaste tulemustega (  {t-testiga}  p > 0 , 05 ; vt. tabel 4. 8 ) . Üheks põhjuseks sellisele t...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['t-test', 'S', 'sg kom']
+v1_6_morph_analysis_flat    ['test', 'S', 'sg kom']
+
+=====================================================================================
+
+nc_science::nc_17193_741578::16951 (++A)
+
+...ähendada abstraktsust , kuid suur graafika hulk , eriti kui  {ühes}  õpitarkvaras kasutatakse erinevaid graafika liike ning enam...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg in']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg in']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg in']
+
+=====================================================================================
+
+nc_science::nc_17199_741630::17217 (?)
+
+...vusse ... ” Lõigud dateerimata ja pealkirjastamata tekstist  {ühel}  masinakirjaleheküljel , millele trükitud allkiri A. Humal ....
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+nc_science::nc_17225_741953::17728 (+)
+
+...e meeleoluhäire , segatüüpi seisund\n\nAnamneesis on vähemalt  {üks}  kindlalt diagnoositud maniakaalne , hüpomaniakaalne või seg...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17225_741953::17799 (+)
+
+...pressiooniepisood ( F32.- ) . Siiski ei vasta seisund vahel  {ühegi}  muu psüühikahäire kriteeriumile , kuigi mõned psühhopatoloo...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17236_742036::17971 (++A)
+
+...ejale sündmusi suvalises järjestuses , viia tegevuse vabalt  {ühest}  kohast teise jne. Draamas nõuab aja ja ruumi muutumine , nä...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg el']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg el']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg el']
+
+=====================================================================================
+
+nc_science::nc_17236_742036::18054 (++A)
+
+...ndusest sootuks . Võrdväärsete elementide dramaturgias pole  {ükski}  teisele allutatud [ vt. Visuaalne teater ... 1991 : 26-34 ]...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ükski', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17242_742175::18623 (+)
+
+... projekti kandvamaid mehi . Eesti töörühmas nihkus huvikese  {1980-ndate}  aastate lõpul samuti teisale , mõistatuste juurde , ja kümn...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['1980=s', 'O', 'pl g']
+v1_6_morph_analysis_flat    ['1980.', 'O', 'pl g']
+
+=====================================================================================
+
+nc_science::nc_17246_742216::18835 (++A)
+
+...kem ka internetti ning loevad võrguväljaandeid , kuid mitte  {ükski}  elulaadi tüüp ei ole selgelt orienteeritud vaid uue meedia ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ükski', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17250_742262::19139 (++A)
+
+...lka . Kanada Ontario osariigis on laste liiklusohutuse kava  {üks}  jalakäijate ja jalgratturite ( kergliikluse ) liiklusohutus...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_1870_131684::19676 (++A)
+
+...tähtis kas ta on « oma isa-ema ainukene vara » , nagu ütleb  {üks}  vana vemmalvärss , või on vanematel peale tema veel muudki ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_1898_132841::19747 (++A)
+
+...iidi kogu oma täiuslikkuses kindlakäeliselt läbi . See ongi  {üks}  asi , mis mulle on Looduse juures meeldinud - ta teeb ära ....
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_3935_233218::20885 (?)
+
+...ühja vallamaja ukse taha jääda .\n\nVallavalitsustes on tihti  {ühes}  kindlas valdkonnas tööl üks inimene , kes samuti suvel puha...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg in']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg in']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_4467_275766::21128 (+)
+
+...e tunnistusi ja sellest tuli ka ajalehes lõpuks kirjutada .  {1970ndatel}  enam ei tahetud iga hinna eest kinni panna .\n\nGULAGis käisi...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['1970=s', 'O', 'pl ad']
+v1_6_morph_analysis_flat    ['1970.', 'O', 'pl ad']
+
+=====================================================================================
+
+nc_periodicals::nc_5988_340794::21596 (++A)
+
+...juks ei läinud kõigil nii lihtsalt . Eile pärastlõunaks oli  {üks}  inglaste meeskond juba ööpäeva piiril seisnud .\n\nAvo Leoki ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_6711_400579::22583 (-)
+
+...ndali hullumeelsed tantsutüdrukud . Nimelt on toimumas juba  {7-s}  kord pidu seeriast No Limits . Kuumaverelised tantsutüdruku...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['7', 'N', 'sg in']
+v1_6_morph_analysis_flat    ['7.', 'O', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405677::22685 (++A)
+
+...a kõigis Eesti maakondades . Iga Euroopa päev on pühendatud  {ühele}  EL viieteistkümnest liikmesriigist .\n\nJärgmine Euroopa päev...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg all']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg all']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg all']
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405728::22736 (?)
+
+...iglase hinnangu . " Selge moraalne hinnang meie ajaloole on  {üks}  samm ka adekvaatse ajaloopildi kujunemise suunas , " sõnas ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405836::22858 (-)
+
+...tchingut  3 korda nädalas , endist taset saad säilitada 1-2  {korraga}  nädalas . Kui teed venitusharjutusi järjepidevalt , suurene...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['kord', 'S', 'sg kom']
+v1_6_morph_analysis_flat    ['korraga', 'D', '']
+
+=====================================================================================
+
+nc_periodicals::nc_8356_522115::23909 (-)
+
+..., 80 ) . Pärnu kaksikõdedest Põldsamidest võitis Kristi 1 .  {64-ga}  kõrgushüppe ja Helen 5 . 41-ga kaugushüppe . Kõik nimetatud...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['64', 'N', 'sg kom']
+v1_6_morph_analysis_flat    ['64.', 'O', 'sg kom']
+
+=====================================================================================
+
+nc_periodicals::nc_9212_578538::24647 (+)
+
+... . ”\n\nNooremal õel tarvis puhata\n\nJooksuvõistluse 8. kohalt  {13ndaks}  langenud 20-aastane Katrin Shmigun harjutab vanema õega võr...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['13=s', 'O', 'sg tr']
+v1_6_morph_analysis_flat    ['13.', 'O', 'sg tr']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588913::24966 (++A)
+
+...indraleid kümnete kaupa , keegi ütleb , et meil on siin jah  {üks}  vana haud , nüüd baltisakslased ise tundsid huvi ... Baltla...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588921::25280 (++)
+
+...a Roerich-mõtleja . ”\n\nKunst , õigus ja ajalugu\n\nPeterburis  {muinas-skandinaavia}  juurtega peres sündinud Nikolai Roerichi andekus ja teadmis...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['muinas-skandinaavia', 'G', '']
+v1_6_morph_analysis_flat    ['muinas_skandinaavia', 'G', '']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588951::25659 (+)
+
+...usega juba tulevase jätkuarendusprojekti sisu ja võimalikke  {rahas-tamisallikaid}  . Selle projekti suurimaks tulemiks ongi see , et vaatamata...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['rahas-tamis_allikas', 'S', 'pl p']
+v1_6_morph_analysis_flat    ['rahastamis_allikas', 'S', 'pl p']
+
+=====================================================================================
+
+nc_periodicals::nc_9704_604601::25887 (+)
+
+...ukaks osutunud UEFA karikasarja Levadia läbis kaks ja Flora  {ühe}  ringi esimeses eelringis pole veel selgunud ....
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+web13::web13_238372_x::26628 (+)
+
+...süües. käisime ühes forellipüügikohas, noppisime ühe 2,7-se  {forelli}  välja ja maksime kuus-kaks-viis. aga neetud, kus oli hea! s...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['forell', 'S', 'adt']
+v1_6_morph_analysis_flat    ['forell', 'S', 'sg g']
+
+=====================================================================================
+
+web13::web13_313984_x::28341 (+)
+
+...eitjaid!\n\n21 aprill 2012 leidis Hannes ja Henrik [uuspoiss]  {Üks}  uusi lemmikuid! Ilus koht, omamoodi tühjus. Aitäh kutsumast...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'N', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+web13::web13_342653_x::29212 (++A)
+
+...Jumala võimu ja olemasolu mõista ei ole tingimata vaja veel  {ühegi}  usundi jünger olla. Läbi aegade on inimesed kummardanud Jum...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+
+=====================================================================================
+
+web13::web13_344225_x::29390 (++A)
+
+...la. Üks nöör neli otsa.. üks nöör neli otsa.. ebakurjus.\n\n*  {Üks}  nöör, neli otsa.. saate aru? See ei ole võimalik, ja ometi ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'N', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+web13::web13_355845_x::30236 (+)
+
+...gi ülalpeetvate jaoks ja neid tuleb aina juurde!\n\n1 vastus\n\n {Ühe}  olulise aspekti jätsid välja toomata - nimelt on meil arsti...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+web13::web13_357760_x::30325 (--)
+
+...a nes ja android mänge N900 peal...lisaks saan helistada ka  {haha}  :D wateva :D mis vahe sel on mis sulle või mulle meeldib? !...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['hahk', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['hahk', 'A', 'sg g']
+
+=====================================================================================
+
+web13::web13_365909_x::30591 (+)
+
+...a".\n\nLoodan, et ma ei ole valesti aru saanud, aga kas selle  {blogi}  üks eesmärke mitte ei ole olnud suunata inimesi mõtlema ene...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['blog', 'S', 'adt']
+v1_6_morph_analysis_flat    ['blog', 'S', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['blogi', 'S', 'sg g']
+
+=====================================================================================
+
+web13::web13_365909_x::30598 (-)
+
+...ssi.\n\nVõibolla on teil jah õigus oma koma kohtadega nokkida. {Andestust}  HÄRRASED klaver ei tööta hästi.Ups mida ma nüüd ütlesin kla...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['andestus', 'S', 'sg p']
+v1_6_morph_analysis_flat    ['Andestus', 'H', 'sg p']
+
+=====================================================================================
+
+web13::web13_376680_x::30825 (++A)
+
+...otsimata. Kuid selleks on hea olla valmis ja avatud. Valmis  {ühe}  hetkega teemat vahetama ning hea motiivi üles noppimiseks v...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ühe', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+
+=====================================================================================
+
+web13::web13_406254_x::31344 (-)
+
+...asu pingutada, sest rasseerimine ikkagi ärritab nahka.\n\nK.\n\n {25.04.10}  / 22:35\n\nKui sa tunned ennast nii enesekindlamalt ja paremi...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['25.04.10', 'N', '?']
+v1_6_morph_analysis_flat    ['250410', 'N', '?']
+
+=====================================================================================
+
+web13::web13_407239_x::31353 (++A)
+
+...äev.\n\nMrt parandas kohe hommikul ära paar tooli, mille meil  {üks}  varasem väimeespoiss siin katki kiikus (üks tool on veel la...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+web13::web13_436281_x::32013 (-)
+
+...atuuris täiesti ära ning selle sai ka korda tehtud.\n\nKiku -  {15.05.12}  10:01\n\nPane nüüd korralikumad pildid velgedest.\n\nsibidisah ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['15.05.12', 'N', '?']
+v1_6_morph_analysis_flat    ['150512', 'N', '?']
+
+=====================================================================================
+
+web13::web13_472960_x::32893 (--)
+
+...e loosungitega? Lääs ei ole oma tõbest enam ravitav ( vt ka  {J.Stiglitz}  Lääne kriisist). Liigne optimism Lääne inimeste demokraatia...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['J.Stiglitz', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['J. _Stiglitz', 'H', 'sg n']
+
+=====================================================================================
+
+web13::web13_474132_x::32987 (++A)
+
+...dav et võõral maal tegutsevatele muulaste jaoks on see kõik  {üks}  nali.. kodakondsusamet võiks karmistada sisserände taotluse...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+web13::web13_500048_x::33582 (++A)
+
+... usklike peres – talle oli koht kätte näidatud! Veel meenub  {üks}  vend, keda Püha Vaim selles küsimuses vahele võttis ja oma ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+web13::web13_516360_x::33764 (-)
+
+...a ei taba naela pea pihta teised seletused, nagu Kasesaare,  {Kasehari} , Kasari (-ka ja hari). Kõigil neil puudub enam, vähem alus ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Kase_hari', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['Kasehari', 'H', 'sg g']
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Kasehari', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['Kasehar', 'H', 'sg g']
+
+=====================================================================================
+
+web13::web13_532630_x::33991 (++A)
+
+...i tajutavam ja käega katsutavam. Tegelikult on keha ja hing  {üks}  tervik, mida ei saa kuidagi eraldada. Seega kui me kõneleme...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+web13::web13_553903_x::34394 (++A)
+
+...st on meeles 2 ainult asja - läbilõikav külm tuul ja mugud.  {Ühel}  hetkel oli kasu geopeitusest Viljandimaal ja teisel hetkel ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg ad']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg ad']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg ad']
+
+=====================================================================================
+
+web13::web13_597900_x::35509 (++A)
+
+...siis üldisemalt. Mikk kirjutab hästi ja ilustamata,respect.  {Üks}  küsimus: Kui maailmas ringi rännata,siis ju näeb ka võraste...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+web13::web13_629501_x::36174 (+)
+
+... ikka jäänud vanade heade albumite juurde 80ndate lõpust ja  {90ndate}  algusest. Ma ei jälgi eriti skenes toimuvat, nii et võib-ol...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['90=s', 'O', 'pl g']
+v1_6_morph_analysis_flat    ['90.', 'O', 'pl g']
+
+=====================================================================================
+
+wiki17::wiki17_106071_x::36628 (++A)
+
+...uriti kuuauto vastupidavust startimise pingetele, ning veel  {üks}  mudel, millega testiti kõigi kuuauto alamsüsteemide koostöö...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_121618_x::37263 (+)
+
+...ema tiitliga.\n\nRaul Vinni, "Aasta ema on Marit Tarkin", Oma  {Saar} , 9. mai 2009\n\nRaul Vinni, "Aasta ema tahaks olla nagu vihma...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Saar', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['saar', 'S', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_138990_x::38042 (-)
+
+....\n\nLutsu sulest ilmus rohkesti följetone ja vesteid (kogud " {Kirjamapp} ", 1924; "Vana kübar", 1927; ja "Kuidas elate? ", 1930), las...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['kirja_mapp', 'S', 'sg n']
+v1_6_morph_analysis_flat    ['Kirja_mapp', 'H', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['Kirjamapp', 'H', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_142339_x::38189 (++A)
+
+..."Avatud ühiskond ja selle vaenlased" saksa keelde, kirjutas  {ühele}  prantsuse entsüklopeediale artiklid "Metodoloogia" ja "Lood...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg all']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg all']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg all']
+
+=====================================================================================
+
+wiki17::wiki17_146550_x::38325 (+)
+
+...el oli midagi, mis võiks mängureid ja arendajaid peibutada.  {Sony}  PSone'i saavutatud fännibaas, mis nüüd liikus edasi PS2-pla...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['Sony', 'H', 'sg n']
+v1_6_morph_analysis_flat    ['Sony', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_148974_x::38414 (++A)
+
+...idel istusid mehed, kes paistsid justkui rusutud. Ta rääkis  {ühega}  neist, kes esmapilgul ei suutnudki talle midagi vastata, va...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg kom']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg kom']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg kom']
+
+=====================================================================================
+
+wiki17::wiki17_150093_x::38457 (++A)
+
+...tav öine etendus Cinéscénie, kus kujutatakse Vendée ajalugu  {ühe}  perekonna saatuse kaudu.\n\n1978. aastal hakati Puy du Fou lo...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg g']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_160949_x::38891 (++A)
+
+...õnastust tuleks kindlasti parendada. Viiendas lauses esineb  {üks}  väike viga. Peatüki viimases lauses esineb üks kirjaviga, k...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_185591_x::39961 (+)
+
+...tnanokristall struktuure hakati uurima 1980-ndatel, millele  {1990-ndatel}  järgnes suur arv avaldatud artikleid nende sünteesi kohta. ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['1990=s', 'O', 'pl ad']
+v1_6_morph_analysis_flat    ['1990.', 'O', 'pl ad']
+
+=====================================================================================
+
+wiki17::wiki17_187660_x::40070 (-)
+
+...a oli panemata. Lisasin selle. Tuleb muidugi ka viide panna  {neile}  faktidele--Estopedist1 (arutelu) 15. mai 2015, kell 19:34 (...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['see', 'P', 'pl all']
+v1_6_morph_analysis_flat    ['tema', 'P', 'pl all']
+
+=====================================================================================
+
+wiki17::wiki17_35086_x::41390 (--)
+
+...http://arhiiv2.postimees.ee:8080/leht/00/04/06/uudised.shtm# {neljateistkymnes}  Mees, keda pole Eesti riigi jaoks olemas olnud]...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['neljateistkymne', 'S', 'sg in']
+v1_6_morph_analysis_flat    ['neljateistkymnes', 'S', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_45549_x::41789 (+)
+
+...Hiljem palus ta selle muuta "Phillipsi astronoomiks". Mitte  {ükski}  tema poolt Harvardis õpetatud kursusest ei jõudnud ametlikk...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ükski', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_47933_x::41875 (+)
+
+...õiks olla sõna "seeläbi" – parandab oluliselt loetavust.) 3) {Ükski}  teadaolev DNA polümeraas ei ole võimeline alustama täiesti ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['ükski', 'D', '']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_49373_x::41994 (+)
+
+...d end kunagi selles rollis eriti mugavalt. 1980 nägi Clarke  {ühes}  kohalikul esinemisel laulmas Dave Gahanit, kes esitas David...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'N', 'sg in']
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg in']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg in']
+
+=====================================================================================
+
+wiki17::wiki17_57359_x::42503 (-)
+
+...s on hõõglamp.\n\nElektrovaakumseadiste hulka kuuluvad samuti  {gaaslahenduslambid}  ja -ventiilid: elavhõbeventiil (elavhõbedast külmkatoodiga ...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['gaas_lahendus_lamp', 'S', 'pl n']
+v1_6_morph_analysis_flat    ['gaas_lahendus_lamp', 'A', 'pl n']
+
+=====================================================================================
+
+wiki17::wiki17_63968_x::42779 (++A)
+
+...eada on kaks säilinud Fra Mauro koostatud kaartide koopiat.  {Üks}  on Vatikani Raamatukogus olev merekaart, mille andis 1944. ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg n']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_74095_x::43153 (-)
+
+..."kreeklaste kirik" ja "uusplatonistlik kirik", võrdsustades  {nähtust}  müsteeriumikultuse, antiikreligiooni ja paganlusega) oli kr...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['nähtus', 'S', 'sg p']
+v1_6_morph_analysis_flat    ['nähtu', 'S', 'sg el']
+
+=====================================================================================
+
+wiki17::wiki17_74231_x::43162 (++A)
+
+...n Photography" ('Uued visioonid fotograafias') eksponeeriti  {ühes}  Collinsi tänava hotellis ning see oli tõenäoliselt esimene ...
+--- COMMON   --------------------------------------------------
+v1_4_morph_analysis         ['üks', 'P', 'sg in']
+v1_6_morph_analysis_flat    ['üks', 'P', 'sg in']
+--- EXTRA    --------------------------------------------------
+v1_6_morph_analysis_flat    ['üks', 'N', 'sg in']
+
+=====================================================================================
+
+wiki17::wiki17_87086_x::43573 (++)
+
+... 1844 Manchester) oli inglise keemik ja füüsik, nüüdisaegse  {molekulaar-atomistliku}  õpetuse rajajaid.\n\nJohn Dalton sündis vaeses kveekerite per...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['molekulaar-atom=istlik', 'A', 'sg g']
+v1_6_morph_analysis_flat    ['molekulaar_atom=istlik', 'A', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_89590_x::43700 (--)
+
+...jääb Läänemeri, umbes 400 m kirdesse jääb Vööla meri (Silma  {looduskaitseala} ).\n\nLooduskaitse Nõukogu otsus üksikute puude ja rändrahnude...
+--- MODIFIED --------------------------------------------------
+v1_4_morph_analysis         ['loodus_kaitse_ala', 'S', 'sg g']
+v1_6_morph_analysis_flat    ['loodus_kaitse_ala', 'S', 'sg p']
+
+=====================================================================================
+
+  Summary (v1_4 vs v1_6):
+     39  [++A] -- both correct, but v1_6 is ambiguous
+     2   [++]  -- both correct and not ambiguous
+     32  [+]   -- only v1_6 correct
+     18  [-]   -- only v1_4 correct
+     6   [--]  -- both incorrect
+     3   [?]   -- hard to tell

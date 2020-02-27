@@ -1,0 +1,1119 @@
+Differences by subcorpus:
+  1056873  (100.00%)   TOTAL
+
+  225442  (21.33%)    web13
+  223762  (21.17%)    nc_fiction
+  214998  (20.34%)    nc_science
+  204276  (19.33%)    nc_periodicals
+  188395  (17.83%)    wiki17
+
+Differences by annotation match type:
+  2247555  (100.00%)   TOTAL
+
+  1190682  (52.98%)    MISSING
+  695581  (30.95%)    COMMON
+  197231  (8.78%)    MODIFIED ['form']
+  104557  (4.65%)    MODIFIED ['pos']
+  59504  (2.65%)    EXTRA
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   nc_periodicals
+  20   nc_fiction
+  20   nc_science
+  20   web13
+  20   wiki17
+
+=====================================================================================
+
+nc_periodicals::nc_10114_622670::1242 (++)
+
+...ud eluviisid kasvatavad kordumatuid vilju : « No ma küll ei  {usu}  , et kellelgi teisel oleks ühemehenäitusel nii palju töid v...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_periodicals::nc_10385_634011::9408 (++A)
+
+...sid  Valvo Piilberg  ja  Aleksandr Danilov  ning Condor oli  {alistatud}  4 : 3. Tallinlastele tõid võidud veel  Jevgeni Fastov  ja  ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+
+=====================================================================================
+
+nc_periodicals::nc_11115_691234::28834 (++A)
+
+...uutunud . Ainult seda funktsiooni täitva ministeeriumi nimi  {on}  teine . Nüüdsest on see tööstuse , teaduse ja tehnoloogia m...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_periodicals::nc_11226_709387::31147 (++A)
+
+...ema hoone puudumisel on ka laeva teaduslik uurimine pooleli  {jäänud}  . Laev peab olema vaadatav alt ja pealt , eemalt ja lähedal...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+nc_fiction::nc_11675_731877::35674 (++A)
+
+...heajal olid ema-poeg teinud vabanenud tubades kiirremondi ,  {visanud}  välja lõplikult kõlbmatuks muutunud toolid-lauad ja diivani...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+nc_fiction::nc_11675_731877::39774 (++A)
+
+...iske linn kerkis nagu veest .\n\nTa oli lihtsalt kirja lauale  {jätnud}  , mõtles mees meelehärmis . Teadagi ei rõõmusta see naist ,...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+nc_fiction::nc_11675_731877::41834 (++A)
+
+...kida Kondi abielust .\n\nKas kolmkümmend pole hiljavõitu , ja  {kui}  siis naine võtta , on ilmselt sarved enam-vähem maha joostu...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+nc_fiction::nc_11686_731896::47311 (+)
+
+...a , kurat , siis jääb . Külmeta siin asja eest teist taga ,  {oma}  kolmkümmend kraadi võib külma olla , vaata , et varbaid jää...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg g']
+--- EXTRA    --------------------------------------------------
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+
+=====================================================================================
+
+nc_fiction::nc_11691_731957::58461 (+)
+
+...t Peetri pilgus oli rohkem nukrust kui uudishimu . See ajas  {Leena}  segadusse . Nad ei olnud sellest õhtusest võttest Peetriga ...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['H', 'sg n']
+neural_disamb_redux          ['H', 'sg g']  (POS=S|NOUN_TYPE=prop|NUMBER=sg|CASE=gen||S||sg g)
+
+=====================================================================================
+
+nc_fiction::nc_11691_731957::58494 (++A)
+
+...i vahel tagasi endasse , aga oli sellest ka kasu ? Tihti ei  {leidnud}  ta iseendas vastuseid . Üksindus oli siis vaevav , tühjuse ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'neg nud']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=impf|VERB_PS=ps|VERB_POLARITY=neg||V||neg nud)
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::71399 (++A)
+
+..., et ta saaks mind võtta jõuga - nii meeldis talle rohkem .  {Kui}  ma ei hakanud , peksis ta mind . Kuid sellegagi ma harjusin...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::75551 (++A)
+
+...gnest nägi Zmaiko Handridis vaid mõne üksiku viivu , nad ei  {otsinud}  kumbki võimalust teineteisega juttu ajada . Ainult Vena tea...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'neg nud']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=impf|VERB_PS=ps|VERB_POLARITY=neg||V||neg nud)
+
+=====================================================================================
+
+nc_fiction::nc_11719_732138::84494 (+)
+
+... midagi . Oli see naine tõepoolest parem pokkerimängija kui  {tema}  ? Raske nagu uskuda ! Või pettis ta silm seekord ? Seda oli...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg g']
+neural_disamb_redux          ['P', 'sg n']  (POS=P|NUMBER=sg|CASE=nom||P||sg n)
+
+=====================================================================================
+
+nc_fiction::nc_11760_732723::118039 (-)
+
+...sjaga toime — mis pagana pärast ei võiks siis ka tema ? ! "  {—}  Tähendab , maavanem ei tundnud mind esimese hooga ära . Aga...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+
+=====================================================================================
+
+nc_fiction::nc_11760_732723::126898 (++A)
+
+...ingisuguseid kõrvalisi asju . Kuni selleni , et Mihkel , ta  {on}  mulle järgnenud , mis tähendab , et ma olen ka tema teisele...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_fiction::nc_11799_733038::152913 (++A)
+
+...sealune kolikamber elatavaks kohendada . Antoni venna naine  {arvanud}  , et sellest ei saa midagi , tarvis nagu lehekuulutusi uuri...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+nc_fiction::nc_11799_733038::155260 (++A)
+
+...sosinal küsinud , kui Killu minema kiirustas . Ei , sest ta  {on}  mu pinginaabri röövinud , vastas Killu . Oh ei , sa oled al...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::164963 (++A)
+
+... oska vastata küsimustele : mis on hea ? Mis on inetu ? Mis  {on}  suur , tugev või nõrk ? Meie ei tea ... meie ei tea !!! Kui...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_fiction::nc_11805_733120::167706 (++)
+
+...s kaasale nagu millegi üle aru pidades otsa vaatama . " Ära  {karda}  , suitsupakiga ma toda oma mäletamist mööda küll segi pole ...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=imper|TENSE=pres|PERSON=ps2|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::175120 (-)
+
+... suur ja tähtis kui Tartu . Punased sooned lähevad temast :  {üks}  itta Puhja ja Tartu peale ( seda mööda sai Viljandi teatris...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['N', 'sg n']
+neural_disamb_redux          ['N', 'sg n']  (POS=N|NUM_TYPE=card|NUMBER=sg|CASE=nom|NUM_FORM=l||N||sg n)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11842_733511::209653 (++)
+
+...d tundeid , lõhnu ja värve on antud sulle elus kogeda . Või  {pole}  sulle üldse neid antud , juhtub ka seda , ja ka siis saab e...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'neg o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::218250 (+)
+
+...a ju klaase lõime kokku , kas sellest ei piisa ? "\n\n" Lõime  {või}  ? "\n\n" Lõime , sa ei pannud tähele . "\n\n" Siis küll . "\n\nSi...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+
+=====================================================================================
+
+nc_fiction::nc_11850_733654::235731 (++A)
+
+...ategijaid otsida . Kuid ülemus oli kindlal veendumusel , et  {just}  siit , Jõeperelt ning selle naisterahva kaudu hakkab asi ha...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['I', '']
+
+=====================================================================================
+
+nc_fiction::nc_11855_733725::241265 (+)
+
+...lge , teine lillakaspunane . Nägugi oli kehaga ühte moodi .  {Miili}  enda seletust mööda oli see kahjutulest , mida ema tema kan...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['H', 'sg n']
+neural_disamb_redux          ['H', 'sg g']  (POS=S|NOUN_TYPE=prop|NUMBER=sg|CASE=gen||S||sg g)
+
+=====================================================================================
+
+nc_periodicals::nc_1468_109503::266852 (++A)
+
+... vahel ühte jalga ei käi .\n\nMärtsis ja mais firma Saar Poll  {korraldatud}  küsitlus näitas , et valitsust peab usaldusväärseks pool Ee...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+neural_disamb_redux          ['A', '']  (POS=A|DEGREE=pos||A||)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+v1_6_morph_analysis_redux    ['V', 'tud']
+
+=====================================================================================
+
+nc_science::nc_17123_740671::291079 (++A)
+
+... tulemusi . Valimi moodustasid 11-18 aasta vanused lapsed ,  {kellel}  oli eelnevalt pere- või kooliarst tuvastanud vererõhu kõrge...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl ad']
+neural_disamb_redux          ['P', 'pl ad']  (POS=P|NUMBER=pl|CASE=ad||P||pl ad)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg ad']
+
+=====================================================================================
+
+nc_science::nc_17123_740813::301091 (-)
+
+...eresoonte embolisatsiooniks kasutatakse tahkeid materjale (  {plaatina}  mikrokoile , mikroballoone ) . On kirjeldatud ka vedelikadh...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg g']
+neural_disamb_redux          ['S', 'sg es']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=es||S||sg es)
+
+=====================================================================================
+
+nc_science::nc_17123_740837::304040 (++A)
+
+...ssifikaatides , ka juhul kui ossifikaat oli tekkinud rohkem  {kui}  5 aastat tagasi .\n\nJäreldus . Heterotoopsetes ossifikaatide...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+nc_science::nc_17138_741156::321925 (+)
+
+...iinid saavad selle mõisteta edukalt ka hakkama ) . Ometi ei  {julge}  ükski ( vähemalt pragmaatiline ) bioloog väita , et elu pol...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_science::nc_17138_741156::323791 (-)
+
+...selt ka hulga juriidilisi tehinguid , ilma et nad teaksid ,  {mida}  seadus neist arvab või kas need on üldse õiguspärased . Näi...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl p']
+neural_disamb_redux          ['P', 'pl p']  (POS=P|NUMBER=pl|CASE=part||P||pl p)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg p']
+
+=====================================================================================
+
+nc_science::nc_17139_741161::333567 (+)
+
+...sest . Küll aga märgitakse positiivset seost mullas liikuva  {magneesiumi}  ja huumusesisalduse vahel ( Jakovski , 1973 ; Palkaln , 197...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg p']
+neural_disamb_redux          ['S', 'sg g']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=gen||S||sg g)
+
+=====================================================================================
+
+nc_science::nc_17139_741161::334213 (++A)
+
+...se suurendamine ( 140 kg ha-1 ) aga tõi kaasa nii kaltsiumi  {kui}  ka magneesiumi suurema eemaldumise mullast . Kaltsiumi eema...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+nc_science::nc_17152_741254::369893 (-)
+
+..." ( näit kohaliku omavalitsuse finantshalduse küsimused ) .  {—}  Vt K. Hernekamp . Op . cit . , S. 78. Käesoleva töö autori ...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['Y', '']  (POS=Y|ABR_TYPE=nominal||Y||)
+
+=====================================================================================
+
+nc_science::nc_17152_741254::371135 (-)
+
+...tesaadav :  , 5. juuli 2001. a ; Reformierakonna programm .  {—}  Arvutivõrgus . Kättesaadav :  , 5. juuli 2001. a ; Tartu on...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+
+=====================================================================================
+
+nc_science::nc_17153_741265::374762 (++A)
+
+...iir 2680 Hz kohalt , kuid ka ümardamata � ja � F3 väärtused  {on}  sellest madalamad .\n\n3.3.2.2. Naiskeelejuht SJ\n\nNaiskeeleju...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+neural_disamb_redux          ['V', 'vad']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=pl|VERB_PS=ps|VERB_POLARITY=af||V||vad)
+
+=====================================================================================
+
+nc_science::nc_17154_741272::377759 (++A)
+
+...giseerimistööst ning otsivad vastuseid selle tööaja jooksul  {tekkinud}  küsimustele . Nii võrreldakse töös arhiivitekste omavahel (...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+neural_disamb_redux          ['A', '']  (POS=A|DEGREE=pos||A||)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+v1_6_morph_analysis_redux    ['V', 'nud']
+
+=====================================================================================
+
+nc_science::nc_17164_741348::384360 (+)
+
+... määral kultuuriliselt determineerituteks ning seepärast ei  {usu}  , et koolitus ja treening võimaldavad neid muuta ( 1980 : 1...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_science::nc_17164_741348::384898 (-)
+
+...tz , Cohen , Edley , 1997 ) . Doktorandi arvates on eespool  {toodud}  uurimustele tuginedes õigustatud väide , et rahvuskultuur o...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+nc_science::nc_17211_741801::427853 (++A)
+
+...d tavaline . Pilved ongi umbes nendel kõrgustel , kus muidu  {on}  kõige enam osooni . Kokkuvõttes väheneb osooni koguhulk atm...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_science::nc_17225_741953::433838 (++A)
+
+...sinatsioonid on episoodilised ja fragmentaarsed ; käitumine  {on}  inadekvaatne ja impulsiivne ning tavaliselt maneerlik . Mee...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_science::nc_17225_741953::434723 (++A)
+
+... sümptomiteta\n\nDiagnostilised juhised\n\nKindlaks diagnoosiks  {on}  vajalik :\n\n( a ) korduva depressiooni ( F33.- ) kriteeriumi...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_science::nc_17236_742036::442803 (++A)
+
+...määral ritualiseeritud ja teatraliseeritud . Inimese elu on  {pööratud}  väljapoole , privaatsuse sfäär on kitsas , ka eraelu on põh...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+
+=====================================================================================
+
+nc_science::nc_17246_742209::457360 (++A)
+
+.... Läksin sealt sisse , vaatan , et liinile on silmused üles  {pandud}  . Sellised tänapäevased , puu on võetud ja traadist ( 0,5 -...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+
+=====================================================================================
+
+nc_science::nc_17256_742304::473843 (-)
+
+...loogiline , kuhugi suunduv , mingi teadaolev eesmärgi poole  {suunatud}  . Algusest peale lõppu ette teadev Jumal on teadlik kogu in...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+
+=====================================================================================
+
+nc_science::nc_17256_742304::477765 (++A)
+
+... Ida “ mõte ” lihtsalt on selline .\n\nÖelda , et mõned asjad  {on}  ühtsemad kui teised , on üks moodus ütlemaks , et tõelisus ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+neural_disamb_redux          ['V', 'vad']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=pl|VERB_PS=ps|VERB_POLARITY=af||V||vad)
+
+=====================================================================================
+
+nc_periodicals::nc_1791_127494::483637 (-)
+
+...bedane kate .\n\n« Lepingu variante töötatakse praegu välja ,  {»}  jätkab Aava mornilt . « Vaidlesime pikka aega tingimuste ül...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['D', '']  (POS=D||D||)
+
+=====================================================================================
+
+nc_periodicals::nc_2273_137517::492675 (++A)
+
+...ik\n\nTallinna Kalevi eestvedamisel korraldatakse aprillis ja  {mais}  orienteerumise nõuandekursus . Juhtnööre annavad treenerid ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['S', 'pl in']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg in']
+neural_disamb_redux          ['S', 'sg in']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=in||S||sg in)
+
+=====================================================================================
+
+nc_periodicals::nc_255_28040::495960 (++A)
+
+...llaheitlikud . Siis kindlasti ei saa , kui ei üritagi , see  {on}  kindel . Siis kindlasti ei saa , kui me Euroopa Liidu liige...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_periodicals::nc_3790_217452::511257 (++A)
+
+...n majandusedust hoolimata lõhestunud riik .\n\nFormaalselt on  {Teises}  maailmasõjas hukkunute mälestuseks Tõnismäele püstitatud pr...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['O', 'sg in']
+neural_disamb_redux          ['O', 'sg in']  (POS=N|NUM_TYPE=ord|NUMBER=sg|CASE=in|NUM_FORM=l||O||sg in)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_4692_286015::522728 (-)
+
+...Ferrari esipiloot Michael Schumacher oskas vormel 1  {sarja}  Kanada GP-l kõik üle kavaldada .\n\nAjasõidus sai ta kõigest ...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg g']
+neural_disamb_redux          ['S', 'sg p']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=part||S||sg p)
+
+=====================================================================================
+
+nc_periodicals::nc_5478_329091::530501 (++A)
+
+...päevalehe The Times teatel teeb ajakirjanik Andrew Morton ,  {kes}  on kirjutanud raamatu printsess Dianast , “ Diana , Her Tru...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg n']
+neural_disamb_redux          ['P', 'sg n']  (POS=P|NUMBER=sg|CASE=nom||P||sg n)
+
+=====================================================================================
+
+nc_periodicals::nc_6660_390599::551469 (++)
+
+...uudkui kasvas ja kasvas . Tekkis nõiaring . Tundsin , et ma  {pole}  süüdi paljudes asjades , mis naine mulle kaela määris . Sii...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'neg o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+nc_periodicals::nc_6660_390604::551751 (++A)
+
+...ud väga tugevad . Et sellest pahest oleks kergem vabaneda ,  {on}  WHO ( Ülemaailmse Tervishoiu Organisatsiooni ) välja töötan...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405611::557357 (++A)
+
+... need tulevad Siffi poolt . Siff oli ühel päeval Käo Jürile  {helistanud}  . Küsisin , kas rääkisite ka BRSist , Jüri ütles , et olid ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+nc_periodicals::nc_7193_447797::563723 (++A)
+
+...jõuda . Peaks hoopis vaatama , kuidas saaksime konkureerida  {teiste}  riikide vedajatega . Lätlased tambivad meid , leedulased , ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['O', 'pl g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl g']
+neural_disamb_redux          ['P', 'pl g']  (POS=P|NUMBER=pl|CASE=gen||P||pl g)
+
+=====================================================================================
+
+nc_periodicals::nc_8230_513562::584100 (-)
+
+...pildumise eest Pariisi kesklinnas pärast avamispidustusi .\n\n {Üks}  teine Euroopa ohtlikumate vutifännide nimekirja kuuluv šotl...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['N', 'sg n']
+neural_disamb_redux          ['N', 'sg n']  (POS=N|NUM_TYPE=card|NUMBER=sg|CASE=nom|NUM_FORM=l||N||sg n)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_8231_513581::584475 (-)
+
+... õhtuks politseiametisse jõudnud ühtegi teadet mõne surmaga  {lõppenud}  avarii kohta . " Lumi ei ole veel nii hull , see teeb juhid...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+nc_periodicals::nc_8831_559519::594114  (++A)
+
+... magnetribale sisaldab kaart protsessorit . British Telecom  {on}  koostöös kahe suurema Suurbritannia panga , National Westmi...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588921::621438 (-)
+
+...ult ettevõtte ( loe : liberalismi ) “ huvide ” teenimine on  {õigustatud}  ja sallitav . ”\n\nPeale eeltoodu on raamatu retsensendid eks...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+neural_disamb_redux          ['V', 'tud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=imps||V||tud)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588962::635188 (+)
+
+...odi olete kümne aastaga läbinud ?\n\nInimkonna algusest peale  {kuni}  peaaegu viimaste sündmusteni . 3. novembri “ Ajalootund ” o...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['K', '']  (POS=K||K||)
+
+=====================================================================================
+
+web13::web13_227129_x::651622 (++A)
+
+...ide laekumisega raskusi olnud, kogemusi jagama. Mida rohkem  {on}  teada sellistest juhtumitest, seda rohkem on võimalik leida...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+web13::web13_279612_x::670278 (-)
+
+... jäi aarde võimalik peidik silma ja seal ta oligi. evej\n\n13  {mai}  2007 leidis Carolina, Aigar ja Andreas [katsulas] Aina vähe...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg n']
+neural_disamb_redux          ['S', 'sg g']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=gen||S||sg g)
+
+=====================================================================================
+
+web13::web13_313272_x::687851 (++A)
+
+...ilistele käsuliinidele. Kogu probleem langeks suuresti ära,  {kui}  õigus oleks Edgar Savisaarel ning kapo detailne teave rajan...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+web13::web13_348163_x::718743 (++)
+
+...te selliste sulastega?\n\nVasta\n\nto jah\n\n06.05.2012 19:04\n\nMa  {pole}  loom kirjutas:\n\nMina küll ei pea ennast üheks liigiks looma...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'neg o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_357135_x::734086 (++A)
+
+...beleda, siis meie valitsus korrutas et kõik on korras ja et  {kui}  meil on kriis siis peaminister sellises kriisis tahakski el...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+web13::web13_364394_x::738317 (++A)
+
+...telekat kinni pannes enam ühtki säravat mõtet - proovisin.\n\n {Kui}  nüüd järele mõtlen, olen sarnast varemgi kogenud. Täpselt s...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+web13::web13_385444_x::748540 (++A)
+
+...rman Taltsi ajal olid põhiliselt puidust lamavtarud, praegu  {on}  palju penost korpustarusid. Need ei ole üks ja sama. Kui ol...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+web13::web13_390635_x::750357 (++A)
+
+... vahepeal nii lähedal, et oleks peaaegu su auto läbisõitugi  {näinud}  Rohelisega polnud- oranzi supermotoga, cabrio puhkas seekor...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+web13::web13_392630_x::750968 (++A)
+
+...d sa harjunud temast mõtlema teatud viisil - mis inimene ta  {on} , mis mulje ta sinule oma tegudega jätnud on, kuidas ta sinu...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+web13::web13_407355_x::756199 (++A)
+
+...uputas karjak või brigadir otsekohe kõik leitud pesakonnad.  {Virtsahoidlasse} , mis nii viieaastasele kui praegusele minule eriti kohutav ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['S', 'adt']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg ill']
+neural_disamb_redux          ['S', 'sg ill']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=ill||S||sg ill)
+
+=====================================================================================
+
+web13::web13_434135_x::766679 (+)
+
+... keskmise kõvasti) mära, kellelt omanikud ilmselt varssa ei  {võta}  (hobihobune). Sobiva täkuga peaks sealt väga hea järglase s...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_474142_x::791137 (++A)
+
+... eriti raske tuletus kasvõi klassipilte vaadates, 4-9 klass  {on}  ikka üsna räige visuaalse küpsusastme vahe. :)\n\nVasta\n\nRääg...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+web13::web13_479545_x::798309 (++)
+
+...s ENDA rahadega Aafrikasse. Kahju kohe neist lastest, kelle  {pole}  peale kaltsude midagi ja luud ainult paistavad. Telekast va...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'neg o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_481536_x::801135 (++A)
+
+...stid saaks edasi elada oma elukorralduse järgi.\n\nÜhesõnaga,  {kui}  Eesti tahaks muu maailma parasiidid enda kukilt maha raputa...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+web13::web13_482850_x::803462 (++A)
+
+... on seal ikka üsna karmid – elasime ka üle öise liivatormi,  {mille}  tõttu enamus delegatsioonist tõusis hommikul telgis üles üs...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg g']
+neural_disamb_redux          ['P', 'sg g']  (POS=P|NUMBER=sg|CASE=gen||P||sg g)
+
+=====================================================================================
+
+web13::web13_504045_x::806077 (+)
+
+...mingas\n\n23.10.2012 22:21\n\nvelts kirjutas:\n\npäris nii see ei  {ole} , osta pc ja mis see maksab aasta pärast, osta mac ja mis se...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_511682_x::807627 (?)
+
+...linnapeale kuulutama minna.\n\nNo tõesti, kuradi faking happy  {hannuca} . Tööl avastasin tõsiasja, et enamus seal töötavatest inimes...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg n']
+--- EXTRA    --------------------------------------------------
+neural_disamb_redux          ['T', '']  (POS=T||T||)
+
+=====================================================================================
+
+web13::web13_570271_x::830376 (+)
+
+...s poliitilisele prügimäele. Aatelised eesti vanainimesed ei  {andesta}  erakonna rüppe pugenud noortele sulidele iialgi. Mart Laar ...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_578453_x::834918 (++)
+
+...et ma ei ole selline beibelik. Klubid-pubid ja kallid autod  {pole}  kunagi huvitanud. Ülikoolis õppisin loodusteadusi. Olen pig...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'neg o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+web13::web13_607316_x::854451 (++A)
+
+...ositiivseid kogemusi, kuid kõige negatiivsemad neist ei ole  {olnud}  sugugi müüjate tõttu, vaid hoopis klientide süül! Olen näin...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+wiki17::wiki17_129353_x::896264 (++A)
+
+...äe kui ka kogu Eesti suurimaid eestikeelseid koole. Kool on  {tegelenud}  1989. aastast saati Lasnamäe laulu- ja tantsupidude korrald...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+wiki17::wiki17_137104_x::904706 (++A)
+
+...guslikust elanikkonnast ja lõpptulemusena sai Higgins 56,8%  {antud}  häältest.\n\nSoome pealinnas Helsingis algas kolm päeva keste...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'tud']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+neural_disamb_redux          ['A', '']  (POS=A|DEGREE=pos||A||)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+
+=====================================================================================
+
+wiki17::wiki17_155027_x::922003 (++A)
+
+...gi laiemas tähenduses on reaalsus kõik (everything), mis on  {olnud}  olemas, on olemas või saab olemas olema (has existed, exist...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'nud']  (POS=V|VERB_TYPE=main|VERB_FORM=partic|TENSE=past|VERB_PS=ps||V||nud)
+
+=====================================================================================
+
+wiki17::wiki17_161457_x::928383 (++A)
+
+...urumasina leiutamist 18. sajandil.\n\nKetassae leiutaja kohta  {on}  lahknevaid andmeid. 1777. aastal sai inglane Samuel Miller ...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+wiki17::wiki17_165128_x::931851 (+)
+
+...le. Kuna me oleme kokku leppida, et vikipeediale viidata ei  {tohi} , sest see pole usaldatav allikas, siis tuleb allikaviide vi...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=mod|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+wiki17::wiki17_167795_x::935013 (-)
+
+... Liisi Koiksoni Band, Tulli Lum, Sõpruse Puiestee jt), kuid  {kelle}  jaoks just Sitimaan annab võimaluse näidata oma ainulaadset...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg g']
+neural_disamb_redux          ['P', 'sg g']  (POS=P|NUMBER=sg|CASE=gen||P||sg g)
+
+=====================================================================================
+
+wiki17::wiki17_177434_x::943438 (+)
+
+...Nõmmküla (Rongid ei  {peatu} ) - 8,8 km Tamsalu - 14,9 km Kiltsi - 24,2 km Rakke - 36,0 k...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'o']
+neural_disamb_redux          ['V', 'neg']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg)
+
+=====================================================================================
+
+wiki17::wiki17_180571_x::950457 (++A)
+
+...llelegi, keda ma armastan. Kas mulle tõesti piisab sellest,  {kui}  ma mõtlen, et see tegu edendab liigi säilimist. Ma võin mõe...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+wiki17::wiki17_18414_x::954395 (-)
+
+...liuse kalendri asemel kasutusele Gregoriuse kalender.\n\n1773  {–}  James Cook vaatles India ookeanis esimest korda virmalisi.\n...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['Y', '']  (POS=Y|ABR_TYPE=nominal||Y||)
+
+=====================================================================================
+
+wiki17::wiki17_187379_x::958578 (++A)
+
+...laienenud teistelegi Vana-Vene riigi läänemeresoomlastele –  {teiste}  piirkondade vessidele ja vadjalastele. Vladimir Pimenov arv...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['O', 'pl g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl g']
+neural_disamb_redux          ['P', 'pl g']  (POS=P|NUMBER=pl|CASE=gen||P||pl g)
+
+=====================================================================================
+
+wiki17::wiki17_188269_x::959894 (-)
+
+...les.\n\nAga probleemiks on see, kas eri keeltes versioonid on  {kõik}  Uncyclopedia. Kui jah, siis ei ole tõsi esimeses lauses öel...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg n']
+neural_disamb_redux          ['P', 'sg n']  (POS=P|NUMBER=sg|CASE=nom||P||sg n)
+
+=====================================================================================
+
+wiki17::wiki17_193700_x::966171 (+)
+
+...av jünger Lustig lõplikult Baltikumist. Sõites rongiga läbi  {Saksamaa}  ja Belgia jõudsid nad Pariisi, kus Lustig asub Sorbonne'is ...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['H', 'sg n']
+neural_disamb_redux          ['H', 'sg g']  (POS=S|NOUN_TYPE=prop|NUMBER=sg|CASE=gen||S||sg g)
+
+=====================================================================================
+
+wiki17::wiki17_198132_x::970506 (++A)
+
+...u Vähemusrahvuste kaitse raamkonventsiooni. [1]\n\nTavaliselt  {on}  riigis vähemusrahvuste määramiseks ja nimetamiseks konkreet...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+wiki17::wiki17_203269_x::975141 (++A)
+
+...dmist ohtu Türgi riigi ilmalikele alustele. Keelustamine ei  {kogunud}  konstitutsioonikohtus nõutavat kvalifitseeritud häälteenamu...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['A', '']
+v1_6_morph_analysis_redux    ['A', 'sg n']
+v1_6_morph_analysis_redux    ['A', 'pl n']
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'nud']
+neural_disamb_redux          ['V', 'neg nud']  (POS=V|VERB_TYPE=main|MOOD=indic|TENSE=impf|VERB_PS=ps|VERB_POLARITY=neg||V||neg nud)
+
+=====================================================================================
+
+wiki17::wiki17_28644_x::985393 (-)
+
+.... Ordineeriti 17. märtsil 1902 õpetajaks.\n\nOli aastatel 1902 {–} 1919 Urvaste Püha Urbanuse koguduse õpetaja. Jättis rasketel...
+--- MODIFIED ['pos'] ------------------------------------------
+v1_6_morph_analysis_redux    ['Z', '']
+neural_disamb_redux          ['Y', '']  (POS=Y|ABR_TYPE=nominal||Y||)
+
+=====================================================================================
+
+wiki17::wiki17_51966_x::1010103 (+)
+
+... edendab arendajate ja kirjastajate püüdlus tagada lugejate  {rahulolu} . Lugejate rahulolu tagamiseks võetakse üle ning rakendataks...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['S', 'sg n']
+neural_disamb_redux          ['S', 'sg p']  (POS=S|NOUN_TYPE=com|NUMBER=sg|CASE=part||S||sg p)
+
+=====================================================================================
+
+wiki17::wiki17_56226_x::1015565 (++A)
+
+... projektil oleks lootust, peab see alustama kaugemalt. Kant  {ise}  ei alustanud mitte mõistuslike toimijate vajadustest, vaid ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['P', 'sg n']
+neural_disamb_redux          ['P', 'sg n']  (POS=P|NUMBER=sg|CASE=nom||P||sg n)
+
+=====================================================================================
+
+wiki17::wiki17_68128_x::1029832 (++A)
+
+...romaan, mis ilmus esmakordselt 1934. aastal. Romaani põhjal  {on}  loodud samanimeline muusikal ning seda on ka mitmel korral ...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'b']
+neural_disamb_redux          ['V', 'b']  (POS=V|VERB_TYPE=aux|MOOD=indic|TENSE=pres|PERSON=ps3|NUMBER=sg|VERB_PS=ps|VERB_POLARITY=af||V||b)
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['V', 'vad']
+
+=====================================================================================
+
+wiki17::wiki17_83270_x::1043465 (++)
+
+...ame looma võimu, kes pole rippuv rahvaesitusest, kes aga ei  {teotseks}  omast tahtest, vaid seaduslikult ja lojalselt, katkestas te...
+--- MODIFIED ['form'] -----------------------------------------
+v1_6_morph_analysis_redux    ['V', 'ks']
+neural_disamb_redux          ['V', 'neg ks']  (POS=V|VERB_TYPE=main|MOOD=cond|TENSE=pres|VERB_PS=ps|VERB_POLARITY=neg||V||neg ks)
+
+=====================================================================================
+
+wiki17::wiki17_99482_x::1056325 (++A)
+
+.... Suguküpsuseni jõuavad nad tavaliselt järgmiseks aastaks.\n\n {Kui}  metsnugis, nagu nimestki näha, on metsaloom, siis kivinugis...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_redux    ['D', '']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_redux    ['J', '']
+neural_disamb_redux          ['J', '']  (POS=SCONJ||J||)
+
+=====================================================================================
+
+  Summary:
+     57  [++A] -- both correct, but vabamorf is ambiguous
+     8   [++]  -- both correct and vabamorf is not ambiguous
+     16  [+]   -- only neuromorph correct
+     18  [-]   -- only vabamorf correct
+                  (including: 6 cases where punctuation was analysed as 'Y' ...)
+     1   [?]   -- hard to tell
+  

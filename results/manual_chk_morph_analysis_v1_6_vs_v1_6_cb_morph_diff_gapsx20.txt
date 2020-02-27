@@ -1,0 +1,1025 @@
+Differences by subcorpus:
+  227311  (100.00%)   TOTAL
+
+  53945  (23.73%)    nc_fiction
+  52667  (23.17%)    nc_science
+  49229  (21.66%)    wiki17
+  45438  (19.99%)    nc_periodicals
+  26032  (11.45%)    web13
+
+Differences by annotation match type:
+  321587  (100.00%)   TOTAL
+
+  177860  (55.31%)    MODIFIED
+  69745  (21.69%)    MISSING
+  51285  (15.95%)    COMMON
+  22697  (7.06%)    EXTRA
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   nc_periodicals
+  20   nc_fiction
+  20   nc_science
+  20   web13
+  20   wiki17
+
+ Legend:
+   [++A16]  --  both v1_6 and v1_6_cb correct (but v1_6 is ambiguous)
+   [++ACB]  --  both v1_6 and v1_6_cb correct (but v1_6_cb is ambiguous)
+   [+]      --  only v1_6_cb correct (includes: correct but ambiguous)
+   [-]      --  only v1_6 correct
+   [--]     --  both v1_6 and v1_6_cb wrong
+   [?]      --  hard to tell
+
+=====================================================================================
+
+nc_periodicals::nc_10148_624197::468 (++A16)
+
+...tapp oleks tülitada New Yorgi slummis jalutavat sonimütsiga  {Foremani}  üleoleva nõudmisega : kuule papi , pritsi suitsule tuld ! V...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Foreman', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Foreman', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Foremani', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_10148_624218::610 (+)
+
+...alasse , on finantseerijana lepingule alla kirjutanud Eesti  {Kohtuarstliku}  Ekspertiisibüroo ( KEB ) juhataja Jüri Kool .\n\nRemondiettev...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kohtu_arstlik', 'A', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kohtu_arstlik', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_10532_641980::1829 (?)
+
+...kub alates 1. detsembrist Elioni interneti püsiühenduse või  {Kodulahenduse}  kasutajatele viirusetõrjet ning tulemüüri soodsamalt .\n\nKoo...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kodu_lahendus', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kodu_lahendus', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_1103_89023::4294 (++A16)
+
+... istudes ei teadnud ma õhtusest Lasnamäe kampade kogunemise  {kohast}  mitte midagi . Piisas mõnest tunnist koolilastega rääkimise...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['koha', 'S', 'sg el']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['koht', 'S', 'sg el']
+v1_6_cb_morph_analysis_flat    ['koht', 'S', 'sg el']
+
+=====================================================================================
+
+nc_fiction::nc_11698_732036::14941 (+)
+
+...äinud sellel ööl Paszterkale . Ta vajas puhkust ja und ning  {Grpowskil}  oli hea meel , et naine üheteistkümne paiku ilma kaitsemärk...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Grpowskil', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Grpowski', 'H', 'sg ad']
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::17696 (+)
+
+...les ta : " Ah tema või ? Mitte keegi . "\n\nSeda oli ka naine  {Regonile}  öelnud - " Ma olen mitte keegi . Nüüd olen ma mitte keegi ....
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Regonile', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Regon', 'H', 'sg all']
+
+=====================================================================================
+
+nc_fiction::nc_11724_732210::22328 (?)
+
+...histas ta . " Vaata , asi on selles , et tegelikult pole ei  {Valet}  ega Tõde sellisel kujul olemas , nagu sina neid ette kujuta...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['vale', 'S', 'sg p']
+v1_6_cb_morph_analysis_flat    ['Vale', 'H', 'sg p']
+
+=====================================================================================
+
+nc_fiction::nc_11724_732210::23651 (?)
+
+...da . Ta järele haarata . Teda enese jaoks mõtestada .\n\nLäbi  {Olemise}  Mõtte leidsin ma tee ta noorema venna - elu mõtte juurde . ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['olemine', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Olemine', 'H', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11742_732450::25579 (+)
+
+... Käes ! " hüüab Katerina ja tõstab käe . Ja ta käes on sinu  {Visa}  Classicu kaart .\n\nSul hakkab lõug värisema .\n\n" Kas sellega...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['visa', 'A', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Visa', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11754_732540::28514 (+)
+
+...ohale ja kogu Galerii muutub laboriks ? "\n\n" Kogu planeet ,  {Magister}  , muutub laboriks , kui teile meeldib just seda sõna kasuta...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['magister', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Magister', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11767_732774::30610 (+)
+
+... . Muidugi ei tasu kunagi taolisi naiste poose ülehinnata .  {Seksuaalse}  eneseteadvuse taga kükitab teinekord kartlik hall hiireke ,...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Seksuaalne', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['seksuaalne', 'A', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Seksuaalse', 'H', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11787_732924::33653 (+)
+
+... .\n\nDornan tõstis pilgu ja vaatas isale mõistvalt otsa .\n\n"  {Issi}  , mis siis saab , kui see emme , kes Claudel'i juurde läks ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['issi', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Issi', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11793_732947::34029 (+)
+
+...s võimas " Hõu-hõu-hõu " . Hullumeelselt säravate silmadega  {Jõuluvana}  eksles , tundmatust metallist kang löögivalmis käes , ristl...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['jõulu_vana', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Jõulu_vana', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::41761 (++A16)
+
+...riis on siiski olnud mulle vältimatu , mulle eesti talumehe  {pojale}  . Initsiatsioonipaik , mis siis , et sada aastat hiljem ja ...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['poeg', 'S', 'sg all']
+v1_6_cb_morph_analysis_flat    ['poeg', 'S', 'sg all']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['poja', 'S', 'sg all']
+
+=====================================================================================
+
+nc_fiction::nc_11830_733403::41934 (--)
+
+... arugi saanud .\n\n" Ma tõesti ei tahtnud ! " ütles Metsavend  {Pikka}  üles aidates . " Lihtsalt närvid ütlesid üles . "\n\nPikk ain...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['pikk', 'A', 'sg p']
+v1_6_cb_morph_analysis_flat    ['Pikk', 'H', 'adt']
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::46226 (--)
+
+...eda silmas peeti — esindusmeest , Meest Nõelasilmast Tulnud  {Ülikonnas}  , kes Valerilegi ülalt alla vaatas . Kui Valeri kujutluses ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ülikond', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Ülikonnas', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::48255 (?)
+
+...ipurgikese eemale ja pühib oma vuntsid piimainest puhtaks ;  {Kolonel}  J.I. on kuuldu üle päris rõõmus — igav on eluke siin Eestim...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kolonel', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Kolonel', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::49729 (+)
+
+...vaid periooditi . Ei tohi unustada , et kõneldes Milenaga ,  {Milenaga}  iseendaga , kõneles Kafka ka surmaga , kuhu ta hoolimata om...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Milenaga', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Milena', 'H', 'sg kom']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::50203 (-)
+
+...anevad , siis on valik isegi eriliselt kitsas . " ( lk.36 )  {Või}  seda ( mis hea tõlke läbi eriti soodsalt kõlab ) : " Mul se...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['või', 'J', '']
+v1_6_cb_morph_analysis_flat    ['Või', 'H', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::51002 (+)
+
+... . Kuid erinevalt näitlejast vihkab kerjus almuse andjat .\n\n {Kerjus}  on vaba . Ta ei pea maksma tulumaksu , sest tulu tal justku...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kerjus', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Kerjus', 'H', 'sg n']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::55194 (++A16)
+
+...arg koerake on mul ) , tulin tuppa tagasi ja mõtlesin välja  {loo}  .\n\nKõigepealt leiutasin karakteri . Mulle on karakter kõige...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['lood', 'S', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['loog', 'S', 'sg g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['lugu', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['lugu', 'S', 'sg g']
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::55343 (--)
+
+...nimene seda oma sisemuses kuulab . "\n\n" Otis Redding ? "\n\n"  {Otis}  Redding ? Ah et kes ta oli ? Soulilaulja , neeger , hukkus ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ott', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Ott', 'H', 'sg in']
+
+=====================================================================================
+
+nc_fiction::nc_11851_733655::58156 (++A16)
+
+...etud silmi nägi , oli temalgi selge pilt , kuidas tüdrukuga  {lood}  on . Oli ju tema see , kes Linda ja Edmundi suhetest teadis...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['lood', 'S', 'sg n']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['lood', 'S', 'pl n']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['loog', 'S', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['lugu', 'S', 'pl n']
+v1_6_cb_morph_analysis_flat    ['lugu', 'S', 'pl n']
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::60591 (-)
+
+...li selles mõnusam kui kusagil varem .\n\nMulle meeldis siin .  {Ainus}  , mis mind pisut segas - ei ühtki pilti seinal .\n\nHendrix p...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ainus', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Ainu', 'H', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_1285_97826::61976 (+)
+
+...Tartu Üliõpilasküla direktor Andres Kask peabTartu Ülikooli  {Üliõpilasesinduse}  liikme Arne Otteri süüdistusi absurdseteks ning kaalub Otte...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['üli_õpilas_esindus', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Üli_õpilas_esindus', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_1314_99646::62688 (?)
+
+...nna juhataja ei teadnud Ivanovi sõnul probleemist midagi .\n\n {Vene}  sõjaväepensionäride saamata jäänud rahaga tegeleb ka Venema...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['vene', 'G', '']
+v1_6_cb_morph_analysis_flat    ['Vene', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17123_740837::70060 (+)
+
+...htes . Erakorraline komisjon ( “ troika ” ) kohaldas Mihkel  {Kase}  puhul NSVL KK  § 58-4 ja  § 58-10 , mis nägi ette kuni 10 a...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kask', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kask', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17138_741156::80765 (++A16)
+
+...nis 1980 , lk 3.\n\n24 Õigusest intuitiivse arusaamise skeemi  {Harti}  järgi vt 1. 1. 5.\n\n25 Dworkin kasutab sellise lähenemise ki...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Hart', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Hart', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Harti', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17148_741232::82727 (-)
+
+...el võiks ühe või teise meetme rakendamine kõne alla tulla .  {Oma}  töös olen lähtunud eeldusest , et kohaste ettevaatusmeetmet...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['oma', 'P', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Oma', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17148_741232::85169 (-)
+
+...ulatsiooni fragmentaarsuse ja vastuolulisuse vähendamisel .  {Selle}  uurimisel , kuidas on ettevaatusprintsiip seotud teiste kes...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['see', 'P', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Sell', 'H', 'pl p']
+
+=====================================================================================
+
+nc_science::nc_17150_741243::86929 (-)
+
+...ahvakoolide võrku . Edukamalt kulges see Lõuna-Eestis . 245  {Juba}  1776. aastal oskas näiteks Kambja kihelkonnas lugeda 60% el...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['juba', 'D', '']
+v1_6_cb_morph_analysis_flat    ['Juba', 'H', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17152_741254::88726 (-)
+
+...omab käsitletav teema tegelikku siseriiklikku aktuaalsust .  {Kuid}  ka integreerumisel EL-i on väga oluline otsida ja rakendada...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kuid', 'J', '']
+v1_6_cb_morph_analysis_flat    ['Kui', 'H', 'pl n']
+
+=====================================================================================
+
+nc_science::nc_17152_741254::89466 (-)
+
+...s on küll suhteliselt lühikesed , ent siiski realistlikud .  {Siin}  tuleb silmas pidada ka menetluse ökonoomsuse nõuet .\n\nKui k...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['siin', 'D', '']
+v1_6_cb_morph_analysis_flat    ['Siin', 'H', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17152_741254::90029 (-)
+
+...ääleõigus vastava menetlusvea tõttu võis olla kahjustatud .  {Õiguspäraseks}  tunnistatud kohaliku rahvaalgatuse nõude korral eksisteerib...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['õigus_pärane', 'A', 'sg tr']
+v1_6_cb_morph_analysis_flat    ['Õigus_pärane', 'H', 'sg tr']
+
+=====================================================================================
+
+nc_science::nc_17152_741254::90339 (-)
+
+...tsustuse siduva mõjuga selleks ettenähtud tähtaja jooksul .  {Lisaks}  õiguskantsleri ja maavanema poolt teostatavale järelevalvel...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['lisa', 'S', 'sg tr']
+v1_6_cb_morph_analysis_flat    ['Lisa', 'H', 'sg tr']
+
+=====================================================================================
+
+nc_science::nc_17154_741272::91835 (++A16)
+
+...est just klassikalise " Lohetapja " -jutu analüüsi juurde .  {Holbeki}  teose mõjutusel otsustasin esmalt valida vaatluseks tegelas...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Holbek', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Holbek', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Holbeki', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17164_741348::93832 (+)
+
+... sest mõjutegureid on palju enam kui põhiväärtuste korral .  {Eelnevat}  kokku võttes : nii organisatsioonikultuuri kui väärtuste hu...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Eelnevat', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['eelnev', 'A', 'sg p']
+
+=====================================================================================
+
+nc_science::nc_17173_741412::95140 (?)
+
+...pliku valiku tegemise protseduuri üle otsustab rüütelkond .  {Konsistoorium}  esitas seepeale omapoolse vastuettepaneku , mille järgi kon...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['konsistoorium', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Konsis_toorium', 'H', 'sg n']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Konsistoorium', 'H', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17173_741412::95239 (+)
+
+... kontrollimist osutama konsistooriumile vajalikku abi . 637  {Senat}  lähtus oma lõppotsuses 28. novembrist 1723 uurimiskomisjoni...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['senat', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Senat', 'H', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17181_741495::98861 (-)
+
+...adiumis " ja " moest väljas " ( López , Potter 2001 : 4 ) .  {Postmodernismi}  mõistet ei ole lihtne selgelt määratleda . Postmodernism on...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['post_modernism', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Post_modernism', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17193_741578::100670 (--)
+
+... pikkus' arvutamiseks ) , millele liideti valemite pikkuste  {summa}  tähemärkides . Teksti struktuuri iseloomustati antud uurimu...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['summ', 'S', 'sg g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['summa', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['summa', 'S', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17193_741578::101174 (++A16)
+
+...heline korrelatsioon 0 , 72 ( p < 0 , 01 ) ja korrigeeritud  {järeltestide}  tulemuste vaheline korrelatsioon 0 , 52 ( p < 0 , 01 ) . Kä...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['järeltest', 'S', 'pl g']
+v1_6_cb_morph_analysis_flat    ['järeltest', 'S', 'pl g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['järeltesti', 'S', 'pl g']
+
+=====================================================================================
+
+nc_science::nc_17193_741578::101640 (+)
+
+...programmide puhul kõige enam seotud pakutava tagasisidega .  {Otstarbekam}  oli lihtne tagasiside , mis ei aeglusta drillprogrammi läbi...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Ots_tarbekam', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['ots_tarbekam', 'C', 'sg n']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Otstarbekam', 'H', 'sg n']
+
+=====================================================================================
+
+nc_science::nc_17234_742021::105558 (+)
+
+...hma seisukohti ei tohi teistele peale suruda\n\nOn ainult üks  {Tõde} \n\nHofstede kultuuriruum on neljamõõtmeline . Selle ruumi dim...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['tõde', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Tõde', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Tõ', 'H', 'pl g']
+
+=====================================================================================
+
+nc_science::nc_17242_742175::106457 (+)
+
+...d ajaloolane  P. Johansen  on leidnud Rootsi Riigiarhiivist  {Beckeri}  1587. a. soolaarve-marginaalidelt mitmesuguste alamsaksakee...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Beckeri', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Becker', 'H', 'sg g']
+
+=====================================================================================
+
+nc_science::nc_17248_742236::110205 (--)
+
+...i matustel . Odini poja Andersi kibestunud pärimisele , kas  {Lauris}  oli pääsemise ära teeninud , vastab ema Ingri : sinu isa ar...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Lauri', 'H', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Lauri', 'H', 'sg in']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Laur', 'H', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_1791_127503::116510 (-)
+
+...b igal nurgal . Meie võrdlesime tuntud tegijate McDonald'si  {Hesburgeri}  ja Nehatu kõrval ka Trevexi ja OÜ Asmari kiirtoitlustuskios...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Hesburger', 'H', 'sg g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Hesburgeri', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Hesburgeri', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_2524_148567::118003 (+)
+
+... , sidesüsteemid ja raudtee elektrienergiaga varustamine .\n\n {Raudtee}  erastamise tähtajad on pool aastat graafikust maas . Kaubav...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['raud_tee', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Raud_tee', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Raudtee', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_3935_233256::122913 (+)
+
+...rettevõtted Balbiino Lõunakeskus Tartus ja Balbiino Virumaa  {Keskus}  Jõhvis moodustavad Eestit hõlmava müügivõrgu .\n\nBalbiino jä...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['keskus', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Keskus', 'H', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_5213_311773::125490 (+)
+
+...kse hommikul kell 10.30 maa- ja kohalike omavalitsuste ning  {Kaitseliidu}  eestvõttel hardushetk paljudes maakondades ja kohalikes oma...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kaitse_liit', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kaitse_liit', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Kaitseliidu', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Kaitseliidud', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_6660_390368::129008 (+)
+
+...use taotlejale esitatavad nõuded on kirjas viimases " Riigi  {Teatajas}  " . Seal ilmunud põllumajandusministri määrus hakkab kehtim...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['teataja', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Teataja', 'H', 'sg in']
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405615::131759 (+)
+
+...ik Postimehele viis aastat tagasi .\n\nHiljem , kui keegi oli  {Letshitski}  loal saanud mingi objekti erastatud , pidi ta loomulikult i...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Letshitsk', 'H', 'sg g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Letshitski', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Letshitski', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_8633_544320::140432 (+)
+
+...akkumine ebaseaduslikult tagasi lükatud . Seepeale kohustas  {Riigihangete}  amet politseiametit kõik autodepakkumised uuesti üle vaatam...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['riigi_hange', 'S', 'pl g']
+v1_6_cb_morph_analysis_flat    ['Riigi_hange', 'H', 'pl g']
+
+=====================================================================================
+
+nc_periodicals::nc_8862_560773::141193 (?)
+
+...Reet Kudu\n\n[ "  {Sõduri}  lugu " Von Krahli teatris . Muusika Igor Stravinski , tekst...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['sõdur', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Sõdur', 'H', 'sg g']
+
+=====================================================================================
+
+nc_periodicals::nc_9042_567658::141764 (+)
+
+...oondisest kõrvale tõrjutud Viktor Zuikov sai epeevehklemise  {EMvõistlustel}  Prantsusmaal pronksmedali .\n\nEMi kaheksandikfinaalis alista...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['EMvõistlus', 'S', 'pl ad']
+v1_6_cb_morph_analysis_flat    ['EMvõistlus', 'H', 'pl ad']
+
+=====================================================================================
+
+nc_periodicals::nc_9066_568601::141999 (+)
+
+...Suurväli . Kuna möödunud kevadel võeti Eesti Euroopa Noorte  {Ettevõtjate}  liidu liikmeks , saavad meie parimad õpilasfirmad käia võis...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ette_võtja', 'S', 'pl g']
+v1_6_cb_morph_analysis_flat    ['Ette_võtja', 'H', 'pl g']
+
+=====================================================================================
+
+nc_periodicals::nc_9138_573576::143093 (?)
+
+... lugemine . ”\n\nMilline on kõige sõltumatum riik maailmas ?\n\n {Mongoolia}  - temast ei sõltu mitte midagi .\n\nÄrimees : “ Ma maksan tei...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Mongoolia', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['mongoolia', 'G', '']
+
+=====================================================================================
+
+nc_periodicals::nc_9262_582136::143660 (++A16)
+
+...upeo Eesti-poolne üldjuht Jüri Rent , “ pidu jäävad näiteks  {lõpetama}  Sibeliuse “ Finlandia ” ja Ernesaksa “ Mu isamaa on minu ar...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['lõpeta', 'V', 'ma']
+v1_6_cb_morph_analysis_flat    ['lõpeta', 'V', 'ma']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['lõppe', 'V', 'tama']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['lõp', 'V', 'tama']
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588923::147877 (+)
+
+...kse midagi muud . Pensionid makstakse välja igal juhul . ”\n\n {Pomerants}  kinnitas , et lubatu makstakse välja . “ Pensionid ei vähen...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['pomerants', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Pomerants', 'H', 'sg n']
+
+=====================================================================================
+
+nc_periodicals::nc_9842_609689::152040 (?)
+
+....\n\nEnamikul neist ei ole süda haige . Õnneks . Veel mitte .  {Neil}  on ärevushäire . Jah , esimese hooga veidi üllatava nimega ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['tema', 'P', 'pl ad']
+v1_6_cb_morph_analysis_flat    ['see', 'P', 'pl ad']
+
+=====================================================================================
+
+web13::web13_238372_x::153492 (-)
+
+...;) EVEJ\n\n26 detsember 2009 leidis Jansa ja Kats [savolanna]  {Enne}  ühele juubeliüritusele jõudmist sai viigipükste ja seelikug...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['enne', 'K', '']
+v1_6_cb_morph_analysis_flat    ['Enn', 'H', 'pl p']
+
+=====================================================================================
+
+web13::web13_266735_x::154908 (++A16)
+
+...imet tugevdama. Ukraina ja Gruusia NATO-sse vastuvõtmine on  {Lukašenka}  sõnul vaid aja küsimus, vahendab RIA Novosti. "Meie relvajõ...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Lukašenka', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Lukašenka', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Lukašenkas', 'H', 'sg g']
+
+=====================================================================================
+
+web13::web13_271213_x::155185 (-)
+
+...d juba tegutsev fie siis sa pole töötu,minu hinnangu järgi.  {Oma}  toetusraha sain kätte peale projekti esitamist ja fie vormi...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['oma', 'P', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Oma', 'H', 'sg g']
+
+=====================================================================================
+
+web13::web13_302215_x::156950 (++A16)
+
+... igatahes kahel minu valduses olnud b5 ́l mõlemal pool taga  {udukad}  põlenud.\n\nTehase poolt juhtmega pirnipesa olemas (koos pirn...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['uduka', 'S', 'pl n']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['udukas', 'S', 'pl n']
+v1_6_cb_morph_analysis_flat    ['udukas', 'S', 'pl n']
+
+=====================================================================================
+
+web13::web13_309050_x::157578 (+)
+
+...ku Ferrari. Ta tegi pärast enesetapu. Millegipärast." Köhiv  {Mees}  pungitas silmi ja oli tükk aega vait. "Mõnitad või?" oli kõ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['mees', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Mees', 'H', 'sg n']
+
+=====================================================================================
+
+web13::web13_329053_x::158840 (+)
+
+...õitnud ja nii mõndagi näinud.hariduse sain esiteks Tallinna  {Merekoolis}  ja hiljem Leningradi Makarovis.vanemad mind ie toetanud,ses...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['mere_kool', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Mere_kool', 'H', 'sg in']
+
+=====================================================================================
+
+web13::web13_331301_x::159009 (--)
+
+...sta\n\nMaire\n\n11.02.2012 18:15\n\nToetan, hea artikkel.\n\nVasta\n\n {Ego} \n\n11.02.2012 15:38\n\nkall kirjutas:\n\nMuideks kui ma nägin tel...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ego', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['ego', 'S', 'sg n']
+
+=====================================================================================
+
+web13::web13_364011_x::162976 (-)
+
+...i tee, siis kohaldan ta ise kevadeks vähe teise ala peale.\n\n {Kilts}  10.10.2009 23:55 Heh :) täitsa Funn saade oli ju :)\n\nRS 11....
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Kilts', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['kilts', 'S', 'sg n']
+
+=====================================================================================
+
+web13::web13_383563_x::164156 (++A16)
+
+...te vahele,vaikselt urisedes MAxile hambaid näidates.Ju siis  {lõi}  emainstinkt välja. "Temaga tuleb meil veel kõvasti vaeva nä...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['loo', 'V', 's']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['löö', 'V', 's']
+v1_6_cb_morph_analysis_flat    ['löö', 'V', 's']
+
+=====================================================================================
+
+web13::web13_412780_x::165499 (++A16)
+
+... Joosep ja Henrik [papag] Teine kord seal. Aare oli arvatud  {kohas}  ja paistis ka vaatlemise teel kätte. Tänud.\n\n7 mai 2011 lei...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['koha', 'S', 'sg in']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['koht', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['koht', 'S', 'sg in']
+
+=====================================================================================
+
+web13::web13_419435_x::165716 (+)
+
+...igi loojat Leninit kristlike pühakutega. Vene Föderatsiooni  {Kommunistliku}  Partei (KPRF) liider Gennadi Zjuganov kinnitas taaskord, et...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kommunistlik', 'A', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kommunistlik', 'H', 'sg g']
+
+=====================================================================================
+
+web13::web13_440648_x::167007 (++A16)
+
+...s ning raputas lihtsalt pead.\n\nAeglaselt tõstis nooruk käe.  {Ediku}  käsi tuksatas tahtmatult. Vaenlane märkas seda ning katkest...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Edik', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Edik', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Ediku', 'H', 'sg g']
+
+=====================================================================================
+
+web13::web13_482532_x::170360 (+)
+
+...vot nii. ja kui paljuta arvavad et selle on tekitanud Jumal  {siis}  nad eksivad, sest miks peaks Jumal meile halba soovima? see...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['siis', 'J', '']
+v1_6_cb_morph_analysis_flat    ['siis', 'D', '']
+
+=====================================================================================
+
+web13::web13_521359_x::171437 (++A16)
+
+...stalaktiite ja stalakmiite ning asusime aaret otsima. Peale  {väikest}  ringivaatamist leidsimegi aarde. EVEJ. Tänud!\n\n28 detsember...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['väikene', 'A', 'sg p']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['väike', 'A', 'sg p']
+v1_6_cb_morph_analysis_flat    ['väike', 'A', 'sg p']
+
+=====================================================================================
+
+web13::web13_555566_x::173201 (+)
+
+...õtta, kuid poiss ei teinud sellest väljagi.\n\nJoonas juhatas  {Teisi}  suurde tuppa. Istu palun." Teisi istus, ta avas suu, et küs...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['teine', 'O', 'pl p']
+v1_6_cb_morph_analysis_flat    ['Teisi', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['teine', 'P', 'pl p']
+
+=====================================================================================
+
+web13::web13_556412_x::173329 (+)
+
+...oomuki hind on Pasi oma korrutatud kümnega.\n\nVasta\n\nTargem\n\n {Targem}  on Soomest PASI litsents osta ning ise omale neid tegema ha...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Targem', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['targem', 'C', 'sg n']
+
+=====================================================================================
+
+web13::web13_599442_x::176062 (-)
+
+....2012 19:02\n\nSelles, et nende lapsest kaswas pdrast, om nad  {ISE}  süüdi. Ja pdsid tulebki ühiskonnast eemaldada, nagu wähikas...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ise', 'D', '']
+v1_6_cb_morph_analysis_flat    ['Ise', 'H', '']
+
+=====================================================================================
+
+web13::web13_606308_x::176574 (++A16)
+
+...la...\n\nleo: to kaisa\n\nTelli\n\n19.10.2009 09:58\n\nMa arvan, et  {Savisaar}  on ainuke poliitik selle kõige õigemas tähenduses.Ma ei ole...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Savi_saar', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Savi_saar', 'H', 'sg n']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Savisaar', 'H', 'sg n']
+
+=====================================================================================
+
+web13::web13_613825_x::177135 (+)
+
+...ta. Kohapeal selgus, et sulavas lumes on päris ränk sumada.  {Õnneks}  olid autos olemas abivahendid ja nüüd läks lõbusamalt. Koha...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Õnneks', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['õnn', 'S', 'sg tr']
+
+=====================================================================================
+
+web13::web13_620579_x::177284 (-)
+
+..., et kasvatajad on liitunud ja moodustanud Chow Kasvatajate  {Liidu}  ja lähevad chow aretusega edasi ikka mõeldes tõule ja tema ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Liidu', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Liidu', 'H', 'sg n']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Liidud', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Liit', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_101115_x::178300 (-)
+
+...t Richardi abiellumist oma pruudi Navarra Berengariaga, 12.  {mail}  1191, kavatses Isaakios laevaga mandrile põgeneda, kuid tab...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['maa', 'S', 'pl ad']
+v1_6_cb_morph_analysis_flat    ['maa', 'S', 'pl ad']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['mai', 'S', 'sg ad']
+
+=====================================================================================
+
+wiki17::wiki17_122082_x::183762 (+)
+
+....\n\nTartu Ülikooli kaubandusõiguse adjunktprofessor ja Balti  {Ülikooli}  (Hamburgis) kaubandusõiguse ja Rooma õiguse ajaloo professo...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['üli_kool', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Üli_kool', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_135363_x::187273 (+)
+
+...ne teatas, et taasalustab läbirääkimisi liitumiseks Maailma  {Kaubandusorganisatsiooniga} .\n\nEesti valiti Pariisis toimunud UNESCO 36. peakonverentsil...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kaubandus_organisatsioon', 'S', 'sg kom']
+v1_6_cb_morph_analysis_flat    ['Kaubandus_organisatsioon', 'H', 'sg kom']
+
+=====================================================================================
+
+wiki17::wiki17_150506_x::191302 (+)
+
+...mereranda, praeguse Mudaravila kohas).\n\n1914. aastal alanud  {Esimene}  maailmasõjas lasi Pärnu komandant Rodsjanko 1915. aastal õh...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['esimene', 'O', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Esimene', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_177918_x::198473 (+)
+
+...oodusmaja uus hoone.\n\nTartu loodusmaja andis välja ajalehte  {Kuldkinga}  Teataja, 2015. aastal alustati taas ajalehe väljaandmist, u...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['kuld_king', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Kuld_king', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_193600_x::203363 (+)
+
+... majas Kadriorus.\n\nVello Mäeots sai lauljahariduse Tallinna  {Muusikakoolis}  (1959–1963). Aastatel 1961–1963 töötas ta Eesti Televisioon...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['muusika_kool', 'S', 'sg in']
+v1_6_cb_morph_analysis_flat    ['Muusika_kool', 'H', 'sg in']
+
+=====================================================================================
+
+wiki17::wiki17_193700_x::203445 (-)
+
+...ndri järgi 20. augustil 1883 Põltsamaa lähedal ning suri 9.  {mail}  1962 Rangoonis, Birmas (kummalises riigi, mis tahab end pra...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['maa', 'S', 'pl ad']
+v1_6_cb_morph_analysis_flat    ['maa', 'S', 'pl ad']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['mai', 'S', 'sg ad']
+
+=====================================================================================
+
+wiki17::wiki17_193700_x::203457 (+)
+
+...ui tulihingeline usukuulutaja ja teokraatliku Pan-Baltoonia  {Ilmariigi}  prohvet, kes esitas on moraalijutlusi vaheldumisi plastilis...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['ilma_riik', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Ilma_riik', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_197862_x::204881 (++A16)
+
+... 1942. aasta 7. juulil Voroneži rajoonis võidelnud Brjanski  {rinde}  vägedest. Algselt kuulusid rinde koosseisu 40., 60., ja 6. ...
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['rind', 'S', 'pl g']
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['rinne', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['rinne', 'S', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_199442_x::205270 (?)
+
+...urküla, Väimela-Tagaküla ja Kanarbiku külade ning Kärnamäe,  {Kõrgemäe} , Lapi, Haigri ja Väiso asunduste piirkondadest; c) senise E...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Kõrgemäe', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Kõrgemäe', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Kõrge_mägi', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_23642_x::207569 (--)
+
+...lendri järgi? --Numbriga kärumees 17. mai 2011, kell 16:15 ( {EEST} )...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Eest', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['esi', 'S', 'sg el']
+
+=====================================================================================
+
+wiki17::wiki17_24251_x::207661 (++A16)
+
+...007. aasta aprillis skandinaavia mütoloogiasse kuuluva hiiu  {Ægiri}  järgi, kes on hiiu Fornjóti poeg, Logi (tulejumal) ja Kári ...
+--- COMMON   --------------------------------------------------
+v1_6_morph_analysis_flat       ['Ægir', 'H', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Ægir', 'H', 'sg g']
+--- MISSING  --------------------------------------------------
+v1_6_morph_analysis_flat       ['Ægiri', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_55921_x::216066 (-)
+
+...illega tegu, ei tohiks olla probleem. Selleks on määratlus.  {Pikne}  16. juuli 2014, kell 17:52 (EEST)\n\nValitsus suure tähega on...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Pikne', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['pikne', 'S', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_55924_x::216095 (?)
+
+..., lk. 9.\n\nUute vallavalitsuste moodustamine lõpule jõudmas.  {Uus}  Eesti, 22. detsember 1939, nr. 349, lk. 2.\n\nLäänemaal kõik ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Uus', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['uus', 'A', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_56284_x::216682 (+)
+
+...dis, et Männil astuks tagasi Balti Strateegiliste Uuringute  {Instituudi}  juhatusest. 1995. aastal kinnitas Kaitsepolitsei peadirekto...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['instituut', 'S', 'sg g']
+v1_6_cb_morph_analysis_flat    ['Instituud', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Instituudi', 'H', 'sg g']
+--- EXTRA    --------------------------------------------------
+v1_6_cb_morph_analysis_flat    ['Instituut', 'H', 'sg g']
+
+=====================================================================================
+
+wiki17::wiki17_59471_x::217316 (+)
+
+...ötavaid arste ühendab Eesti Erakorralise Meditsiini Arstide  {Selts}  (EEMAS). [1]...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['selts', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Selts', 'H', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_75021_x::220841 (+)
+
+...lt kirjutisi kutseküsimustest. 1926–1934 oli ajakirja Eesti  {Rohuteadlane}  toimetaja. Akadeemilise Rohuteaduse Seltsi juhatuse liige. ...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['rohu_teadlane', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Rohu_teadlane', 'H', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_88807_x::224598 (+)
+
+... 940 km ning see kahaneb 930 km aastas[28][29]. Suur Punane  {Laik}  on piisavalt suur, et seda oleks võimalik vaadelda maapeals...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['laik', 'S', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Laik', 'H', 'sg n']
+
+=====================================================================================
+
+wiki17::wiki17_94921_x::226367 (+)
+
+...ääda haljasalaks" Postimees, 17.03.2009\n\nRaimu Hanson, "Elu  {Karlovas}  vürtsitavad väikesed toidupoed" Küsimusele "Mille poolest e...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['Karlovas', 'H', 'sg n']
+v1_6_cb_morph_analysis_flat    ['Karlova', 'H', 'sg in']
+
+=====================================================================================
+
+wiki17::wiki17_96813_x::226641 (+)
+
+...da läbib ka Tallinna–Pärnu raudteeliin, mille üks haru viib  {Lellest}  Viljandisse.\n\nKehtna valla loodus ja maastik on vaheldusrik...
+--- MODIFIED --------------------------------------------------
+v1_6_morph_analysis_flat       ['lell', 'S', 'sg el']
+v1_6_cb_morph_analysis_flat    ['Lelle', 'H', 'sg el']
+
+=====================================================================================
+
+  Summary:
+   18 [++A16]  --  both v1_6 and v1_6_cb correct (but v1_6 is ambiguous)
+   0  [++ACB]  --  both v1_6 and v1_6_cb correct (but v1_6_cb is ambiguous)
+   45 [+]      --  only v1_6_cb correct (includes: correct but ambiguous)
+   19 [-]      --  only v1_6 correct
+   7  [--]     --  both v1_6 and v1_6_cb wrong
+   11 [?]      --  hard to tell
+

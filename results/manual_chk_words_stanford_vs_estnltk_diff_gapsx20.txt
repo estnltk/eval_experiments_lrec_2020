@@ -1,0 +1,725 @@
+Collecting indexes ...
+  131402  (100.00%)   TOTAL
+
+  42648  (32.46%)    nc_science
+  40901  (31.13%)    web13
+  32398  (24.66%)    wiki17
+  12499  (9.51%)    nc_periodicals
+  2956  (2.25%)    nc_fiction
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   nc_periodicals
+  20   nc_fiction
+  20   nc_science
+  20   web13
+  20   wiki17
+
+ Legend:
+   [+]   --  estnltk correct
+   [-]   --  stanfordnlp correct
+   [--]  --  both estnltk and stanfordnlp wrong
+   [?]   --  hard to tell
+
+=====================================================================================
+=====================================================================================
+
+nc_periodicals::nc_10148_624192::122 (+)
+
+estnltk_words_flat   ...m kui 30 tankerit keskmise kandevõimega {30 000}{-}{35 000} tonni . Firma tegevdirektor  Anti Oidsa...
+stanford_words       ...m kui 30 tankerit keskmise kandevõimega {30} {000-35} {000} tonni . Firma tegevdirektor  Anti Oidsa...
+
+=====================================================================================
+
+nc_periodicals::nc_11043_679821::1252 (-)
+
+estnltk_words_flat   ...ubaru ) 18 punkti .\n\nTootjad : 1.Subaru {58 , 2}{.} Ford 57 , 3. Peugeot 41 , 4. Mitsubishi...
+stanford_words       ...ubaru ) 18 punkti .\n\nTootjad : 1.Subaru {58} {,} {2.} Ford 57 , 3. Peugeot 41 , 4. Mitsubishi...
+
+=====================================================================================
+
+nc_periodicals::nc_11226_709370::1871 (+)
+
+estnltk_words_flat   ... nende ainevahetus on teistsugune . Aga {nn.} Vahemere-dieedi juurde käib alati lahja...
+stanford_words       ... nende ainevahetus on teistsugune . Aga {nn}{.} Vahemere-dieedi juurde käib alati lahja...
+
+=====================================================================================
+
+nc_fiction::nc_11686_731896::2067 (+)(?sp)
+
+estnltk_words_flat   ... . ”\n\n“ Tee siis uks . Toas on sumbunud {õhk} , see takistab laste tervekssaamist . ”...
+stanford_words       ... . ”\n\n“ Tee siis uks . Toas on sumbunud {õhk }, see takistab laste tervekssaamist . ”\n...
+
+=====================================================================================
+
+nc_fiction::nc_11698_732036::2100 (+)
+
+estnltk_words_flat   ...beks ! 'Mara' , 'nachtmahr' , 'mahrt' , {'}{mårt}{'} , meie 'koszmar' , vene 'koshmar' , 'ni...
+stanford_words       ...beks ! 'Mara' , 'nachtmahr' , 'mahrt' , {'mårt'} , meie 'koszmar' , vene 'koshmar' , 'ni...
+
+=====================================================================================
+
+nc_fiction::nc_11724_732210::2274 (+)
+
+estnltk_words_flat   ...k aitab see sul õige suuna leida ... "\n\n{...} Suur Hetk on peatselt kätte jõudmas .\n\n...
+stanford_words       ...k aitab see sul õige suuna leida ... "\n\n{..}{.} Suur Hetk on peatselt kätte jõudmas .\n\n...
+
+=====================================================================================
+
+nc_fiction::nc_11754_732540::2573 (-)
+
+estnltk_words_flat   ... mingi erisuhe . "\n\n" Milline ? " päris {o}{'}{Thulenus} ninakalt , " Mina pole küll midagi sell...
+stanford_words       ... mingi erisuhe . "\n\n" Milline ? " päris {o'Thulenus} ninakalt , " Mina pole küll midagi sell...
+
+=====================================================================================
+
+nc_fiction::nc_11760_732723::2592 (-)
+
+estnltk_words_flat   ...üldsisehaigused , vastuvõtt tööpäevadel {k}{.} 10-st k. 13-ni ja 16-st 18-ni\n\nDr . Mar...
+stanford_words       ...üldsisehaigused , vastuvõtt tööpäevadel {k.} 10-st k. 13-ni ja 16-st 18-ni\n\nDr . Mar...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::3006 (+)
+
+estnltk_words_flat   ...lminäitlejaid . Küll aga on meeles , et {mr .} Heweri lemmik oli Ira Tingas , keda ta ...
+stanford_words       ...lminäitlejaid . Küll aga on meeles , et {mr} {.} Heweri lemmik oli Ira Tingas , keda ta ...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::3313 (-)
+
+estnltk_words_flat   ...õpilaste arvamusi oma klassist ( meie ( {L}{.}{V}{.} ) klass ) :\n\nMade Vanderer ( Meie klass...
+stanford_words       ...õpilaste arvamusi oma klassist ( meie ( {L.V.} ) klass ) :\n\nMade Vanderer ( Meie klass...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::3368 (-)
+
+estnltk_words_flat   ...fonimängija " . )\n\nIlmar Reidi , g . II {kl}{.} ja Hella Raag , prog . V-a kl. : A. H. ...
+stanford_words       ...fonimängija " . )\n\nIlmar Reidi , g . II {kl.} ja Hella Raag , prog . V-a kl. : A. H. ...
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::3675 (-)
+
+estnltk_words_flat   .... Keegi ei saanud siin midagi parata .\n\n{K}{.} muutus ilusamaks , kui oli armunud . Ri...
+stanford_words       .... Keegi ei saanud siin midagi parata .\n\n{K.} muutus ilusamaks , kui oli armunud . Ri...
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::3893 (-)
+
+estnltk_words_flat   ...lda , seitse plaanvankrit ) külas parun {D}{.} mõisas . Koos ollakse ööpäev ringi , va...
+stanford_words       ...lda , seitse plaanvankrit ) külas parun {D.} mõisas . Koos ollakse ööpäev ringi , va...
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::3908 (-)
+
+estnltk_words_flat   ...nüüd olen ma ise ka juba üks adolescent {d}{'}{autrefois} , see , kes vanasti oli nooruk . Peale ...
+stanford_words       ...nüüd olen ma ise ka juba üks adolescent {d'autrefois} , see , kes vanasti oli nooruk . Peale ...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::3985 (-)
+
+estnltk_words_flat   ...IA Ida-Euroopa osakonna noor boss James {K}{.} ja rüüpab lonksu jääteed . Tema kabinet...
+stanford_words       ...IA Ida-Euroopa osakonna noor boss James {K.} ja rüüpab lonksu jääteed . Tema kabinet...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::4054 (+)
+
+estnltk_words_flat   ...l oleks ääretult kahju teda likvideerida{...}kuigi see võib kunagi paratamatuks osutu...
+stanford_words       ...l oleks ääretult kahju teda likvideerida{.}{.}{.}kuigi see võib kunagi paratamatuks osutu...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::4150 (+)
+
+estnltk_words_flat   ...ad — ka Diana ja Artemis , sead nr.6 ja {nr.}{9.} , röhivad optimistlikult edasi , ja väh...
+stanford_words       ...ad — ka Diana ja Artemis , sead nr.6 ja {nr.9.} , röhivad optimistlikult edasi , ja väh...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4267 (-)
+
+estnltk_words_flat   ...gemaks südamelt convives muutusid . " ( {lk}{.} 43 )\n\nJättes kõrvale piibelliku paralle...
+stanford_words       ...gemaks südamelt convives muutusid . " ( {lk.} 43 )\n\nJättes kõrvale piibelliku paralle...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4355 (+)
+
+estnltk_words_flat   ... Tom , : titat ei tohi veel püsti tõsta {/}{jutt} on õde Heleni lapsest - T.R./ ; teda ei...
+stanford_words       ... Tom , : titat ei tohi veel püsti tõsta {/jutt} on õde Heleni lapsest - T.R./ ; teda ei...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4498 (-)
+
+estnltk_words_flat   .... Tõlkinud Jaan Undusk . Vagabund . 215 {lk}{.}\n\n" Üks on see , mis ma ise olen , teine...
+stanford_words       .... Tõlkinud Jaan Undusk . Vagabund . 215 {lk.}\n\n" Üks on see , mis ma ise olen , teine...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4622 (?)
+
+estnltk_words_flat   ... eeldada . " Seal on soolikad , " ütles {1.} " Mis rahvas sellest võib arvata ? " - ...
+stanford_words       ... eeldada . " Seal on soolikad , " ütles {1}{.} " Mis rahvas sellest võib arvata ? " - ...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4785 (+)
+
+estnltk_words_flat   ...ssidele . Tln. , 1952.\n\nHaiavata lood : {H.W. Longfellow} indiaani mütoloogial põhineva kunsteepo...
+stanford_words       ...ssidele . Tln. , 1952.\n\nHaiavata lood : {H.W}{.} {Longfellow} indiaani mütoloogial põhineva kunsteepo...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4819 (+)
+
+estnltk_words_flat   ... Kes On Ühel Või Teisel Viisil Õnnetud\n\n{6.} Kõik Need , Kes Soovivad Saada Õnneliku...
+stanford_words       ... Kes On Ühel Või Teisel Viisil Õnnetud\n\n{6}{.} Kõik Need , Kes Soovivad Saada Õnneliku...
+
+=====================================================================================
+
+nc_science::nc_17088_739781::5505 (+)
+
+estnltk_words_flat   ...ng  ( American Society for Training and {Development}{/}{ASTD} )  pakub järgmise definitsiooni :  “  E...
+stanford_words       ...ng  ( American Society for Training and {Development/ASTD} )  pakub järgmise definitsiooni :  “  E...
+
+=====================================================================================
+
+nc_science::nc_17123_740691::7824 (+)
+
+estnltk_words_flat   ...t suurem osa mehi põdenud orhiiti ( p < {0 , 001} ) , mumpsorhiiti ( p = 0,035 ) või saan...
+stanford_words       ...t suurem osa mehi põdenud orhiiti ( p < {0} {,} {001} ) , mumpsorhiiti ( p = 0,035 ) või saan...
+
+=====================================================================================
+
+nc_science::nc_17123_740691::7939 (+)
+
+estnltk_words_flat   ...maini ) , Lümandas ca ühe kuu jooksul ( {29.04}{-}{21.05} ) ( vt jn 1 ) .\n\nHaiguse järjepidev lev...
+stanford_words       ...maini ) , Lümandas ca ühe kuu jooksul ( {29.04-21.05} ) ( vt jn 1 ) .\n\nHaiguse järjepidev lev...
+
+=====================================================================================
+
+nc_science::nc_17123_740837::9754 (?)
+
+estnltk_words_flat   ...ta aastas ) võib täheldada vanuserühmas {55}{-}{64} aastat . Kuna on tegemist töövõimelise ...
+stanford_words       ...ta aastas ) võib täheldada vanuserühmas {55-64} aastat . Kuna on tegemist töövõimelise ...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::11688 (+)
+
+estnltk_words_flat   ...3 Johannes Gottfriedi/S . Teppartit , 2 {Geheimrathi}{/}{T . Aava} ja Barokset härrat/S . Luike , 1 Eesti ...
+stanford_words       ...3 Johannes Gottfriedi/S . Teppartit , 2 {Geheimrathi/T} {.} {Aava} ja Barokset härrat/S . Luike , 1 Eesti ...
+
+=====================================================================================
+
+nc_science::nc_17139_741161::17266 (+)
+
+estnltk_words_flat   ...kartuli mugulate tärklisesisaldus 4,5 … {10 , 8%} .\n\nMagneesiumväetiste toimel alanes ena...
+stanford_words       ...kartuli mugulate tärklisesisaldus 4,5 … {10} {,} {8%} .\n\nMagneesiumväetiste toimel alanes ena...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::18470 (--)
+
+estnltk_words_flat   ...002 , pp . 14-19.\n\n28 Samas lk. 15.\n\n29 {Vt . D. Bruce} . Finding a Balance over Precaution . -...
+stanford_words       ...002 , pp . 14-19.\n\n28 Samas lk. 15.\n\n29 {Vt} {.} {D.} {Bruce} . Finding a Balance over Precaution . -...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::19437 (+)
+
+estnltk_words_flat   ...lk. 11.\n\n370 RT I 2001 , 85 , 512.\n\n371 {Vt .} N. de Sadeleer . Environmental Principl...
+stanford_words       ...lk. 11.\n\n370 RT I 2001 , 85 , 512.\n\n371 {Vt} {.} N. de Sadeleer . Environmental Principl...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::20111 (?)
+
+estnltk_words_flat   ...Review , 2001 , Vol. 13 , No . 4 , pp . {961}{-}{962.}\n\n629 Alpharma Inc. v. Council , Case T-...
+stanford_words       ...Review , 2001 , Vol. 13 , No . 4 , pp . {961-962.}\n\n629 Alpharma Inc. v. Council , Case T-...
+
+=====================================================================================
+
+nc_science::nc_17149_741240::20648 (+)
+
+estnltk_words_flat   ...uvat eitussõna ( meye emme wöi 'meie ei {või}{'} ) ja n-lõpulist omastavat ( ayno poian ...
+stanford_words       ...uvat eitussõna ( meye emme wöi 'meie ei {või'} ) ja n-lõpulist omastavat ( ayno poian ...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::21522 (+)
+
+estnltk_words_flat   ...n Otto Wilhelm Masingul ( 1763-1832 ) . {O. W. Masingu} 1818. aastal ilmunud raamatut " Pühhapä...
+stanford_words       ...n Otto Wilhelm Masingul ( 1763-1832 ) . {O.} {W.} {Masingu} 1818. aastal ilmunud raamatut " Pühhapä...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::22579 (?)
+
+estnltk_words_flat   ... ( 1786-1828 ) ja Walter Oudney läbisid {1822}{-}{24} Kesk-Sahara ja jõudsid Tšaadi järveni ....
+stanford_words       ... ( 1786-1828 ) ja Walter Oudney läbisid {1822-24} Kesk-Sahara ja jõudsid Tšaadi järveni ....
+
+=====================================================================================
+
+nc_science::nc_17178_741469::33754 (+)
+
+estnltk_words_flat   ...v. Bar ; J. Shaw , ( 12 ) , S. 42.\n\n517 {K. Larenz} , ( 115 ) , S. 834.\n\n518 Vt selle kohta...
+stanford_words       ...v. Bar ; J. Shaw , ( 12 ) , S. 42.\n\n517 {K.} {Larenz} , ( 115 ) , S. 834.\n\n518 Vt selle kohta...
+
+=====================================================================================
+
+nc_science::nc_17184_741514::34281 (+)
+
+estnltk_words_flat   ...Choyke 2005 ) ? Kas suhtumine kodulooma {ja}{/}{või} koduloomaluusse erineb suhtumisest mets...
+stanford_words       ...Choyke 2005 ) ? Kas suhtumine kodulooma {ja/või} koduloomaluusse erineb suhtumisest mets...
+
+=====================================================================================
+
+nc_science::nc_17198_741616::37251 (+)
+
+estnltk_words_flat   ...gi endale omandiks saama' <  omand , i  {'}{see} , mis on kellegi oma' ;  varjunda/ma  '...
+stanford_words       ...gi endale omandiks saama' <  omand , i  {'see} , mis on kellegi oma' ;  varjunda/ma  '...
+
+=====================================================================================
+
+nc_science::nc_17225_741953::40356 (-)
+
+estnltk_words_flat   ...i püsivad ka depressiooni puudumisel .\n\n{F42}{.}{1} Valdavalt sundtegudega\n\nEnamus kompulsi...
+stanford_words       ...i püsivad ka depressiooni puudumisel .\n\n{F42.1} Valdavalt sundtegudega\n\nEnamus kompulsi...
+
+=====================================================================================
+
+nc_science::nc_17236_742036::41488 (+)
+
+estnltk_words_flat   ...ntonatsiooni , kõnetempo , žestid jne.\n\n{E. Vetemaa} “ Jälle Püha Susanna ” II vaatuses esit...
+stanford_words       ...ntonatsiooni , kõnetempo , žestid jne.\n\n{E}{.} {Vetemaa} “ Jälle Püha Susanna ” II vaatuses esit...
+
+=====================================================================================
+
+nc_science::nc_17242_742175::42661 (?)
+
+estnltk_words_flat   ...õpeb , tuleb kümme viletsust asemele  ( {226 , 231}{/}{2} ) < Ilm 9,12 ja 11,14 ; vrd. EV 859 , 1...
+stanford_words       ...õpeb , tuleb kümme viletsust asemele  ( {226} {,} {231/2} ) < Ilm 9,12 ja 11,14 ; vrd. EV 859 , 1...
+
+=====================================================================================
+
+nc_science::nc_17242_742175::43430 (+)
+
+estnltk_words_flat   ...alikumalt käsitlenud  vaid A. Kask  ja  {H. Laanekask}  oma artiklis   “ J. F. Helleri eesti-s...
+stanford_words       ...alikumalt käsitlenud  vaid A. Kask  ja  {H.} {Laanekask}  oma artiklis   “ J. F. Helleri eesti-s...
+
+=====================================================================================
+
+nc_science::nc_17256_742304::47306 (?)
+
+estnltk_words_flat   .../25 Simpson , Meaning of Evolution , lk {143.} Pole selge , miks peaks Simpson omistam...
+stanford_words       .../25 Simpson , Meaning of Evolution , lk {143}{.} Pole selge , miks peaks Simpson omistam...
+
+=====================================================================================
+
+nc_periodicals::nc_2575_152110::48568 (+)
+
+estnltk_words_flat   ... aega baaside-eelsest ajast kuni 1949 . {a .} märtsi suurküüditamiseni . Aega , mis m...
+stanford_words       ... aega baaside-eelsest ajast kuni 1949 . {a} {.} märtsi suurküüditamiseni . Aega , mis m...
+=====================================================================================
+
+nc_periodicals::nc_2635_156901::48872 (+)
+
+estnltk_words_flat   ...atseb jätkata kaitseministrina ning oma {16 .} septembril peaminister Mart Siimannile ...
+stanford_words       ...atseb jätkata kaitseministrina ning oma {16} {.} septembril peaminister Mart Siimannile ...
+=====================================================================================
+
+nc_periodicals::nc_3790_217534::49695 (+)
+
+estnltk_words_flat   ...lm õlitehast tootsid möödunud aastal ca {400 000} tonni põlevkiviõli , millest kolmveeran...
+stanford_words       ...lm õlitehast tootsid möödunud aastal ca {400} {000} tonni põlevkiviõli , millest kolmveeran...
+
+=====================================================================================
+
+nc_periodicals::nc_4295_261686::49948 (+)
+
+estnltk_words_flat   ...ab rahvastikuregistri andmeil Tallinnas {377 890} inimest .\n\nDetsembris registreeriti pea...
+stanford_words       ...ab rahvastikuregistri andmeil Tallinnas {377} {890} inimest .\n\nDetsembris registreeriti pea...
+
+
+
+=====================================================================================
+
+nc_periodicals::nc_4467_275771::50144 (+)
+
+estnltk_words_flat   ...igikorda kehastavad juhid ( A. Dubcek , {V. Havel} ) ....
+stanford_words       ...igikorda kehastavad juhid ( A. Dubcek , {V.} {Havel} ) ....
+
+=====================================================================================
+
+nc_periodicals::nc_5988_340795::50749 (-)
+
+estnltk_words_flat   ...s sai Tallinna Kalev jagu Piritast 65 : {56.} Lätis kaotas BC Pallur treeningkohtumis...
+stanford_words       ...s sai Tallinna Kalev jagu Piritast 65 : {56}{.} Lätis kaotas BC Pallur treeningkohtumis...
+
+=====================================================================================
+
+nc_periodicals::nc_6474_365016::50975 (+)
+
+estnltk_words_flat   ...) 3.03 , 1 , 2. Øystein Pettersen 0,9 , {3.} Tor Arne Hetland ( Norra ) 1,2 , 4. Tob...
+stanford_words       ...) 3.03 , 1 , 2. Øystein Pettersen 0,9 , {3}{.} Tor Arne Hetland ( Norra ) 1,2 , 4. Tob...
+
+=====================================================================================
+
+nc_periodicals::nc_6649_388155::51104 (-)
+
+estnltk_words_flat   ...s võitis Ha Chui Hingi Hongkongist 15 : {3.} Järgmises ringis oli eestlanna parem Le...
+stanford_words       ...s võitis Ha Chui Hingi Hongkongist 15 : {3}{.} Järgmises ringis oli eestlanna parem Le...
+
+=====================================================================================
+
+nc_periodicals::nc_7866_495113::52724 (+)
+
+estnltk_words_flat   ...ifitseerimise viisi , kuna nii tõstatub {kellegi}{/}{millegi} paremuse , ülimuslikkuse küsimus . Nii ...
+stanford_words       ...ifitseerimise viisi , kuna nii tõstatub {kellegi/millegi} paremuse , ülimuslikkuse küsimus . Nii ...
+
+=====================================================================================
+
+nc_periodicals::nc_8088_505386::52932 (+)
+
+estnltk_words_flat   ...sades Stefania Sandrelli , Frank Finlay {jt.} Kanal 2 , täna kell 23.15. ]\n\n" Võti " ...
+stanford_words       ...sades Stefania Sandrelli , Frank Finlay {jt}{.} Kanal 2 , täna kell 23.15. ]\n\n" Võti " ...
+
+=====================================================================================
+
+nc_periodicals::nc_8193_511137::53423 (+)
+
+estnltk_words_flat   ...tannia , Mitsubishi ) 4 : 21 . 51 , 2 , {5 .} Ari Vatanen ( Soome , Ford ) 4 : 24 . 1...
+stanford_words       ...tannia , Mitsubishi ) 4 : 21 . 51 , 2 , {5} {.} Ari Vatanen ( Soome , Ford ) 4 : 24 . 1...
+
+=====================================================================================
+
+nc_periodicals::nc_8303_518571::54951 (-)
+
+estnltk_words_flat   ...est isikust ettevõtja . Majandusaasta : {01 .} 01-31 . 12 . Tegevusalad : elu- , tootm...
+stanford_words       ...est isikust ettevõtja . Majandusaasta : {01} {.} 01-31 . 12 . Tegevusalad : elu- , tootm...
+
+=====================================================================================
+
+nc_periodicals::nc_8303_518571::54989 (-)
+
+estnltk_words_flat   ...Maarja Tervisekeskus  , registrikoodiga {10294787 .} Asukoht Ravi 1 , Väike-Maarja , Lääne-V...
+stanford_words       ...Maarja Tervisekeskus  , registrikoodiga {10294787} {.} Asukoht Ravi 1 , Väike-Maarja , Lääne-V...
+
+=====================================================================================
+
+nc_periodicals::nc_8356_522128::55400 (+)
+
+estnltk_words_flat   ...ne Paluver , Väino Laes , Tarmo Männard {jt .}\n\nRao Heidmetsa Filmistuudio , 1998 .\n\nE...
+stanford_words       ...ne Paluver , Väino Laes , Tarmo Männard {jt} {.}\n\nRao Heidmetsa Filmistuudio , 1998 .\n\nE...
+
+=====================================================================================
+
+nc_periodicals::nc_8466_529691::56030 (?)
+
+estnltk_words_flat   ...l Kopenhaagenis alistas Eesti Taani 5 : {3 .}\n\nn LASKESUUSATAMINE .  Otepääl toimunud...
+stanford_words       ...l Kopenhaagenis alistas Eesti Taani 5 : {3} {.}\n\nn LASKESUUSATAMINE .  Otepääl toimunud...
+
+=====================================================================================
+
+nc_periodicals::nc_8831_559558::56341 (+)
+
+estnltk_words_flat   ...asuvasse Heureka teaduskeskusesse , kus {14.}{-}{15.} juunini leidis aset esimene teaduskesku...
+stanford_words       ...asuvasse Heureka teaduskeskusesse , kus {14.-15.} juunini leidis aset esimene teaduskesku...
+
+=====================================================================================
+
+nc_periodicals::nc_9042_567646::56544 (+)
+
+estnltk_words_flat   ...r Kapi kompositsiooniklassi , oli samas {1935}{-}{1941} ja taas 1944-ndast õppejõud , professor...
+stanford_words       ...r Kapi kompositsiooniklassi , oli samas {1935-1941} ja taas 1944-ndast õppejõud , professor...
+
+=====================================================================================
+
+web13::web13_206355_x::58155 (+)
+
+estnltk_words_flat   ...älja, kui samas toas oled kõnelejaga... {:(}\n\nVunts : Suhteline jah, selle koha peal...
+stanford_words       ...älja, kui samas toas oled kõnelejaga... {:}{(}\n\nVunts : Suhteline jah, selle koha peal...
+
+=====================================================================================
+
+web13::web13_208257_x::58456 (+)
+
+estnltk_words_flat   ...: D. S. Hull, Film in the Third Reich ; {O. Angelus}, Tuhande valitseja maa .\n\nKuid, kui lug...
+stanford_words       ...: D. S. Hull, Film in the Third Reich ; {O.} {Angelus}, Tuhande valitseja maa .\n\nKuid, kui lug...
+
+=====================================================================================
+
+web13::web13_265054_x::61238 (+)
+
+estnltk_words_flat   ...audu pissivad?\n\nVasta\n\nmina\n\n20.02.2011 {17:26}\n\nsee küll tõsi pole et mehed võivad ain...
+stanford_words       ...audu pissivad?\n\nVasta\n\nmina\n\n20.02.2011 {17}{:}{26}\n\nsee küll tõsi pole et mehed võivad ain...
+
+=====================================================================================
+
+web13::web13_321746_x::66310 (+)
+
+estnltk_words_flat   ... inimene oma suure ja targa ajuga yldse {m6istab}{,}{et} esiteks ta saeb metsad maha,kus nagu te...
+stanford_words       ... inimene oma suure ja targa ajuga yldse {m6istab,et} esiteks ta saeb metsad maha,kus nagu te...
+
+=====================================================================================
+
+web13::web13_337697_x::67747 (+)
+
+estnltk_words_flat   ...miks nõud ikka veel nõudepesumasinas on {jne}{...} Siit siis küsimus, miks mu ema nii ebav...
+stanford_words       ...miks nõud ikka veel nõudepesumasinas on {jne..}{.} Siit siis küsimus, miks mu ema nii ebav...
+
+=====================================================================================
+
+web13::web13_337945_x::67855 (+)
+
+estnltk_words_flat   ... palka!\n\nVasta\n\nPost Mortem\n\n06.03.2012 {20:08}\n\nPalju tuleks tõsta kompleksselt, ega s...
+stanford_words       ... palka!\n\nVasta\n\nPost Mortem\n\n06.03.2012 {20}{:}{08}\n\nPalju tuleks tõsta kompleksselt, ega s...
+
+=====================================================================================
+
+web13::web13_345406_x::70481 (+)
+
+estnltk_words_flat   ...s saavad teenindajad 1300 eurot puhtalt {kätte}{,}{see} on nende miinimum aga meil vaevalt 300e...
+stanford_words       ...s saavad teenindajad 1300 eurot puhtalt {kätte,see} on nende miinimum aga meil vaevalt 300e...
+
+=====================================================================================
+
+web13::web13_352022_x::72840 (+)
+
+estnltk_words_flat   ...le mingi mees\n\nVasta\n\nTanel\n\n24.11.2010 {21:24}\n\nSee on jah täielik huumor selles saate...
+stanford_words       ...le mingi mees\n\nVasta\n\nTanel\n\n24.11.2010 {21}{:}{24}\n\nSee on jah täielik huumor selles saate...
+
+=====================================================================================
+
+web13::web13_356312_x::74553 (+)
+
+estnltk_words_flat   ...ge hullem neile kes ei oska veel nuusata{...}{poiss} oli ka 2 nädalat tagasi ja nii halb oli...
+stanford_words       ...ge hullem neile kes ei oska veel nuusata{.}{.}{.poiss} oli ka 2 nädalat tagasi ja nii halb oli...
+
+=====================================================================================
+
+web13::web13_358043_x::75159 (+)
+
+estnltk_words_flat   ...n ennast vanana.\n\nVasta\n\nma\n\n26.02.2012 {17:14}\n\nJass kirjutas:\n\nei näinud 13-aastaselt...
+stanford_words       ...n ennast vanana.\n\nVasta\n\nma\n\n26.02.2012 {17}{:}{14}\n\nJass kirjutas:\n\nei näinud 13-aastaselt...
+=====================================================================================
+
+web13::web13_383563_x::77037 (+)
+
+estnltk_words_flat   ...a oli vist ähmis unustanud riided selga {tõmmata}{...} Kuidas ma peaksin praegust olukorda sel...
+stanford_words       ...a oli vist ähmis unustanud riided selga {tõmmata.}{.}{.} Kuidas ma peaksin praegust olukorda sel...
+
+=====================================================================================
+
+web13::web13_397141_x::78214 (+)
+
+estnltk_words_flat   ...ku tormab. ;-)\n\nRenxik\n\nSho\n\n07.10.2011 {17:19}\n\nKas siis on olemas ka selline asi nagu...
+stanford_words       ...ku tormab. ;-)\n\nRenxik\n\nSho\n\n07.10.2011 {17}{:}{19}\n\nKas siis on olemas ka selline asi nagu...
+
+=====================================================================================
+
+web13::web13_398885_x::78301 (+)
+
+estnltk_words_flat   ...mulje, nagu loeksid filmistsenaariumeid {a la} "Ühe aasta üheksa päeva" või midagi sin...
+stanford_words       ...mulje, nagu loeksid filmistsenaariumeid {a} {la} "Ühe aasta üheksa päeva" või midagi sin...
+
+=====================================================================================
+
+web13::web13_423775_x::79531 (+)
+
+estnltk_words_flat   ...a pisteti.\n\nMAUNO VIIRES 4. august 2011 {11:26} vasta Võidakse küsida – ehk olen ma üle...
+stanford_words       ...a pisteti.\n\nMAUNO VIIRES 4. august 2011 {11}{:}{26} vasta Võidakse küsida – ehk olen ma üle...
+
+=====================================================================================
+
+web13::web13_472337_x::84843 (+)
+
+estnltk_words_flat   ...alle on tähtsad ainult kamarilja kitsad {huvid}{,}{muu} ühiskonna heaolusse suhtub nagu mariin ...
+stanford_words       ...alle on tähtsad ainult kamarilja kitsad {huvid,muu} ühiskonna heaolusse suhtub nagu mariin ...
+
+=====================================================================================
+
+web13::web13_484092_x::88063 (?)
+
+estnltk_words_flat   ...on võrreldav HD-kanalite sisu puudusega {3}{-}{4} aastat tagasi, siis usun, et paari aast...
+stanford_words       ...on võrreldav HD-kanalite sisu puudusega {3-4} aastat tagasi, siis usun, et paari aast...
+=====================================================================================
+
+web13::web13_516198_x::88590 (--)
+
+estnltk_words_flat   ...pole ma teinud ning närvid on läbi.olen {15.}{kui} ma rase olen,siis on mu elu läbi.emaga ...
+stanford_words       ...pole ma teinud ning närvid on läbi.olen {15.kui} ma rase olen,siis on mu elu läbi.emaga ...
+
+=====================================================================================
+
+web13::web13_568803_x::91616 (+)
+
+estnltk_words_flat   ...kõhklus - kas tõesti on kogu tee selline{....}{400} meetrit. Tee on selgelt parem, meeleolu...
+stanford_words       ...kõhklus - kas tõesti on kogu tee selline{.}{.}{..400} meetrit. Tee on selgelt parem, meeleolu...
+
+=====================================================================================
+
+web13::web13_595790_x::94616 (+)
+
+estnltk_words_flat   ...\n\nVasta\n\nküsimus\n\nPõllumees\n\n19.10.2012 {23:10}\n\nMa pole öelnud, et Linnutajast lugu pi...
+stanford_words       ...\n\nVasta\n\nküsimus\n\nPõllumees\n\n19.10.2012 {23}{:}{10}\n\nMa pole öelnud, et Linnutajast lugu pi...
+
+=====================================================================================
+
+web13::web13_598199_x::95288 (+)
+
+estnltk_words_flat   .....\n\n17.11.2012 02:58\n\nPalju nõuad, vähe {saad}{...}{vähe} nõuad, üldse ei saa! :)\n\nVasta\n\nTäiskuu...
+stanford_words       .....\n\n17.11.2012 02:58\n\nPalju nõuad, vähe {saad...vähe} nõuad, üldse ei saa! :)\n\nVasta\n\nTäiskuu...
+
+=====================================================================================
+
+wiki17::wiki17_107356_x::100224 (+)
+
+estnltk_words_flat   ...ta. avjoska 21. juuni 2009, kell 20:29 ({UTC}{)}\n\nKopipeistimärkus on selgitusteta eemal...
+stanford_words       ...ta. avjoska 21. juuni 2009, kell 20:29 ({UTC)}\n\nKopipeistimärkus on selgitusteta eemal...
+
+=====================================================================================
+
+wiki17::wiki17_110219_x::100754 (+)
+
+estnltk_words_flat   ... pinnavorm. Andres 10. märts 2010, kell {07:17} (UTC)...
+stanford_words       ... pinnavorm. Andres 10. märts 2010, kell {07}{:}{17} (UTC)...
+=====================================================================================
+
+wiki17::wiki17_124207_x::103000 (?)
+
+estnltk_words_flat   ...tsenti Soccernet.ee, 19. november 2009\n\n{↑"}FC Flora pidas värava puhtana ja juubeld...
+stanford_words       ...tsenti Soccernet.ee, 19. november 2009\n\n{↑}{"}FC Flora pidas värava puhtana ja juubeld...
+
+=====================================================================================
+
+wiki17::wiki17_138268_x::105692 (+)
+
+estnltk_words_flat   ...ektroonilise arvuti transistor. Sellise {'}{optiline} transistor' saab luua optilise loogikal...
+stanford_words       ...ektroonilise arvuti transistor. Sellise {'optiline} transistor' saab luua optilise loogikal...
+
+=====================================================================================
+
+wiki17::wiki17_140910_x::106327 (+)
+
+estnltk_words_flat   ...es 90 000 aastat tagasi, Euroopas umbes {40 000} aastat tagasi. Kultuutikandjad olid kun...
+stanford_words       ...es 90 000 aastat tagasi, Euroopas umbes {40} {000} aastat tagasi. Kultuutikandjad olid kun...
+
+=====================================================================================
+
+wiki17::wiki17_149258_x::107626 (+)
+
+estnltk_words_flat   ... Edasi, inglise sõnadele vastavad eesti {keeles}{...} sisaldab arutlust mõistete kasutuse ja ...
+stanford_words       ... Edasi, inglise sõnadele vastavad eesti {keeles..}{.} sisaldab arutlust mõistete kasutuse ja ...
+
+=====================================================================================
+
+wiki17::wiki17_153719_x::108398 (+)
+
+estnltk_words_flat   .... Uuesti töötas ta pedagoogina aastatel {1999}{–}{2004} ja 2006–2010 Saduküla põhikooli direkto...
+stanford_words       .... Uuesti töötas ta pedagoogina aastatel {1999–2004} ja 2006–2010 Saduküla põhikooli direkto...
+
+=====================================================================================
+
+wiki17::wiki17_157834_x::109091 (+)
+
+estnltk_words_flat   ...ega)--Dj Capricorn 31. juuli 2009, kell {20:31} (UTC)\n\nLiigid on juhuslikus järjekorras...
+stanford_words       ...ega)--Dj Capricorn 31. juuli 2009, kell {20}{:}{31} (UTC)\n\nLiigid on juhuslikus järjekorras...
+
+=====================================================================================
+
+wiki17::wiki17_169449_x::111025 (+)
+
+estnltk_words_flat   ...d võsud tärkavad, ja seda tuleb korrata {2}{–}{3} korda suve jooksul.\n\nTänapäeval kasutat...
+stanford_words       ...d võsud tärkavad, ja seda tuleb korrata {2–3} korda suve jooksul.\n\nTänapäeval kasutat...
+=====================================================================================
+
+wiki17::wiki17_189927_x::115090 (?)
+
+estnltk_words_flat   ...aragrahvi.\n\nSeadus jõustus 22. aprillil {1938.} Vabariigi Presidendi asetäitmise seadus...
+stanford_words       ...aragrahvi.\n\nSeadus jõustus 22. aprillil {1938}{.} Vabariigi Presidendi asetäitmise seadus...
+
+=====================================================================================
+
+wiki17::wiki17_190150_x::115144 (?)
+
+estnltk_words_flat   ...ööealisi oli 50, pensionäre 22 ja lapsi {7.} [2]\n\nKülas on raamatukogu, kauplus ja p...
+stanford_words       ...ööealisi oli 50, pensionäre 22 ja lapsi {7}{.} [2]\n\nKülas on raamatukogu, kauplus ja p...
+=====================================================================================
+
+wiki17::wiki17_23836_x::118734 (+)
+
+estnltk_words_flat   ...seid, milleks on tiheliidus, aukliidus, {rakk}{–}{rakk} ja rakk–maatriks liidus (ankurliidus). ...
+stanford_words       ...seid, milleks on tiheliidus, aukliidus, {rakk–rakk} ja rakk–maatriks liidus (ankurliidus). ...
+
+=====================================================================================
+
+wiki17::wiki17_46998_x::122607 (+)
+
+estnltk_words_flat   ...inii Kooda. Andres 27. juuni 2009, kell {09:29} (UTC)\n\nMul on kodus paberkujul mingi va...
+stanford_words       ...inii Kooda. Andres 27. juuni 2009, kell {09}{:}{29} (UTC)\n\nMul on kodus paberkujul mingi va...
+
+=====================================================================================
+
+wiki17::wiki17_47003_x::122614 (+)
+
+estnltk_words_flat   ...Andres (arutelu) 6. november 2013, kell {18:41} (EET)...
+stanford_words       ...Andres (arutelu) 6. november 2013, kell {18}{:}{41} (EET)...
+=====================================================================================
+
+wiki17::wiki17_51805_x::123422 (+)
+
+estnltk_words_flat   ...s ja damas riigis üks ja sama dünastia. {Nt.} Selleks oli Rootsi ja Poola, kellel oli...
+stanford_words       ...s ja damas riigis üks ja sama dünastia. {Nt}{.} Selleks oli Rootsi ja Poola, kellel oli...
+
+=====================================================================================
+
+wiki17::wiki17_52768_x::123633 (-)
+
+estnltk_words_flat   ...928. Ordineeriti õpetajaks 4. novembril {1928.}\n\nTa oli aastatel 1927–1939 Vastseliina ...
+stanford_words       ...928. Ordineeriti õpetajaks 4. novembril {1928}{.}\n\nTa oli aastatel 1927–1939 Vastseliina ...
+
+=====================================================================================
+
+wiki17::wiki17_59877_x::125033 (+)
+
+estnltk_words_flat   ... täpsed. Andres 16. veebruar 2010, kell {14:36} (UTC) Ja nimelt siis? --Hälvik 11. märt...
+stanford_words       ... täpsed. Andres 16. veebruar 2010, kell {14}{:}{36} (UTC) Ja nimelt siis? --Hälvik 11. märt...
+
+=====================================================================================
+
+wiki17::wiki17_78138_x::127991 (+)
+
+estnltk_words_flat   ... Maailmarekordi eest maksti veel lisaks {100 000} dollarit....
+stanford_words       ... Maailmarekordi eest maksti veel lisaks {100} {000} dollarit....
+=====================================================================================
+
+wiki17::wiki17_81030_x::128395 (?)
+
+estnltk_words_flat   ...aailma riikides loodud piraadiparteid.\n\n{↑"}Šveits otsustas, et netipiraatlus pole k...
+stanford_words       ...aailma riikides loodud piraadiparteid.\n\n{↑}{"}Šveits otsustas, et netipiraatlus pole k...
+=====================================================================================
+
+wiki17::wiki17_92822_x::130517 (+)
+
+estnltk_words_flat   ...alkuhnen) süda. Peahoone laskis aastail {1890}{–}{1892} ehitada August von Oettingen Wilhelm Ne...
+stanford_words       ...alkuhnen) süda. Peahoone laskis aastail {1890–1892} ehitada August von Oettingen Wilhelm Ne...
+
+=====================================================================================
+
+
+  Summary:
+   69 [+]   --  estnltk correct
+   17 [-]   --  stanfordnlp correct
+   2  [--]  --  both estnltk and stanfordnlp wrong
+   12 [?]   --  hard to tell
+

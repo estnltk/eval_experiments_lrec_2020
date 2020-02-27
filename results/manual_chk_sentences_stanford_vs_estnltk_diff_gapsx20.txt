@@ -1,0 +1,1371 @@
+
+Collecting indexes ...
+  77304  (100.00%)   TOTAL
+
+  25903  (33.51%)    nc_fiction
+  18517  (23.95%)    nc_science
+  14646  (18.95%)    nc_periodicals
+  10711  (13.86%)    web13
+  7527  (9.74%)    wiki17
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   nc_periodicals
+  20   nc_fiction
+  20   nc_science
+  20   web13
+  20   wiki17
+
+ Legend:
+   [+]   --  estnltk correct
+   [-]   --  stanfordnlp correct
+   [--]  --  both estnltk and stanfordnlp wrong
+   [?]   --  hard to tell
+
+
+=====================================================================================
+
+
+nc_periodicals::nc_10532_641999::591 (+)
+
+...
+-------------------------
+estnltk_sentences_flat   TV3 andis Eesti Olümpiaakadeemiale ( EOA ) üle mälumängu " Kes tahab saada miljonäriks ? " heategevusliku eriprojekti käigus võidetud 97 000 krooni , millega toetatakse kooliolümpiamängude korraldamist ja koolispordi arengut .
+-------------------------
+stanford_sentences       TV3 andis Eesti Olümpiaakadeemiale ( EOA ) üle mälumängu
+stanford_sentences       " Kes tahab saada miljonäriks ? " heategevusliku eriprojekti käigus võidetud 97 000 krooni , millega toetatakse kooliolümpiamängude korraldamist ja koolispordi arengut .
+-------------------------
+\n\n" Käesoleval aastal jäi kooliolümpia projekti eelarve ligi paarisaja...
+
+=====================================================================================
+
+nc_periodicals::nc_11115_691228::2112 (+)
+
+...eina registreeritud , on võimalik ka tulevastel valimistel osaleda .\n\n
+-------------------------
+estnltk_sentences_flat   " Juba sotsiaaldemokraatia idee aitab riiki äärmustest päästa , ühendades liberaalseid väärtusi ja võttes minevikust parima , " ütles Gorbatšov ajakirjanikele .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Juba sotsiaaldemokraatia idee aitab riiki äärmustest päästa , ühendades liberaalseid väärtusi ja võttes minevikust parima , " ütles Gorbatšov ajakirjanikele .
+-------------------------
+Tema sõnul tahab ta luua suure , populaarse ja " väga demokraatliku "...
+=====================================================================================
+
+nc_fiction::nc_11698_732036::4650 (+)
+
+...tunud ja Jaroslawa asetas nad külaliste tõrkumisest hoolimata ahju .\n\n
+-------------------------
+estnltk_sentences_flat   " Ma saan aru , et pan tuli mulle appi , " ütles Jaroslawa , kui ahju juures askeldas .
+estnltk_sentences_flat   " Ja pean vabandama , et ennist nii tõrges olin ...
+-------------------------
+stanford_sentences       "
+stanford_sentences       Ma saan aru , et pan tuli mulle appi , " ütles Jaroslawa , kui ahju juures askeldas . " Ja pean vabandama , et ennist nii tõrges olin ...
+-------------------------
+Tegelikult olen teile väga tänulik . Maryszia ütles , et te saate aid...
+
+=====================================================================================
+
+nc_fiction::nc_11701_732059::6667 (+)
+
+... pealage .\n\n" Mu vend ! " hüüdis ta . " Ma olen unustanud oma venna !
+-------------------------
+estnltk_sentences_flat   Agricol ! "
+-------------------------
+stanford_sentences       Agricol !
+stanford_sentences       "
+-------------------------
+\n\n" Jah , Teie Majesteet , " ilmus kantsler lävele .\n\n" Agricol , mul ...
+
+=====================================================================================
+
+nc_fiction::nc_11706_732077::7605 (?)
+
+...us otsast kuulikes- teks ning lendas katkendliku joana aknast välja .
+-------------------------
+estnltk_sentences_flat   Regina tahtis just ära minestada ja üles ärgata mingis rahulikumas kohas - aga ühekorraga kargas Kaaren püsti ja jooksis uksi paugutades majast välja , akna taga vilksatas mingi helendav siluett ja keegi karjus plekise häälega : " Kohe saan su kätte !
+-------------------------
+stanford_sentences       Regina tahtis just ära minestada ja üles ärgata mingis rahulikumas kohas - aga ühekorraga kargas Kaaren püsti ja jooksis uksi paugutades majast välja , akna taga vilksatas mingi helendav siluett ja keegi karjus plekise häälega :
+stanford_sentences       " Kohe saan su kätte !
+-------------------------
+Kohe saan su kätte ! " - nii et Regina otsustas minestamisega veel ve...
+
+=====================================================================================
+
+nc_fiction::nc_11711_732124::7731 (+)
+
+...e , minge sõber Lothar ja olgu Santiago tähed teile teenäitejaks . "\n\n
+-------------------------
+estnltk_sentences_flat   " Kas ... kas ma võin neid vähemalt vaadata ? " küsib Lothar hüvastijätuks , suutmata ikka veel uskuda , mida vutlar tema käes endas peidab .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Kas ... kas ma võin neid vähemalt vaadata ? " küsib Lothar hüvastijätuks , suutmata ikka veel uskuda , mida vutlar tema käes endas peidab .
+-------------------------
+\n\n" Te olete ju näinud ? " küsib de Baena vastu , tundub , et ta suuda...
+
+=====================================================================================
+
+nc_fiction::nc_11742_732450::9954 (+)
+
+...iselt näeb kodudes . Mis asjad need täpselt on , sa tähele ei pane .\n\n
+-------------------------
+estnltk_sentences_flat   " See on maailma mädapaise , " ütleb Vic ja põrnitseb ööd .
+-------------------------
+stanford_sentences       "
+stanford_sentences       See on maailma mädapaise , " ütleb Vic ja põrnitseb ööd .
+-------------------------
+Hotelli siseõu lõpeb väikese aiaga , mille taga kasvab paar rida palm...
+
+=====================================================================================
+
+nc_fiction::nc_11784_732903::14138 (+)
+
+..." Mis juhtus ? "\n\nTa ei vastanud .\n\n" Mis sa nende kohta ütlesid ? "\n\n
+-------------------------
+estnltk_sentences_flat   " Ma ei tea ... "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Ma ei tea ... "
+-------------------------
+\n\n" Sa ütlesid , et neid ei maksaks karta . Kust sa tead ? Miks sa nii...
+
+=====================================================================================
+
+nc_fiction::nc_11793_732947::14718 (+)
+
+...silma .\n\n" Sa olid ilus , " teatas ta ning silitas tüdruku juukseid .
+-------------------------
+estnltk_sentences_flat   " Sa oled ilus ka praegu . "
+-------------------------
+stanford_sentences       " Sa oled ilus ka praegu .
+stanford_sentences       "
+-------------------------
+\n\nTüdruk lebas endiselt vaikides . Ta oli surnud .\n\nPoiss jälgis , kui...
+
+=====================================================================================
+
+nc_fiction::nc_11798_733037::16072 (+)
+
+...simesena pisut kõikuva sammuga dušširuumide poole .\n\n" Deathface . "\n\n
+-------------------------
+estnltk_sentences_flat   " Tal on juba sünnist saati loomulik surnupealuunägu , " mõtles Tiger rohkem omaette , hoolimata sellest , et kuna lülitused olid aktiivsed , tajus seda ka tehisintellekt .
+estnltk_sentences_flat   " Peale seda kahe aasta tagust plahvatus , kui ta lõust veel kriimud ja kõrvetada sai ... kui ta plastilist operatsiooni teha ei lase , kannab ta oma nime auga elulõpuni . "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Tal on juba sünnist saati loomulik surnupealuunägu , " mõtles Tiger rohkem omaette , hoolimata sellest , et kuna lülitused olid aktiivsed , tajus seda ka tehisintellekt . " Peale seda kahe aasta tagust plahvatus , kui ta lõust veel kriimud ja kõrvetada sai ... kui ta plastilist operatsiooni teha ei lase , kannab ta oma nime auga elulõpuni . "
+-------------------------
+\n\n" Ma ei ole kompetentne arvamust avaldama inimeste sedalaadi otsuste...
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::17003 (+)
+
+...lja tolmunud ja kolletanud vihu , mille kaanel gooti kirjas seisis :\n\n
+-------------------------
+estnltk_sentences_flat   " KOMMUNISMUSE A-B-C . N.Buhharini järele ümber seadnud H.Pöögelmann. "
+-------------------------
+stanford_sentences       "
+stanford_sentences       KOMMUNISMUSE A-B-C . N.Buhharini järele ümber seadnud H.Pöögelmann.
+stanford_sentences       "
+-------------------------
+\n\nJa nüüd ... nüüd loe , Riks , mis nad siin kirjutavad : kommunism on...
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::18143 (+)
+
+...uskülvi , aga miskipärast nägin ma seal notsukartuleid küll ja küll .
+-------------------------
+estnltk_sentences_flat   Olete lutsernile aluskülvi teinud . "
+-------------------------
+stanford_sentences       Olete lutsernile aluskülvi teinud .
+stanford_sentences       "
+-------------------------
+\n\nNii kestis meie vestlus veel tükk aega , kuni " häärberi " ees pidur...
+
+=====================================================================================
+
+nc_fiction::nc_11805_733120::18459 (+)
+
+... on ta sihikule võtnud . Samal ajal hiilis saaliuksest sisse Chris .\n\n
+-------------------------
+estnltk_sentences_flat   " Ma ei viitsind õhtu otsa kodus passida .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Ma ei viitsind õhtu otsa kodus passida .
+-------------------------
+Siin on kahtlemata palju huvitavam , " sosistas ta mulle .\n\n" Ma loot...
+
+=====================================================================================
+
+nc_fiction::nc_11830_733403::19618 (+)
+
+...a ei jooks ! Mind ei kuula ta enam üldse ! "\n\n" Kus ta praegu on ? "\n\n
+-------------------------
+estnltk_sentences_flat   " Magab oma toas ! "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Magab oma toas ! "
+-------------------------
+\n\nTegin ukse lahti . Pavka lamas ristseliti voodil , voodi kõrval oli ...
+
+=====================================================================================
+
+nc_fiction::nc_11830_733403::20046 (+)
+
+... ja karvamütsid peas , vaatasid mind imelikult . Kordasin küsimust .\n\n
+-------------------------
+estnltk_sentences_flat   " Pojakene , selle bussi peal ei osta keegi piletit , " ütles paksu villase pearätikuga vana naine .
+estnltk_sentences_flat   " Siin on kõik omad inimesed . "
+-------------------------
+stanford_sentences       " Pojakene , selle bussi peal ei osta keegi piletit , " ütles paksu villase pearätikuga vana naine . " Siin on kõik omad inimesed .
+stanford_sentences       "
+-------------------------
+\n\nNägin , et olen sattunud narri olukorda . Sangaga piletikomposter ri...
+
+=====================================================================================
+
+nc_fiction::nc_11830_733403::20497 (+)
+
+...ib mingit hoiukassat tühjaks teha . "\n\n" Paned ikka vana rida edasi ?
+-------------------------
+estnltk_sentences_flat   Nagu enne tsooni ? "
+-------------------------
+stanford_sentences       Nagu enne tsooni ?
+stanford_sentences       "
+-------------------------
+\n\n" Varianti pole . Sa ju alles said välja , tead omast käest . Ja pea...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::22383 (+)
+
+...koopiad , Arhip ibn-Semjon ? Allah tahab , et maailm saaks paremaks .
+-------------------------
+estnltk_sentences_flat   Ja alles siis , kui ma südames võin uskuda , et minu kännust kasvaval võsul on võimalik minust kaugemale ja kõrgemale tõusta , jah , et tema võimalused pole milleski minuga piiratud , tunnen ma südames , et ma ei tee pattu iseenda , pühakirja ega Allahi vastu . "
+-------------------------
+stanford_sentences       Ja alles siis , kui ma südames võin uskuda , et minu kännust kasvaval võsul on võimalik minust kaugemale ja kõrgemale tõusta , jah , et tema võimalused pole milleski minuga piiratud , tunnen ma südames , et ma ei tee pattu iseenda , pühakirja ega Allahi vastu .
+stanford_sentences       "
+-------------------------
+\n\nVaata , kuhu oli välja jõutud ! Küsimuse niisugust püstitamist polek...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::23079 (+)
+
+...et nad tahavad temaga ilmtingimata ja kõige lähemal ajal kohtuda . "\n\n
+-------------------------
+estnltk_sentences_flat   " Mina käisin teda eile vaatamas .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Mina käisin teda eile vaatamas .
+-------------------------
+Panin ta kirja EKG-le ja veel ka ajutomograafiasse . "\n\n" Kuidas ta m...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::24960 (-)
+
+...va , Ernst . Jõulupuu . Tln. , 1916.\n\nTammart , Heino . Scarborough .
+-------------------------
+estnltk_sentences_flat   Luuletused .
+estnltk_sentences_flat   Maarjamaa , 1988.
+-------------------------
+stanford_sentences       Luuletused . Maarjamaa , 1988.
+-------------------------
+\n\nUusaeg . 1870 - 1918. Keskk . X klass . Tln. , 1946.\n\nVabadussõjas l...
+
+=====================================================================================
+
+nc_fiction::nc_11851_733655::26176 (+)
+
+...t võtnud vägisi ja kirg nende vastu oli temas puhkenud alles hiljem .
+-------------------------
+estnltk_sentences_flat   Nüüd aga seisis ta vastamisi noormehega , kes teda juba enne erutas , kui nende vahel veel midagi polnud toimunudki .
+estnltk_sentences_flat   " Kus ma sinuga kokku võin saada ? " küsis poiss lõpuks hingeldades .
+-------------------------
+stanford_sentences       Nüüd aga seisis ta vastamisi noormehega , kes teda juba enne erutas , kui nende vahel veel midagi polnud toimunudki . " Kus ma sinuga kokku võin saada ? " küsis poiss lõpuks hingeldades .
+-------------------------
+" Ma ei tea , siin küll mitte . " – " Tule minu õe poole , siis kui t...
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::27819 (+)
+
+...gal juhul mitte mingi normaalne naine !\n\n" Päriselt ? " uuris Timo .\n\n
+-------------------------
+estnltk_sentences_flat   " Mine nüüd . "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Mine nüüd .
+stanford_sentences       "
+-------------------------
+\n\n" Aga Sul on muidu nagu palju mehi olnud või nii ? "\n\nMida küsimust ...
+
+=====================================================================================
+
+nc_fiction::nc_11867_733799::27975 (+)
+
+... " küsisin .\n\n" Ma panin siia natuke soodavett hulka . "\n\n" Miks ? "\n\n
+-------------------------
+estnltk_sentences_flat   " Sa tead , et Lõuna-Aafrikas joovad kõik mahla soodaveega ? "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Sa tead , et Lõuna-Aafrikas joovad kõik mahla soodaveega ? "
+-------------------------
+\n\n" Ah , mine purki oma Lõuna-Aafrikaga . Too mulle klaas päris tavali...
+
+=====================================================================================
+
+nc_science::nc_17120_740061::29763 (-)
+
+...Martens , T.  Interneti käsiraamat . Tallinn : Ilo , 1996. 48 lk.\n\n5\n\n
+-------------------------
+estnltk_sentences_flat   Toomsoo , M  .
+estnltk_sentences_flat   Kaubamärgiomamise õiguste kaitse seoses domeeninimega .
+estnltk_sentences_flat   //  Juridica  ( 2000 ) 5 , lk. 283.
+-------------------------
+stanford_sentences       Toomsoo , M  . Kaubamärgiomamise õiguste kaitse seoses domeeninimega . //  Juridica  ( 2000 ) 5 , lk. 283.
+-------------------------
+\n\n6\n\nRT 1992 , 35 , 459 ; RT I 1998 , 15 , 231 ; 1999 , 93 , 834 ; 199...
+
+=====================================================================================
+
+nc_science::nc_17123_740704::30131 (-)
+
+...lukorra , mis ei võimalda saavutada ühtlast plasmakontsentratsiooni .
+-------------------------
+estnltk_sentences_flat   Ravi on soovitatav alustada paratsetamooliga ( nt PAMOL Nycomed , 500- 1000 mg 6-8 tunni järel ) .
+estnltk_sentences_flat   Ebapiisava toime korral järgnevad valuvastaste ainete “ treppi ” mööda tõustes ibuprofeen ( IBUPROFEN Nycomed , 400-600 mg 6-8 tunni järel ) või diklofenakk ( CATAFLAM Ciba , 25-50 mg 6-8 tunni järel ) .
+estnltk_sentences_flat   CATAFLAM on diklofenaki kaaliumsool , mis imendub suhteliselt kiiresti ja on ravimiuuringutes osutunud tõhusaks eriti nimmevalude ja ishiase ravis .
+-------------------------
+stanford_sentences       Ravi on soovitatav alustada paratsetamooliga ( nt PAMOL Nycomed , 500- 1000 mg 6-8 tunni järel ) . Ebapiisava toime korral järgnevad valuvastaste ainete “ treppi ” mööda tõustes ibuprofeen ( IBUPROFEN Nycomed , 400-600 mg 6-8 tunni järel ) või diklofenakk ( CATAFLAM Ciba , 25-50 mg 6-8 tunni järel ) . CATAFLAM on diklofenaki kaaliumsool , mis imendub suhteliselt kiiresti ja on ravimiuuringutes osutunud tõhusaks eriti nimmevalude ja ishiase ravis .
+-------------------------
+Mõjusa valuvastase toimega on ka lornoksikaam ( XEFO Nycomed ) , kuid...
+
+=====================================================================================
+
+nc_science::nc_17123_740813::30342 (+)
+
+... patoloogia\n\nTäpne WN viiruse replikatsiooni mehhanism ei ole teada .
+-------------------------
+estnltk_sentences_flat   Arvatakse , et viiruse esmane replikatsioon toimub nahas ja regionaalsetes lümfisõlmedes , sellele järgneb esmane vireemia , mis haarab retikuloendoteliaalsüsteemi ( RES ) ( 1 , 4 ) .
+estnltk_sentences_flat   Olenevalt sekundaarse vireemia tasemest , mis sõltub viiruse replikatsioonist RESis , satub viirus kesknärvisüsteemi ( KNS ) .
+-------------------------
+stanford_sentences       Arvatakse , et viiruse esmane replikatsioon toimub nahas ja regionaalsetes lümfisõlmedes , sellele järgneb esmane vireemia , mis haarab retikuloendoteliaalsüsteemi ( RES ) ( 1 , 4 ) . Olenevalt sekundaarse vireemia tasemest , mis sõltub viiruse replikatsioonist RESis , satub viirus kesknärvisüsteemi ( KNS ) .
+-------------------------
+Tervetel nakatunutel võib viirus täielikult elimineeruda verest viiru...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::31199 (+)
+
+...aboratooriumteatrisse sisestatud segase päritoluga orgaaniline aine .
+-------------------------
+estnltk_sentences_flat   Uurija/vaataja tunneb objekti/etenduse vastu sügavat huvi , sest lisaks kõigele on see kaudselt ka osake temast endast , mõjutab teda isiklikult , kuid ta püüab eksperimendile või selles osalejatele kaasaeelamist ja liigseid emotsioone vältida .
+estnltk_sentences_flat   ( Selle väitega haakus ootamatult leitud füüsik Kõivu enda repliik : " Füüsikat võikski määratleda - see tükk loodusest , mida on võimalik matemaatikaga sealt välja rebida .
+-------------------------
+stanford_sentences       Uurija/vaataja tunneb objekti/etenduse vastu sügavat huvi , sest lisaks kõigele on see kaudselt ka osake temast endast , mõjutab teda isiklikult , kuid ta püüab eksperimendile või selles osalejatele kaasaeelamist ja liigseid emotsioone vältida . ( Selle väitega haakus ootamatult leitud füüsik Kõivu enda repliik : " Füüsikat võikski määratleda - see tükk loodusest , mida on võimalik matemaatikaga sealt välja rebida .
+-------------------------
+Matemaatika modelleerib seda füüsika tükki . " ( Die ... 1998 : 24 ) ...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::31402 (--)
+
+...ikaks " või võõrkeelseks , kuid alltekstiliselt rikkaks lavastuseks .
+-------------------------
+estnltk_sentences_flat   Nende kahe lavastuse vahel on siiski säilinud järjepidevus : filosoofide dispuut osutub kultuurse suhtlemise ideaalmudeliks ning printsipiaalsus ja sallivus kehtivad kõigis olukordades .
+estnltk_sentences_flat   ( Vellerand 1994b ) Olukorda komplitseeris Professori inimlik põhiprobleem - elu lõpule jõudnud mehe kahtlused kord tehtud valikute õigsuses .
+-------------------------
+stanford_sentences       Nende kahe lavastuse vahel on siiski säilinud järjepidevus : filosoofide dispuut osutub kultuurse suhtlemise ideaalmudeliks ning printsipiaalsus ja sallivus kehtivad kõigis olukordades . ( Vellerand 1994b ) Olukorda komplitseeris Professori inimlik põhiprobleem - elu lõpule jõudnud mehe kahtlused kord tehtud valikute õigsuses .
+-------------------------
+Koomiline modaalsus näib " Filosoofipäevas " siiski üsna domineeriv o...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::31637 (--)
+
+.... Jänese lavakujundusele ja 2 P. Pedajase muusikalisele kujundusele .
+-------------------------
+estnltk_sentences_flat   Näitlejatest jäid silma 4 korda A. Lutsepp ja J. Uuspõld , 3 korda I. Ever ja A. Vaarik , 2 korda kogu trupp ning 1 kord K. Kreismann , R. Oja , T. Sukk ja T. Teplenkov .
+estnltk_sentences_flat   ( Teatriankeet ... 1999 ) Kuigi komöödiad lähevad harva teatrilukku kunstiliste tippsaavutustena , oli " Moondsundiga " sündinud eripärane teatrižanr , mida mõned kirjutajad ka defineerida püüdsid .
+estnltk_sentences_flat   " Pedajase musikaalne võõritusvõtetega režii ja näitlejate ehe mäng ongi kokku see uus teater , uus Kõivu-Pedajase poeetiline komöödiateater vana Draamateatri seinte vahel . "
+-------------------------
+stanford_sentences       Näitlejatest jäid silma 4 korda A. Lutsepp ja J. Uuspõld , 3 korda I. Ever ja A. Vaarik , 2 korda kogu trupp ning 1 kord K. Kreismann , R. Oja , T. Sukk ja T. Teplenkov . ( Teatriankeet ... 1999 )
+stanford_sentences       Kuigi komöödiad lähevad harva teatrilukku kunstiliste tippsaavutustena , oli " Moondsundiga " sündinud eripärane teatrižanr , mida mõned kirjutajad ka defineerida püüdsid . " Pedajase musikaalne võõritusvõtetega režii ja näitlejate ehe mäng ongi kokku see uus teater , uus Kõivu-Pedajase poeetiline komöödiateater vana Draamateatri seinte vahel . "
+-------------------------
+( Vellerand 1999a ) M. Mutt nimetas " Moondsundi " tragöödia motiivid...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::34523 (-)
+
+... paragrahvis .\n\n§ 3. Ettevaatusprintsiip rahvusvahelistes lepingutes\n\n
+-------------------------
+estnltk_sentences_flat   3 .
+estnltk_sentences_flat   1.
+estnltk_sentences_flat   Keskkonnakonventsioonide klassifitseerimise kriteeriumid
+-------------------------
+stanford_sentences       3 . 1. Keskkonnakonventsioonide klassifitseerimise kriteeriumid
+-------------------------
+\n\nEttevaatusprintsiip on ühel või teisel kujul lülitatud peaaegu kõiki...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::36602 (?)
+
+...ensetena , ei eksisteeri looduslikke ega antropoloogilisi erinevusi .
+-------------------------
+estnltk_sentences_flat   Isegi Aafrika pügmeede pildi juurest võib lasteajakirjas leida hoopiski pildiallkirja " Neegrid " .
+estnltk_sentences_flat   584 19. sajandi teisel poolel ja veel 20. sajandi algusaastatelgi peeti lastekirjandust eelkõige kasvatusvahendiks , mille kaudu sai kõige muu kõrval sisendada ka jumalakartlikkust ja alandlikkust .
+-------------------------
+stanford_sentences       Isegi Aafrika pügmeede pildi juurest võib lasteajakirjas leida hoopiski pildiallkirja " Neegrid " . 584
+stanford_sentences       19. sajandi teisel poolel ja veel 20. sajandi algusaastatelgi peeti lastekirjandust eelkõige kasvatusvahendiks , mille kaudu sai kõige muu kõrval sisendada ka jumalakartlikkust ja alandlikkust .
+-------------------------
+585 Üsna levinud olid kristlikud vagajutud . Aafrikat puudutavad õpet...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::37158 (?)
+
+...tsmeesteks ) ja inglased mugandatult bushmaniteks ( võsameesteks ) .\n\n
+-------------------------
+estnltk_sentences_flat   412 E.W. W. Schultz , H. G. Kauzmann .
+estnltk_sentences_flat   Keograhwi .
+estnltk_sentences_flat   Lk . 85.
+-------------------------
+stanford_sentences       412 E.W. W. Schultz , H. G. Kauzmann . Keograhwi . Lk . 85.
+-------------------------
+\n\n413 M. Jakobson . Kooli-laste raamat . ( 1868 ) . Lk . 82.\n\n414 1860...
+
+=====================================================================================
+
+nc_science::nc_17160_741315::39223 (+)
+
+...id armastama . "\n\nI on innustav kiitmine , laste eneseusu toetamine .
+-------------------------
+estnltk_sentences_flat   Õ : " Alvinil on meil väga hea süda , ma tahan teada , mis tema välja pakub . "
+-------------------------
+stanford_sentences       Õ : " Alvinil on meil väga hea süda , ma tahan teada , mis tema välja pakub .
+stanford_sentences       "
+-------------------------
+\n\nM viitab mängulistele võtetele tunnis : Õpetaja viskab palli , ütleb...
+
+=====================================================================================
+
+nc_science::nc_17164_741348::39288 (--)
+
+...lt kultuuriteooriaid ja sellele baseeruvalt organisatsioonikultuuri .
+-------------------------
+estnltk_sentences_flat   Nad ütlevad : " Lühike kultuurantropoloogia mõistete klassifikatsioon annab juhiseid , kuidas läbi vaadata ja süstematiseerida kultuuri mõiste kasutamist juhtimises ja organisatsiooniteoorias . "
+estnltk_sentences_flat   ( 1984 : 99. )
+estnltk_sentences_flat   Allaire ja Firsirotu kasutavad kaheastmelist jaotust , mille kohaselt teooriad jagatakse esmalt sotsiokultuurilisteks ja ideede süsteemideks .
+-------------------------
+stanford_sentences       Nad ütlevad : " Lühike kultuurantropoloogia mõistete klassifikatsioon annab juhiseid , kuidas läbi vaadata ja süstematiseerida kultuuri mõiste kasutamist juhtimises ja organisatsiooniteoorias . " ( 1984 : 99.
+stanford_sentences       ) Allaire ja Firsirotu kasutavad kaheastmelist jaotust , mille kohaselt teooriad jagatakse esmalt sotsiokultuurilisteks ja ideede süsteemideks .
+-------------------------
+\n\nMõlemad jaotused jagunevad omakorda paljudeks elementideks vastavalt...
+
+=====================================================================================
+
+nc_science::nc_17173_741412::39863 (--)
+
+...use " ja kolme kuni neljateistkümne päeva pikkuse vanglakaristusega .
+-------------------------
+estnltk_sentences_flat   Tsaar kinnitas selle otsuse 13. septembril , Senati ukaas vormistati 20. oktoobril ja Eestimaa provintsiaalvalitsus publitseeris otsuse sama aasta 24. detsembril .
+estnltk_sentences_flat   811 Eestimaa talurahva seas oli levinud komme , mille järgi naist , kes ei olnud abielus ja sünnitas lapse , sunniti kandma tanu ja põlle ehk siis abielunaise tunnuseid , st ta " tanutati ja põlletati " ( hauben und schürzen ) .
+-------------------------
+stanford_sentences       Tsaar kinnitas selle otsuse 13. septembril , Senati ukaas vormistati 20. oktoobril ja Eestimaa provintsiaalvalitsus publitseeris otsuse sama aasta 24. detsembril . 811 Eestimaa talurahva seas oli levinud komme , mille järgi naist , kes ei olnud abielus ja sünnitas lapse , sunniti kandma tanu ja põlle ehk siis abielunaise tunnuseid , st ta " tanutati ja põlletati " ( hauben und schürzen ) .
+-------------------------
+Ka seda kommet peeti häbistavaks , mistõttu selle vältimiseks püüdsid...
+
+=====================================================================================
+
+nc_science::nc_17173_741412::40287 (?)
+
+...gegeben von Ivar Asheim und Victor R. Gold . Göttingen 1968. S. 115.\n\n
+-------------------------
+estnltk_sentences_flat   188 Göran Inger .
+estnltk_sentences_flat   Svensk rättshistoria .
+-------------------------
+stanford_sentences       188 Göran Inger . Svensk rättshistoria .
+-------------------------
+Malmö 1997. S. 78-79 ; Werner Buchholz . Schweden mit Finnland . - Dä...
+
+=====================================================================================
+
+nc_science::nc_17173_741412::41019 (-)
+
+...ndisches Bauer-Gesetzbuch . §§ 230 , 238 ( I. T. XXXIII . 26 279 ) .\n\n
+-------------------------
+estnltk_sentences_flat   807 EAA 1187-2-323 , l.
+estnltk_sentences_flat   262-262p ; sama 266-266p .
+-------------------------
+stanford_sentences       807 EAA 1187-2-323 , l. 262-262p ; sama 266-266p .
+-------------------------
+\n\n808 EAA 1187-2-325 , l. 189. Vt ka : C. H. Nielsen . Handbuch zur Ke...
+
+=====================================================================================
+
+nc_science::nc_17173_741412::41110 (--)
+
+...Holmiae MCMXLIX . P. 1-9 ; Artur Taska . Eesti vaba rahvakiriku sünd.
+-------------------------
+estnltk_sentences_flat   - Tulimuld .
+estnltk_sentences_flat   1984.
+-------------------------
+stanford_sentences       - Tulimuld . 1984.
+-------------------------
+4. Lk 200-207 ; Konrad Veem . Eesti vaba rahvakirik . Dokumentatsioon...
+
+=====================================================================================
+
+nc_science::nc_17225_741953::44113 (--)
+
+...equate  ) , passiivne ja ennastnurjav (  self-defeating  ) isiksus .\n\n
+-------------------------
+estnltk_sentences_flat   F60.
+estnltk_sentences_flat   8 Muud spetsiifilised isiksushäired
+-------------------------
+stanford_sentences       F60.8
+stanford_sentences       Muud spetsiifilised isiksushäired
+-------------------------
+\n\nIsiksushäire , mis ei sobi ühtegi spetsiifilisse rubriiki ( F60.0-F6...
+
+=====================================================================================
+
+nc_science::nc_17227_741972::44305 (-)
+
+... -  de  ) . Lemma ja morfeemide kokkupanekul saadaksegi sõnavormid .\n\n
+-------------------------
+estnltk_sentences_flat   2.2.
+estnltk_sentences_flat   Struktuurireeglid : allotaktika
+-------------------------
+stanford_sentences       2.2. Struktuurireeglid : allotaktika
+-------------------------
+\n\nEt eesti keeles võivad varieeruda kõik morfoloogilised üksused , nii...
+
+=====================================================================================
+
+nc_science::nc_17242_742175::45333 (-)
+
+...aadet eesti ilmaterminitest ja -ennetest meteoroloogilises rakursis .
+-------------------------
+estnltk_sentences_flat   6. peatükk toob u.
+estnltk_sentences_flat   600 endeteksti , mis on jagatud 14 sisulisse rubriiki .
+-------------------------
+stanford_sentences       6. peatükk toob u. 600 endeteksti , mis on jagatud 14 sisulisse rubriiki .
+-------------------------
+Tõllasepa materjali põhjaks on olnud mingi Jaan Gutvesi käsikiri , mi...
+
+=====================================================================================
+
+nc_science::nc_17250_742262::46687 (+)
+
+..., nõudmata järjepideva töö korral suuri ühekordseid investeeringuid .
+-------------------------
+estnltk_sentences_flat   Liikluskasvatuse suurem efektiivsus tagatakse paralleelselt teiste liiklusohutusabinõude rakendamisega .
+estnltk_sentences_flat   ( Muutsin jutu tervikuks )
+-------------------------
+stanford_sentences       Liikluskasvatuse suurem efektiivsus tagatakse paralleelselt teiste liiklusohutusabinõude rakendamisega . ( Muutsin jutu tervikuks )
+-------------------------
+\n\n3.1.Liikluskasvatuse abinõud\n\nLiikluskasvatus jaguneb selleks kasuta...
+
+=====================================================================================
+
+nc_science::nc_17256_742304::46967 (?)
+
+...sel , öeldes , et parem kui olla tavaline inimene on olla Valgustatud.
+-------------------------
+estnltk_sentences_flat   15 Seega näib , et ka paljud valgustatud kalduvad tegutsema moraalselt , selle asemel , et tegutseda omaenese süsteemist tulenevate järelduste valgusel .
+-------------------------
+stanford_sentences       15
+stanford_sentences       Seega näib , et ka paljud valgustatud kalduvad tegutsema moraalselt , selle asemel , et tegutseda omaenese süsteemist tulenevate järelduste valgusel .
+-------------------------
+Siinkohal võiks ka öelda , et paljud inimesed on “ paremad ” kui nend...
+
+=====================================================================================
+
+nc_periodicals::nc_2575_152082::48329 (+)
+
+... esinemist , täpselt nagu ( prantsuse näitleja ) Philippe Noiret . "\n\n
+-------------------------
+estnltk_sentences_flat   Parlamendi ülemkoja - Senati spiikerile Rene Monoryle , kes pidi asuma vahevalitsuse etteotsa juhul , kui president peaks ootamatult surema : " Hoidke oma tervist , teie olete ajutine riigipea . "
+-------------------------
+stanford_sentences       Parlamendi ülemkoja - Senati spiikerile Rene Monoryle , kes pidi asuma vahevalitsuse etteotsa juhul , kui president peaks ootamatult surema :
+stanford_sentences       " Hoidke oma tervist , teie olete ajutine riigipea . "
+-------------------------
+\n\nMitterrand suri neli aastat pärast seda repliiki .\n\n( Reuters-BNS , ...
+=====================================================================================
+
+nc_periodicals::nc_2635_156897::48587 (+)
+
+...uda . "\n\n" Oh , tema ei tulnud selle pealegi . See oli minu idee . "\n\n
+-------------------------
+estnltk_sentences_flat   " On sul veel meeles see kord , kui sa mulle abieluettepaneku tegid ja ma sulle korvi andsin ? "
+-------------------------
+stanford_sentences       "
+stanford_sentences       On sul veel meeles see kord , kui sa mulle abieluettepaneku tegid ja ma sulle korvi andsin ? "
+-------------------------
+\n\n" Muidugi , kallis . Mäletan kõike viimase üksikasjani , sest see on...
+
+=====================================================================================
+
+nc_periodicals::nc_2748_165530::48656 (-)
+
+...l oli hea meel , et meie pankurid ja ettevõtjad riiklikult mõtlevad .
+-------------------------
+estnltk_sentences_flat   Varsti tulevad pankade esindajad jälle minu juurde , sest soovisid rääkida . . .
+estnltk_sentences_flat   riigikaitse teemal .
+-------------------------
+stanford_sentences       Varsti tulevad pankade esindajad jälle minu juurde , sest soovisid rääkida . . . riigikaitse teemal .
+-------------------------
+Ma ei tea nende lähenemist asjale , aga see on juba sümpaatne , et na...
+=====================================================================================
+
+nc_periodicals::nc_2748_165542::48694 (+)
+
+... Morse haruldaselt ilmetul häälel .\n\n" Te ei näi kuigi üllatunud . "\n\n
+-------------------------
+estnltk_sentences_flat   " Öelge mulle ainult üht .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Öelge mulle ainult üht .
+-------------------------
+Kas te arvate , et missis . . . Grainger juba teadis mõrvast sel ajal...
+
+=====================================================================================
+
+nc_periodicals::nc_277_30504::48895 (+)
+
+...innapeakandidaat Teet Kallasvee ütles , et valimiskomisjon venitab .\n\n
+-------------------------
+estnltk_sentences_flat   " Ebaeetiline on hoida linnakodanikke teadmatuses ja tegeliku juhita .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Ebaeetiline on hoida linnakodanikke teadmatuses ja tegeliku juhita .
+-------------------------
+Teades valimiskomisjoni seost praeguse võimuga ja linnapea Urmas Sukl...
+
+=====================================================================================
+
+nc_periodicals::nc_3021_184328::49054 (+)
+
+...kel lõdvaks lasta , siis on karistus kiire tulema , " arvas Ojamets .
+-------------------------
+estnltk_sentences_flat   Pärnu eeliseks võrreldes Tartuga peab Ojamets mitmekülgsemat rünnakut .
+estnltk_sentences_flat   " Meie kasutame alati ära kolme eesliinis ja ühte tagaliinis olevat ründajat .
+-------------------------
+stanford_sentences       Pärnu eeliseks võrreldes Tartuga peab Ojamets mitmekülgsemat rünnakut . " Meie kasutame alati ära kolme eesliinis ja ühte tagaliinis olevat ründajat .
+-------------------------
+Kui aga Tartul on sidemängija eesliinis , mängivad nad rünnakul ainul...
+
+=====================================================================================
+
+nc_periodicals::nc_3291_199740::49359 (+)
+
+... ja terroristide jõugud , " edastas Itar-Tass Igor Sergejevi sõnad .\n\n
+-------------------------
+estnltk_sentences_flat   " Väed parandavad oma positsioone , et kontrollida kogu sealset olukorda . "
+-------------------------
+stanford_sentences       "
+stanford_sentences       Väed parandavad oma positsioone , et kontrollida kogu sealset olukorda . "
+-------------------------
+\n\nSergejevi sõnad on märguandeks , et Moskva võib kavandada maavägede ...
+
+=====================================================================================
+
+nc_periodicals::nc_4467_275767::50235 (+)
+
+...ks Malaisiasse . Nimesid ma ei nimeta . Olin väga mures tema pärast .
+-------------------------
+estnltk_sentences_flat   Kartsin , kuidas ta vastu peab . »
+-------------------------
+stanford_sentences       Kartsin , kuidas ta vastu peab .
+stanford_sentences       »
+-------------------------
+\n\nLepiku sõnul oleks võinud ohtlik nakkus , mis Koit Toome jalust niit...
+
+=====================================================================================
+
+nc_periodicals::nc_5478_329097::50930 (+)
+
+...süritusteks . "\n\nMida inimesed neilt tseremooniatelt oodata võivad ?\n\n
+-------------------------
+estnltk_sentences_flat   " Vaja on avastada iseenese olemus .
+-------------------------
+stanford_sentences       "
+stanford_sentences       Vaja on avastada iseenese olemus .
+-------------------------
+Tuleb lakata olemast see , kes sa tegelikult ei ole . Näiteks paljud ...
+
+=====================================================================================
+
+nc_periodicals::nc_6455_363960::51301 (+)
+
+...elt saabub ta paigale kuu pärast esimesi teste , et autoga harjuda .\n\n
+-------------------------
+estnltk_sentences_flat   « Ausalt öeldes ei tunne , et vääriksin läinud hooaja järel pikka puhkust , » tunnistas Schumacher .
+estnltk_sentences_flat   « Soov võidusõidurajale naasta on põletavam kui kunagi varem . »
+-------------------------
+stanford_sentences       «
+stanford_sentences       Ausalt öeldes ei tunne , et vääriksin läinud hooaja järel pikka puhkust , » tunnistas Schumacher . «
+stanford_sentences       Soov võidusõidurajale naasta on põletavam kui kunagi varem .
+stanford_sentences       »
+-------------------------
+...
+=====================================================================================
+
+nc_periodicals::nc_6711_400492::53024 (+)
+
+...teisipäeva kella kahe ajal Ruhnu saarelt merele , et söita Pärnusse .
+-------------------------
+estnltk_sentences_flat   Paadi omanik teatas kell 2.02 Ruhnu kordonisse , et nad väljuvad paadiga merele , hoolimata piirivalve hoiatusest ilma halvenemise kohta .
+-------------------------
+stanford_sentences       Paadi omanik teatas kell 2.02
+stanford_sentences       Ruhnu kordonisse , et nad väljuvad paadiga merele , hoolimata piirivalve hoiatusest ilma halvenemise kohta .
+-------------------------
+\n\nKuna mehed hommikuks Pärnusse ei jöudnud , teatas paadijuhi ärevaks ...
+=====================================================================================
+
+nc_periodicals::nc_8139_507874::54725 (+)
+
+...uures kombeks otse , silmast silma kõik selgeks rääkida , lisas ta .\n\n
+-------------------------
+estnltk_sentences_flat   Homme hommikul peaks kohtuma Hanschmidt ja Sammelselg .
+estnltk_sentences_flat   28. maiks on Sammelselja sõnul määratud Pangaliidu mitteametlik juhatuse koosolek , kuhu oodatakse Hanschmidti selgitusi andma .
+-------------------------
+stanford_sentences       Homme hommikul peaks kohtuma Hanschmidt ja Sammelselg . 28. maiks on Sammelselja sõnul määratud Pangaliidu mitteametlik juhatuse koosolek , kuhu oodatakse Hanschmidti selgitusi andma .
+-------------------------
+Seda juhul , kui isiklikel kohtumistel selgust ei saada , ütles Samme...
+
+=====================================================================================
+
+nc_periodicals::nc_8356_522112::55775 (+)
+
+...estlast , mõlemad võõrriigi värvides . Omavahel mehed ei kohtunudki .
+-------------------------
+estnltk_sentences_flat   Freiberg katsunud küll kohtuda vene meeskonnas võistelnud kuldmedalimehe Ants Antsoniga ja rääkinud ka vene sportlastega , kuid miskipärast " ajad ei klappinud " .
+-------------------------
+stanford_sentences       Freiberg katsunud küll kohtuda vene meeskonnas võistelnud kuldmedalimehe Ants Antsoniga ja rääkinud ka vene sportlastega , kuid miskipärast " ajad ei klappinud "
+stanford_sentences       .
+-------------------------
+\n\nHeino Freiberg ( rootsi ajalehtedes ka Freyberg ) suri 1978 . aasta ...
+=====================================================================================
+
+nc_periodicals::nc_8356_522117::55784 (+)
+
+...s võttis tööle kolmkümmend puuduliku riigikeele oskusega ametnikku .\n\n
+-------------------------
+estnltk_sentences_flat   Eksperimendid inimeste peal peaksid olema keelatud , leiab  Pärnu Postimees  .
+estnltk_sentences_flat   Seekord on haridusjuhid asunud eksperimenteerima laste koolivaheajaga .
+-------------------------
+stanford_sentences       Eksperimendid inimeste peal peaksid olema keelatud , leiab  Pärnu Postimees  . Seekord on haridusjuhid asunud eksperimenteerima laste koolivaheajaga .
+-------------------------
+Põhjuseks tuuakse lausvale , et suvevaheaja lühendamise kavatsus on t...
+=====================================================================================
+
+nc_periodicals::nc_9042_567655::56647 (+)
+
+... Eesti käsipallile vajalike meeste kasvatamist , " leidis Piilpärk .\n\n
+-------------------------
+estnltk_sentences_flat   Meistrivõistluste esimestes voorudes peab Oskar läbi ajama kaugpommitaja Mihhail Borissovita .
+estnltk_sentences_flat   " Loodetavasti pääseb ta peagi platsile .
+-------------------------
+stanford_sentences       Meistrivõistluste esimestes voorudes peab Oskar läbi ajama kaugpommitaja Mihhail Borissovita . " Loodetavasti pääseb ta peagi platsile .
+-------------------------
+Ent las ta saab päris terveks , enne ei maksa teda lõhkuda , " rääkis...
+
+=====================================================================================
+
+nc_periodicals::nc_9212_578553::57006 (-)
+
+...iret Toomet ( 29 ) : “ Vaatasin kaardilt , kus see Krasnojarsk asub .
+-------------------------
+estnltk_sentences_flat   Aga Venemaa suurust arvestades polegi maailma lõpus , alles kuskil poole peal .
+estnltk_sentences_flat   ” Ove Maidla
+-------------------------
+stanford_sentences       Aga Venemaa suurust arvestades polegi maailma lõpus , alles kuskil poole peal . ”
+stanford_sentences       Ove Maidla
+-------------------------
+\n\nNeeme Korv , neeme.korv@postimees.ee\n\nSamal ajal kui Piret Toometile...
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588923::57969 (+)
+
+...raldamiseni ning olla nõnda eeskujuks teistele Šotimaa maakondadele .
+-------------------------
+estnltk_sentences_flat   Toetust selleks on kavas küsida Euroopa Liidu programmist LEADER Pluss .
+-------------------------
+stanford_sentences       Toetust selleks on kavas küsida Euroopa Liidu programmist LEADER
+stanford_sentences       Pluss .
+-------------------------
+\n\nŠotlastelt on õppida\n\nŠotimaa on väga metsavaene maa . Seda enam hoo...
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588923::57985 (+)
+
+...aks enne tund aega ratast väntama ning jätkama ka uudistesaate ajal.\n\n
+-------------------------
+estnltk_sentences_flat   “ Et ühekilovatise võimsusega kohvimasinat kasutada , peaks teoreetiliselt enne kümme tundi väntama .
+-------------------------
+stanford_sentences       “
+stanford_sentences       Et ühekilovatise võimsusega kohvimasinat kasutada , peaks teoreetiliselt enne kümme tundi väntama .
+-------------------------
+Seda ei jaksa keegi . See näitab , et inimene on üsna vähe võimas , ”...
+
+=====================================================================================
+
+web13::web13_221728_x::59351 (?)
+
+...-11-2011 14:02 Sain oma kella kätte ja super rahul! Soovitan soojalt\n\n
+-------------------------
+estnltk_sentences_flat   kikzu 24-11-2011 12:12 Väga väga ilus kell!
+-------------------------
+stanford_sentences       kikzu 24-11-2011 12:12
+stanford_sentences       Väga väga ilus kell!
+-------------------------
+super, soovitan!\n\nlilleke181 25-11-2011 00:12 Tere, olen Tartus kuni ...
+
+=====================================================================================
+
+web13::web13_295118_x::60823 (+)
+
+...gu üks korralik 60ndate film olema peab, aga ma ei suuda seda uskuda.
+-------------------------
+estnltk_sentences_flat   Näitlejad rikuvad selle ülesehitatud illusiooni, sest ma tean, et Affleck ja Jessica Alba ei ole sellest ajastust pärit.
+-------------------------
+stanford_sentences       Näitlejad rikuvad selle ülesehitatud illusiooni, sest ma tean, et Affleck ja Jessica
+stanford_sentences       Alba ei ole sellest ajastust pärit.
+-------------------------
+Õnneks hakkab siis tööle filmi süžee ja ma unustan kõik oma virisemis...
+
+=====================================================================================
+
+web13::web13_300051_x::60896 (?)
+
+.... aga igatahes pole ju nende süü, et neile on selline ülesanne antud\n\n
+-------------------------
+estnltk_sentences_flat   Ebasobiv Kui mulle tuplat ei pakuta, ei hakka ma seda ka nõudma.
+-------------------------
+stanford_sentences       Ebasobiv
+stanford_sentences       Kui mulle tuplat ei pakuta, ei hakka ma seda ka nõudma.
+-------------------------
+Las see Tupla olla. Aga see konkreetne näide pisikese tüdrukutirtsu p...
+
+=====================================================================================
+
+web13::web13_300514_x::60905 (--)
+
+...erahu!\n\nTundub tõesti nii... väga otsekoheselt ja tabavalt öeldud...\n\n
+-------------------------
+estnltk_sentences_flat   Kindlasti on ka raske neid sõnu lugeda sul, niiet, soovin sulle südamerahu ja enesekindlust, valgust ja ingleid Las armastuseseemned ärkavad sinus ja kasvavad lilleks, viljapuuks ja marjapõõsaks... mille magusa maitsega viljad ja kosutus sinu hinge häält võimendab.
+-------------------------
+stanford_sentences       Kindlasti on ka raske neid sõnu lugeda sul, niiet, soovin sulle südamerahu ja enesekindlust, valgust ja ingleid
+stanford_sentences       Las armastuseseemned ärkavad sinus ja kasvavad lilleks, viljapuuks ja marjapõõsaks...
+stanford_sentences       mille magusa maitsega viljad ja kosutus sinu hinge häält võimendab.
+-------------------------
+\n\n" Viimasena muutis: september 01, 2010, 13:11:00 Kaledon "\n\nSisselog...
+
+=====================================================================================
+
+web13::web13_320142_x::61540 (?)
+
+...teepaki, mis paari tunni pärast kohe kasutust leidis. J: klaaskuuli.\n\n
+-------------------------
+estnltk_sentences_flat   18 märts 2009 leidis Mai & Szymon [beautyandbeast] Teine aare Rakvere-Tartu teel, mis oli ühtlasi meie 50nes leid! :)
+estnltk_sentences_flat   Leidsime üpris lihtsalt tänu vihjele.
+-------------------------
+stanford_sentences       18 märts 2009 leidis Mai & Szymon [beautyandbeast]
+stanford_sentences       Teine aare Rakvere-Tartu teel, mis oli ühtlasi meie 50nes leid!
+stanford_sentences       :) Leidsime üpris lihtsalt tänu vihjele.
+-------------------------
+Karp oli liiga täis ning kaas oli lahti. Karp ning karbi sisu olid mä...
+
+=====================================================================================
+
+web13::web13_347952_x::62735 (-)
+
+...alli, peab olema 1. noor võistkond, mis armastab joosta 2. pikk pink.
+-------------------------
+estnltk_sentences_flat   3.
+estnltk_sentences_flat   Mõned - s.t. 3-4 - head stabiilsed viskajad, kes viskavad ära vabad kohad.
+-------------------------
+stanford_sentences       3. Mõned - s.t. 3-4 - head stabiilsed viskajad, kes viskavad ära vabad kohad.
+-------------------------
+4. Kehaliselt võimsate eeldustega mängijad (kiirus, hüppevõime)\n\nKui ...
+
+=====================================================================================
+
+web13::web13_354901_x::63185 (?)
+
+... saad, on niikuinii kõik mured tagasi.. ma läksin tast ka just lahku.
+-------------------------
+estnltk_sentences_flat   esimene päev pold midagi, aga praegu on nii valus.. nutt on pidevalt kurgus... ma ütleks et pea vastu.
+-------------------------
+stanford_sentences       esimene päev pold midagi, aga praegu on nii valus..
+stanford_sentences       nutt on pidevalt kurgus...
+stanford_sentences       ma ütleks et pea vastu.
+-------------------------
+kasvõi nuta end tühjaks(soovitavalt üksi olles)\n\nma tooksin seda laus...
+
+=====================================================================================
+
+web13::web13_356531_x::63318 (-)
+
+...õeldud Nurmenuku Maximas oli 5 karpi per kärss max ost.\n\nVasta\n\nwww.\n\n
+-------------------------
+estnltk_sentences_flat   01.
+estnltk_sentences_flat   04.
+estnltk_sentences_flat   2012 14:52
+-------------------------
+stanford_sentences       01.04.2012 14:52
+-------------------------
+\n\nHS kirjutas:\n\n1 vastus\n\nEi usu et kauplused tõstsid hinna lakke-meie...
+=====================================================================================
+
+web13::web13_364522_x::63560 (?)
+
+...llega oli pisut otsimist, tänu logidele siiski lõpuks leidsime. VMJM\n\n
+-------------------------
+estnltk_sentences_flat   1 märts 2008 leidis sofi ja mart [espenberg] Aare oli niiske, mis on ka loogiline arvestades "karpi".
+-------------------------
+stanford_sentences       1 märts 2008 leidis sofi ja mart [espenberg]
+stanford_sentences       Aare oli niiske, mis on ka loogiline arvestades "karpi".
+-------------------------
+V: žetooni, J: pliiatsi.\n\n24 november 2007 leidis Liis ja Sven [234u]...
+
+=====================================================================================
+
+web13::web13_408879_x::64391 (+)
+
+...õuaksin Stockist ruttu Narva mnt joosta, oma kallima kõrvale joosta...
+-------------------------
+estnltk_sentences_flat   Kui sündmus aga pikale venib, varun endale 21. head ja paremat ning kindlasti ka alkoholi, joobes olekus on see kõik kindlasti talutavam, kui 22. ärkan, on hästi, kui ei, pole kah hullu, pole siin elus midagi kaotada...olen alati elanud põhimõttega nagu Päikesekuningas omal ajal, et pärast mind tulgu või veeuputus.
+-------------------------
+stanford_sentences       Kui sündmus aga pikale venib, varun endale 21. head ja paremat ning kindlasti ka alkoholi, joobes olekus on see kõik kindlasti talutavam, kui 22. ärkan, on hästi, kui ei, pole kah hullu, pole siin elus midagi kaotada.
+stanford_sentences       .
+stanford_sentences       .olen alati elanud põhimõttega nagu Päikesekuningas omal ajal, et pärast mind tulgu või veeuputus.
+-------------------------
+Ja olen kindel, et mingit lõppu ei tule!\n\nVasta\n\nArusaamatu ,\n\n15.12....
+
+=====================================================================================
+
+web13::web13_416658_x::64490 (?)
+
+...uba korra teinud aga aega tagasi ja ei mäleta enam\n\n27.01.2011 11:01\n\n
+-------------------------
+estnltk_sentences_flat   #9
+-------------------------
+stanford_sentences       #
+stanford_sentences       9
+-------------------------
+\n\nLõvitar\n\n14 päeva on miinimum, mina saatsin umbes 3 nädalat enne, pä...
+=====================================================================================
+
+web13::web13_453172_x::65273 (?)
+
+...ulutada). Venemaale tankide, sealiha jms tootmine ei lähe arvesse...\n\n
+-------------------------
+estnltk_sentences_flat   Andres 15-03-12 13:49 Kas sotsmaksu lae kehtestamine tooks siia rohkem kõrgepalgalisi töökohti ja kas pankadelt ei peaks nõudma sammastele vähemalt inflatsiooni ületavat tootlust
+-------------------------
+stanford_sentences       Andres 15-03-12 13:49
+stanford_sentences       Kas sotsmaksu lae kehtestamine tooks siia rohkem kõrgepalgalisi töökohti ja kas pankadelt ei peaks nõudma sammastele vähemalt inflatsiooni ületavat tootlust
+-------------------------
+\n\nVoldemar 15-03-12 13:49 See väike protsent ei tasu trummi tagumist. ...
+
+=====================================================================================
+
+web13::web13_456624_x::65414 (?)
+
+...anime tüdrukule nimeks Kätrin ja poisile Kristjan.\n\n17.12.2007 18:34\n\n
+-------------------------
+estnltk_sentences_flat   #8
+-------------------------
+stanford_sentences       #
+stanford_sentences       8
+-------------------------
+\n\nLILIAN\n\nRegistreerus: -\n\nPoiss sai isa Kalle järgi nimeks Karl. Mõtl...
+
+=====================================================================================
+
+web13::web13_464248_x::65589 (?)
+
+... peal juba pikemat aega ? Ehk on probleem toidus ?\n\n10.10.2010 11:34\n\n
+-------------------------
+estnltk_sentences_flat   #3
+-------------------------
+stanford_sentences       #
+stanford_sentences       3
+-------------------------
+\n\nLiisu.\n\nmeil karjus "niisama". uuriti-puuriti igatpidi. ei olnud mid...
+
+=====================================================================================
+
+web13::web13_531683_x::67000 (+)
+
+...ialille rühmadest ning vastas mudilastele huvi pakkunud küsimustele.\n\n
+-------------------------
+estnltk_sentences_flat   Priit nihutab tooli lastele lähemale; Priit mõõdab välja õngitsetud kala pikkust
+-------------------------
+stanford_sentences       Priit nihutab tooli lastele lähemale;
+stanford_sentences       Priit mõõdab välja õngitsetud kala pikkust
+-------------------------
+\n\nMesimumm\n\nPriit Loog lastega\n\nKui paarkümmend kuue kuni seitsmeaasta...
+
+=====================================================================================
+
+web13::web13_555566_x::67694 (--)
+
+...eteisele kavalalt otsa. No hea küll, ma räägin." Alustas Kaur jutuga.
+-------------------------
+estnltk_sentences_flat   Asi on selles, et peale kooli lõppu, me hakkame koos elama.
+estnltk_sentences_flat   " Väga tore ju.
+estnltk_sentences_flat   " Teisi naeratas.
+-------------------------
+stanford_sentences       Asi on selles, et peale kooli lõppu, me hakkame koos elama."
+stanford_sentences       Väga tore ju."
+stanford_sentences       Teisi naeratas.
+-------------------------
+Adelaide, saaks ma sinuga rääkida?" Aga muidugi." Tüdrukud vaatasid K...
+
+=====================================================================================
+
+web13::web13_555566_x::67726 (--)
+
+...er oli niimoodi käitunud. Samal ajal kees Kaja vihast. Mida kuradit!?
+-------------------------
+estnltk_sentences_flat   Kuidas ta põgenema sai?
+estnltk_sentences_flat   " Sorry, tips, aga ma ei tea.
+estnltk_sentences_flat   " Kaja virustas Taavile kõrvakiilu.
+-------------------------
+stanford_sentences       Kuidas ta põgenema sai?"
+stanford_sentences       Sorry, tips, aga ma ei tea."
+stanford_sentences       Kaja virustas Taavile kõrvakiilu.
+-------------------------
+Sa oled ikka loll. Kõik, läbi, ma jätan su maha!" Ei.. mitte seda. Me...
+
+=====================================================================================
+
+web13::web13_607660_x::69210 (?)
+
+...teisiti arvutada? Peaks siis mingid kindlad asjad paika määrama vist.
+-------------------------
+estnltk_sentences_flat   Hetkel on ju iga kindlustuse suva kuidas ja mida ta teeb või saan ma valesti aru. ?
+-------------------------
+stanford_sentences       Hetkel on ju iga kindlustuse suva kuidas ja mida ta teeb või saan ma valesti aru.
+stanford_sentences       ?
+-------------------------
+\n\nliikleja\n\n19.03.2009 09:48\n\nSuurt rolli mängis kindlustusmakse suuru...
+
+=====================================================================================
+
+web13::web13_609687_x::69318 (-)
+
+...vo Küüt: politsei on jätkuvalt igal pool olemas... ..................
+-------------------------
+estnltk_sentences_flat   No kohe ausõna, on küll ja lausa igal pool.... 1.
+estnltk_sentences_flat   Passib põõsastes ja mõõdab kiirust, eriti veel, kui äsja on mingit kiirust piiravat liiklusmärki kuskil vahetatud.... 2.
+estnltk_sentences_flat   Passib kohaliku külapoekese läheduses ja vaatab, kes ei pane poe juurest liikuma hakkamisel, enne turvavööd kinni.... 3.
+estnltk_sentences_flat   Kontrollib, et koolijuntsud nurga taga suitsu ei tõmbaks ja Opmanni purgikesi ei tarvitaks.... 4.
+estnltk_sentences_flat   Vaatab kõik mõeldavad poe nurgatagused üle, et keegi alkoholi ei pruugiks.... 5.
+estnltk_sentences_flat   Pöörab politsei aktsionärideks elanikud, kes ei kanna helkurit....
+-------------------------
+stanford_sentences       No kohe ausõna, on küll ja lausa igal pool....
+stanford_sentences       1. Passib põõsastes ja mõõdab kiirust, eriti veel, kui äsja on mingit kiirust piiravat liiklusmärki kuskil vahetatud....
+stanford_sentences       2. Passib kohaliku külapoekese läheduses ja vaatab, kes ei pane poe juurest liikuma hakkamisel, enne turvavööd kinni....
+stanford_sentences       3. Kontrollib, et koolijuntsud nurga taga suitsu ei tõmbaks ja Opmanni purgikesi ei tarvitaks....
+stanford_sentences       4. Vaatab kõik mõeldavad poe nurgatagused üle, et keegi alkoholi ei pruugiks....
+stanford_sentences       5. Pöörab politsei aktsionärideks elanikud, kes ei kanna helkurit....
+-------------------------
+Räägi veel, et politseid ei jätku, sest see on kõik lausvale ja Venem...
+
+=====================================================================================
+
+web13::web13_613825_x::69373 (+)
+
+...tähestikuseeriat lahendama otsese eesmärgiga saada W aardest X vihje.
+-------------------------
+estnltk_sentences_flat   Kui olime jõudnud V aardeni ja sealt W vihje saanud, siis lahenes W ja kohe samal hetkel ilma vihjeta ka X. Leidsime sealt ägeda koha ja logisime.
+-------------------------
+stanford_sentences       Kui olime jõudnud V aardeni ja sealt W vihje saanud, siis lahenes W ja kohe samal hetkel ilma vihjeta ka X.
+stanford_sentences       Leidsime sealt ägeda koha ja logisime.
+-------------------------
+Kui minema sõitsime, siis möödudes teise lähenemistee juurest, astusi...
+
+=====================================================================================
+
+wiki17::wiki17_102117_x::69831 (?)
+
+...sugune tegevus, mis on suunatud tööliste-talupoegade nõukogude ja ...
+-------------------------
+estnltk_sentences_flat   Nõukogude Liidu, liidu- ja autonoomsete vabariikide valitsuste võimu kukutamisele, purustamisele või nõrgendamisele, või Nõukogude Liidu ning proletaarse revolutsiooni peamiste majanduslike, poliitiliste ja rahvuslike vallutuste välisjulgeoleku purustamisele või nõrgendamisele.
+estnltk_sentences_flat   " Nõukogude õiguses sisuliselt samastati kontrrevolutsiooniline tegevus kahjurlusega.
+-------------------------
+stanford_sentences       Nõukogude Liidu, liidu- ja autonoomsete vabariikide valitsuste võimu kukutamisele, purustamisele või nõrgendamisele, või Nõukogude Liidu ning proletaarse revolutsiooni peamiste majanduslike, poliitiliste ja rahvuslike vallutuste välisjulgeoleku purustamisele või nõrgendamisele."
+stanford_sentences       Nõukogude õiguses sisuliselt samastati kontrrevolutsiooniline tegevus kahjurlusega.
+-------------------------
+\n\nKontrrevolutsioonilistena tõlgendati Nõukogude Liidus eri aegadel er...
+
+=====================================================================================
+
+wiki17::wiki17_102776_x::69900 (+)
+
+...Korporatsioon Selonija värvid on roheline-valge-punane.\n\n
+-------------------------
+estnltk_sentences_flat   Korporatsioon Selonija deviis on Draugam Tēvijai (sõpruse ja isamaa eest) ja Virtute et Fide.
+-------------------------
+stanford_sentences       Korporatsioon
+stanford_sentences       Selonija deviis on Draugam Tēvijai (sõpruse ja isamaa eest) ja Virtute et Fide.
+-------------------------
+[1]\n\n17 aastat pärast korporatsiooni asutamist, 24. novembril 1897 võ...
+
+=====================================================================================
+
+wiki17::wiki17_104834_x::69989 (?)
+
+...s Euroopa pikimaid[7] ja teisel kohal vanadest tellissildadest Lätis.
+-------------------------
+estnltk_sentences_flat   [5] Koos 200 meetrit allavoolu asuva Euroopa kõige laiema joaga[8] (läti keeles:Ventas rumba) ajalooline kivisild on Kuldīga linna maamärgiks ja sümboliks.
+-------------------------
+stanford_sentences       [5]
+stanford_sentences       Koos 200 meetrit allavoolu asuva Euroopa kõige laiema joaga[8] (läti keeles:Ventas rumba) ajalooline kivisild on Kuldīga linna maamärgiks ja sümboliks.
+-------------------------
+[6][9]\n\nAlates 1998. aastast tellissild on riiklik arhitektuurimälest...
+
+=====================================================================================
+
+wiki17::wiki17_124694_x::70713 (+)
+
+...eda esimeses või teises silbis. Näiteks tábo (madu) and tabó (kael).\n\n
+-------------------------
+estnltk_sentences_flat   Häälikut a saab hääldada kahel viisil – [a] ja [ə].
+estnltk_sentences_flat   [a] esineb rõhulistes silpides ja kinnistes rõhuta silpides.
+-------------------------
+stanford_sentences       Häälikut a saab hääldada kahel viisil – [a] ja [ə]. [a] esineb rõhulistes silpides ja kinnistes rõhuta silpides.
+-------------------------
+[ə] esineb tavaliselt silpides enne rõhku ja vahel lahtites rõhuta si...
+
+=====================================================================================
+
+wiki17::wiki17_134723_x::71155 (?)
+
+...ms. [1]\n\nMTÜ Noor-Eesti Loomekeskus juhataja on Lemmit Kaplinski[2].\n\n
+-------------------------
+estnltk_sentences_flat   ↑"Tartu endisesse trükikotta seadis end sisse Noor-Eesti loomekeskus" 15.02.2011
+-------------------------
+stanford_sentences       ↑
+stanford_sentences       "Tartu endisesse trükikotta seadis end sisse Noor-Eesti loomekeskus" 15.02.2011
+-------------------------
+...
+
+
+=====================================================================================
+
+wiki17::wiki17_142480_x::71552 (?)
+
+...Mis tähendab "astub teise jalaga"? Andres 06:42, 30 mai 2005 (UTC)\n\n
+-------------------------
+estnltk_sentences_flat   kuidas seda veel öeldakse: "astub teist jalga" öeldakse rivis marssijate kohta näiteks... seal pildi peal kõik astuvad parajasti vasaku jalaga, aga Paul astub parema jalaga (või oli see vastupidi, vahet ei ole)...
+-------------------------
+stanford_sentences       kuidas seda veel öeldakse: "astub teist jalga" öeldakse rivis marssijate kohta näiteks...
+stanford_sentences       seal pildi peal kõik astuvad parajasti vasaku jalaga, aga Paul astub parema jalaga (või oli see vastupidi, vahet ei ole)...
+-------------------------
+--Lulu 07:07, 30 mai 2005 (UTC)\n\nTuleb arusaadavamalt öelda. Andres 0...
+
+=====================================================================================
+
+wiki17::wiki17_155027_x::72019 (+)
+
+...
+-------------------------
+estnltk_sentences_flat   See artikkel räägib päriselt olemasolemisest vastandina virtuaalsusele ja fiktiivsusele; võimalikkuse vastandi kohta vaata artiklit Tegelikkus; reaalsuse all võidakse mõista ka teostatavust
+-------------------------
+stanford_sentences       See artikkel räägib päriselt olemasolemisest vastandina virtuaalsusele ja fiktiivsusele; võimalikkuse vastandi kohta vaata artiklit
+stanford_sentences       Tegelikkus; reaalsuse all võidakse mõista ka teostatavust
+-------------------------
+\n\nReaalsuseks ehk tõelisuseks nimetatakse omadust päriselt olemas olla...
+
+=====================================================================================
+
+wiki17::wiki17_163796_x::72334 (+)
+
+... kiil.\n\nPunased kaljud on maalilised, eriti loojuva päikese kiirtes.\n\n
+-------------------------
+estnltk_sentences_flat   Salatsi jõe mõlemal kaldal umbes 3 km Punastest kaljudest allavoolu on veel liivakivipaljandeid.
+-------------------------
+stanford_sentences       Salatsi jõe mõlemal kaldal umbes 3 km
+stanford_sentences       Punastest kaljudest allavoolu on veel liivakivipaljandeid.
+-------------------------
+Paremal kaldal on rändkivid ja Upeskalnsi kaljud (Upeskalna klintis),...
+=====================================================================================
+
+wiki17::wiki17_175222_x::72743 (-)
+
+...ésari parima Euroopa Liidu filmi auhinnale nomineerinud Taani filmid\n\n
+-------------------------
+estnltk_sentences_flat   2.
+estnltk_sentences_flat   3Oscari parima võõrkeelse filmi auhinnale nomineerinud Taani filmid
+-------------------------
+stanford_sentences       2.3Oscari parima võõrkeelse filmi auhinnale nomineerinud Taani filmid
+-------------------------
+\n\n2.4Euroopa parima filmi auhinnale kandideerinud Taani filmid\n\nEsimen...
+
+=====================================================================================
+
+wiki17::wiki17_179455_x::72980 (?)
+
+...10, kell 11:27 (UTC)\n\nAntud juhul ei maksa leidmise pärast muretseda.
+-------------------------
+estnltk_sentences_flat   Kirjutad otsingusse "Teitur" ja otsinguaken pakub juba õige variandi välja.
+estnltk_sentences_flat   --WooteleF 13. jaanuar 2010, kell 11:28 (UTC)
+-------------------------
+stanford_sentences       Kirjutad otsingusse "Teitur" ja otsinguaken pakub juba õige variandi välja.--WooteleF 13. jaanuar 2010, kell 11:28 (UTC)
+-------------------------
+...
+
+=====================================================================================
+
+wiki17::wiki17_18787_x::73429 (?)
+
+...
+-------------------------
+estnltk_sentences_flat   Sündinud 1911 • Surnud 1911 • Viimased sündmused maailmas • Aasta päevad
+-------------------------
+stanford_sentences       Sündinud 1911 • Surnud 1911
+stanford_sentences       • Viimased sündmused maailmas • Aasta päevad
+-------------------------
+\n\n31. jaanuar (vkj 18. jaanuar) – ülevenemaalisel algkoolide loenduse ...
+
+=====================================================================================
+
+wiki17::wiki17_188829_x::73458 (-)
+
+...as Sepp (sündinud 24. veebruaril 1956) Tallinnas on eesti firmajuht.\n\n
+-------------------------
+estnltk_sentences_flat   Ta lõpetas aastal 1975 Tallinna 10.
+estnltk_sentences_flat   Keskkooli ja aastal 1982 Tallinna Polütehnilise Instituudi tööstusliku soojusenergeetika erialal.
+-------------------------
+stanford_sentences       Ta lõpetas aastal 1975 Tallinna 10. Keskkooli ja aastal 1982 Tallinna Polütehnilise Instituudi tööstusliku soojusenergeetika erialal.
+-------------------------
+\n\nTa oli aastatel 1985–1990 "Eesti Külaehituse" peaenergeetik. Aastast...
+=====================================================================================
+
+wiki17::wiki17_190501_x::73528 (?)
+
+...rant" - tollal olid statsionaarsed ja mittestatsionaarsed aspirandid.
+-------------------------
+estnltk_sentences_flat   Kas mittekoosseisulise aspirandi all mõeldakse mittestatsionaarset aspirantuuri?
+estnltk_sentences_flat   --Hendrix 30. juuni 2008, kell 20:00 (UTC)
+-------------------------
+stanford_sentences       Kas mittekoosseisulise aspirandi all mõeldakse mittestatsionaarset aspirantuuri?--Hendrix 30. juuni 2008, kell 20:00 (UTC)
+-------------------------
+...
+=====================================================================================
+
+wiki17::wiki17_199264_x::73969 (-)
+
+...laste väe poolt. Lahingut on kirjeldatud Henriku Liivimaa kroonikas.\n\n
+-------------------------
+estnltk_sentences_flat   1208. aastal tekkis sõjaline konflikt ühelt poolt Riia piiskopi, Võnnus baseeruvate Mõõgavendade ordu meeste ja põhjapoolsete latgalite ning teiselt poolt ugalaste ja sakalaste vahel, mida oli püütud lahendada 1208.
+estnltk_sentences_flat   /1209. ja 1209.
+estnltk_sentences_flat   /1210. aasta talve rahulepingutega.
+-------------------------
+stanford_sentences       1208. aastal tekkis sõjaline konflikt ühelt poolt Riia piiskopi, Võnnus baseeruvate Mõõgavendade ordu meeste ja põhjapoolsete latgalite ning teiselt poolt ugalaste ja sakalaste vahel, mida oli püütud lahendada 1208./1209. ja 1209./1210. aasta talve rahulepingutega.
+-------------------------
+Viimasega ei ühinenud aga Mõõgavendade ordu ja Koiva vasakkalda latga...
+
+
+
+=====================================================================================
+
+wiki17::wiki17_200841_x::74014 (?)
+
+...ajaliidesega operatsioonisüsteem, mis anti välja 14. septembril 2000.
+-------------------------
+estnltk_sentences_flat   [1] Windows Me tugi lõpetati 11. juulil 2006.
+estnltk_sentences_flat   [2]
+-------------------------
+stanford_sentences       [1]
+stanford_sentences       Windows
+stanford_sentences       Me tugi lõpetati 11. juulil 2006. [2]
+-------------------------
+\n\nWindows Me oli Windows 98 järelkäija ja nagu Windows 98, oli seegi s...
+
+=====================================================================================
+
+wiki17::wiki17_55924_x::75756 (+)
+
+.... Uus Eesti, 18. detsember 1939, nr. 345, lk. 7.\n\nUusi vallavanemaid.
+-------------------------
+estnltk_sentences_flat   Uus Eesti, 19. detsember 1939, nr. 346, lk. 7.
+-------------------------
+stanford_sentences       Uus Eesti, 19. detsember 1939, nr. 346, lk.
+stanford_sentences       7.
+-------------------------
+\n\nUute vallavalitsuste moodustamine lõpul. Uus Eesti, 20. detsember 19...
+
+=====================================================================================
+
+wiki17::wiki17_57777_x::75855 (--)
+
+...lis doktorikraadi väitekirjaga "Über das Musikleben in Estland im 19.
+-------------------------
+estnltk_sentences_flat   Jahrhundert. "
+estnltk_sentences_flat   [2] Samal aastal suri isa.
+-------------------------
+stanford_sentences       Jahrhundert. "[2]
+stanford_sentences       Samal aastal suri isa.
+-------------------------
+[1]\n\nPärast seda elas Arro aastail 1929–1939 püsivamalt Tartus. [2] T...
+
+=====================================================================================
+
+wiki17::wiki17_63046_x::76044 (+)
+
+...alidel, samuti osalenud rahvusvahelistel soouurimise konverentsidel.\n\n
+-------------------------
+estnltk_sentences_flat   2009 "Enesepaljastus" Eesti Kunstnike Liidu Aastanäitus Tallinna Kunstihoones
+-------------------------
+stanford_sentences       2009
+stanford_sentences       "Enesepaljastus" Eesti Kunstnike Liidu Aastanäitus Tallinna Kunstihoones
+-------------------------
+\n\n2008 Eesti kaasaegse kunsti näitus "Piiririik" Guangzhou's Hiinas\n\nE...
+
+=====================================================================================
+
+wiki17::wiki17_83485_x::76771 (+)
+
+...naalpolitsei abidirektori ja Riigikogu liikme Koit Pikaro hinnangul:\n\n
+-------------------------
+estnltk_sentences_flat   "Riigikogu kapo erikomisjoni juhiks Rahumägi isegi sobib, sest oma vaimuomadustelt ja arusaamiselt jälitustegevuse alal on ta nii madalal tasandil, et pole kellelegi ohtlik komisjoni juhi kohal.
+-------------------------
+stanford_sentences       "Riigikogu kapo erikomisjoni juhiks
+stanford_sentences       Rahumägi isegi sobib, sest oma vaimuomadustelt ja arusaamiselt jälitustegevuse alal on ta nii madalal tasandil, et pole kellelegi ohtlik komisjoni juhi kohal.
+-------------------------
+"Mina arvan, et tema maailmapilt on kolmanda klassi õpilase tasemel n...
+
+=====================================================================================
+
+wiki17::wiki17_88381_x::76915 (-)
+
+...e mitmik-puutetundlik (Multi-Touch) optiline hiir, seda toodab Apple.
+-------------------------
+estnltk_sentences_flat   Magic Mouse tuli müügile 20. oktoobril 2009.
+estnltk_sentences_flat   [5]
+-------------------------
+stanford_sentences       Magic Mouse tuli müügile 20. oktoobril 2009. [5]
+-------------------------
+\n\nLiikuvuse häire tagamiseks on valmistatud tugitehnoloogial põhinev s...
+
+
+=====================================================================================
+
+
+  Summary:
+   51 [+]   --  estnltk correct
+   16 [-]   --  stanfordnlp correct
+   10 [--]  --  both estnltk and stanfordnlp wrong
+   23 [?]   --  hard to tell

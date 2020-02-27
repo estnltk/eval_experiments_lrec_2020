@@ -1,0 +1,732 @@
+=====================================================================================
+
+  125601  (100.00%)   TOTAL
+
+  46486  (37.01%)    wiki17
+  34085  (27.14%)    nc_science
+  29968  (23.86%)    web13
+  12478  (9.93%)    nc_periodicals
+  2584  (2.06%)    nc_fiction
+
+Picking randomly 20 from each subcorpus
+Collecting randomly picked examples ...
+  20   wiki17
+  20   nc_fiction
+  20   web13
+  20   nc_science
+  20   nc_periodicals
+
+
+ Legend:
+   [+]   --  v1_6 correct
+   [-]   --  v1_4 correct
+   [--]  --  both v1_6 and v1_4 wrong
+   [?]   --  hard to tell
+
+=====================================================================================
+
+nc_periodicals::nc_10768_661785::989 (+)
+
+v1_4_words        ...rter .\n\nKorterite ruutmeetri hind algab {18} {000} kroonist . Seitsmenda korruse lukskorte...
+v1_6_words_flat   ...rter .\n\nKorterite ruutmeetri hind algab {18 000} kroonist . Seitsmenda korruse lukskorte...
+
+=====================================================================================
+
+nc_fiction::nc_11742_732450::2190 (?)
+
+v1_4_words        ...reeeeeeeeeeze ! " ja Ann Õun jäätub . " {What}{'}{s} your name ? " karjuvad kütid . " Ann Õu...
+v1_6_words_flat   ...reeeeeeeeeeze ! " ja Ann Õun jäätub . " {What's} your name ? " karjuvad kütid . " Ann Õu...
+
+=====================================================================================
+
+nc_fiction::nc_11742_732450::2323 (+)
+
+v1_4_words        ... uus on üha tõhusam . Sulle tundus , et {Michelle}{'}{i} hambapasta oli iseliikuvate tehisintell...
+v1_6_words_flat   ... uus on üha tõhusam . Sulle tundus , et {Michelle'i} hambapasta oli iseliikuvate tehisintell...
+
+=====================================================================================
+
+nc_fiction::nc_11760_732723::2554 (+)
+
+v1_4_words        ... kes siis sinu arvates võitja on ? "\n\n" {—Inglane} , muidugi teada . "\n\n" Aga siis ju vene...
+v1_6_words_flat   ... kes siis sinu arvates võitja on ? "\n\n" {—}{Inglane} , muidugi teada . "\n\n" Aga siis ju vene...
+
+=====================================================================================
+
+nc_fiction::nc_11771_732827::2790 (+)
+
+v1_4_words        ...ketena . Jätked on umbes meeter pikad , {1-2} sentimeetrit läbimõõdus ja arvatavasti ...
+v1_6_words_flat   ...ketena . Jätked on umbes meeter pikad , {1}{-}{2} sentimeetrit läbimõõdus ja arvatavasti ...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::2896 (+)
+
+v1_4_words        ...itte muuseas , kuidas suhtusid tüdrukud {mr} {.} Hewerisse ? Käesolevad memuaarid on mee...
+v1_6_words_flat   ...itte muuseas , kuidas suhtusid tüdrukud {mr .} Hewerisse ? Käesolevad memuaarid on mee...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::2982 (--)
+
+v1_4_words        ...ised . " ( Teatud ajavahemikul töötasid {V.} M. ja E. N. kolleegidena Keele ja Kirja...
+v1_6_words_flat   ...ised . " ( Teatud ajavahemikul töötasid {V}{.} M. ja E. N. kolleegidena Keele ja Kirja...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::3077 (--)
+
+v1_4_words        ...ikamees ja kogu kooli õpilaskonna vanem {1940/41} {.} Tema julgest ülesastumisest tolle punas...
+v1_6_words_flat   ...ikamees ja kogu kooli õpilaskonna vanem {1940}{/}{41 .} Tema julgest ülesastumisest tolle punas...
+
+=====================================================================================
+
+nc_fiction::nc_11782_732901::3307 (+)
+
+v1_4_words        ...dja/presidendi ) riiklikku hoolitsust ( {vt}{.} reportaažid " Kultuurringi Ajakirjas " ...
+v1_6_words_flat   ...dja/presidendi ) riiklikku hoolitsust ( {vt.} reportaažid " Kultuurringi Ajakirjas " ...
+
+=====================================================================================
+
+nc_fiction::nc_11787_732924::3320 (+)
+
+v1_4_words        ...e ei saatnud ? Nüüd avanes tal võimalus {Claudel}{'}{iga} omavahel paar sõna vahetada , kui teda ...
+v1_6_words_flat   ...e ei saatnud ? Nüüd avanes tal võimalus {Claudel'iga} omavahel paar sõna vahetada , kui teda ...
+
+=====================================================================================
+
+nc_fiction::nc_11793_732947::3393 (?)
+
+v1_4_words        .../ VABASTADA KUNINGATÜTAR\n\nERALDATUD AEG {//} KAHEKSA / JA / POOL NANOÜHIKUT\n\nÕIGUS T...
+v1_6_words_flat   .../ VABASTADA KUNINGATÜTAR\n\nERALDATUD AEG {/}{/} KAHEKSA / JA / POOL NANOÜHIKUT\n\nÕIGUS T...
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::3564 (+)
+
+v1_4_words        ..., ma ei usu mõjutustesse , kuid lugedes {Apollinaire}{'}{i} tekib mul tihti vastavaid kõhklusi . Si...
+v1_6_words_flat   ..., ma ei usu mõjutustesse , kuid lugedes {Apollinaire'i} tekib mul tihti vastavaid kõhklusi . Si...
+
+=====================================================================================
+
+nc_fiction::nc_11800_733040::3660 (--)
+
+v1_4_words        ...ul elanikul , võib muidugi õigus olla . {K.} A. H. oli vana , halli habemetutiga mee...
+v1_6_words_flat   ...ul elanikul , võib muidugi õigus olla . {K}{.} A. H. oli vana , halli habemetutiga mee...
+
+=====================================================================================
+
+nc_fiction::nc_11826_733298::3808 (--)
+
+v1_4_words        ...rjutasin igaks juhuks lühikese kõne . L'{Empire}{'}{i} ühe ukse taga oli lihtinimeste saba , t...
+v1_6_words_flat   ...rjutasin igaks juhuks lühikese kõne . L'{Empire'i} ühe ukse taga oli lihtinimeste saba , t...
+
+=====================================================================================
+
+nc_fiction::nc_11841_733481::4010 (?)
+
+v1_4_words        ...aps I can help you ? "\n\n" I hope so . I {don}{'}{t} know the direction of Mecca . But I hav...
+v1_6_words_flat   ...aps I can help you ? "\n\n" I hope so . I {don't} know the direction of Mecca . But I hav...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4188 (+)
+
+v1_4_words        ...põhjusi kui Marxil oma " Kapitali " või {Rousseau}{'}{l} oma " Pihtimuste " kirjutamiseks , kuid...
+v1_6_words_flat   ...põhjusi kui Marxil oma " Kapitali " või {Rousseau'l} oma " Pihtimuste " kirjutamiseks , kuid...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4200 (+)
+
+v1_4_words        ... ning miks see , mis on kasulik seale ( {Carlyle}{'}{i} pilge ! ) , ei võrdsustu sellega , mis ...
+v1_6_words_flat   ... ning miks see , mis on kasulik seale ( {Carlyle'i} pilge ! ) , ei võrdsustu sellega , mis ...
+
+=====================================================================================
+
+nc_fiction::nc_11846_733619::4234 (+)
+
+v1_4_words        ...da . Võitlus tõe eest , nagu ka võitlus {tud}{'}{i} eest ja nud'i vastu , on määratud luhtu...
+v1_6_words_flat   ...da . Võitlus tõe eest , nagu ka võitlus {tud'i} eest ja nud'i vastu , on määratud luhtu...
+
+=====================================================================================
+
+nc_fiction::nc_11860_733732::4455 (+)
+
+v1_4_words        ...äikese pooliku likööripudeli lauale : " {–Mu} viimasest sünnipäevast . Lasksin toimet...
+v1_6_words_flat   ...äikese pooliku likööripudeli lauale : " {–}{Mu} viimasest sünnipäevast . Lasksin toimet...
+
+=====================================================================================
+
+nc_fiction::nc_11860_733732::4460 (+)
+
+v1_4_words        ...mulle öölambi ihmjas valguses otsa :\n\n" {–Sest} siis võeti ta kinni – "\n\n" Kuidas ? ! "...
+v1_6_words_flat   ...mulle öölambi ihmjas valguses otsa :\n\n" {–}{Sest} siis võeti ta kinni – "\n\n" Kuidas ? ! "...
+
+=====================================================================================
+
+nc_fiction::nc_11860_733732::4499 (+)
+
+v1_4_words        ...da , kui paganlikud saarlased olid meie {Castrum}{'}{i} piiramise lõpetanud ( Jumala abiga seda...
+v1_6_words_flat   ...da , kui paganlikud saarlased olid meie {Castrum'i} piiramise lõpetanud ( Jumala abiga seda...
+
+=====================================================================================
+
+nc_periodicals::nc_1285_97798::4564 (?)
+
+v1_4_words        ...lle Möbiuse lehte . Näitusel tahab ta & {-le} pühendatud töös ühendada märgi “ katkil...
+v1_6_words_flat   ...lle Möbiuse lehte . Näitusel tahab ta & {-}{le} pühendatud töös ühendada märgi “ katkil...
+
+=====================================================================================
+
+nc_periodicals::nc_1364_103060::4688 (+)
+
+v1_4_words        ...laudadel lillekaste . Projektiga ühines {85}{%} elanikest . Neid varustati taimedega ja...
+v1_6_words_flat   ...laudadel lillekaste . Projektiga ühines {85%} elanikest . Neid varustati taimedega ja...
+
+=====================================================================================
+
+nc_science::nc_17123_740792::8069 (+)
+
+v1_4_words        ...istreeriti ajavahemikul 1981-1990 kokku {67} {418} haiget , aastatel 1991- 2000 aga 50 009...
+v1_6_words_flat   ...istreeriti ajavahemikul 1981-1990 kokku {67 418} haiget , aastatel 1991- 2000 aga 50 009...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::11819 (+)
+
+v1_4_words        ...ibaumi , 3 Antonit/T . Oja , 3 Kikramit/{T} {.} {Teplenkovi} , 2 Minnat/ K. Kreismanni , 2 Minnat/K ...
+v1_6_words_flat   ...ibaumi , 3 Antonit/T . Oja , 3 Kikramit/{T . Teplenkovi} , 2 Minnat/ K. Kreismanni , 2 Minnat/K ...
+
+=====================================================================================
+
+nc_science::nc_17131_741109::11852 (+)
+
+v1_4_words        ...kord K. Kreismann , R. Oja , T. Sukk ja {T.} {Teplenkov} . ( Teatriankeet ... 1999 ) Kuigi komöö...
+v1_6_words_flat   ...kord K. Kreismann , R. Oja , T. Sukk ja {T. Teplenkov} . ( Teatriankeet ... 1999 ) Kuigi komöö...
+
+=====================================================================================
+
+nc_science::nc_17132_741117::14273 (?)
+
+v1_4_words        ...umite resolutusioonid ja otsused . VI , {1966-1968.} Tallinn : Eesti Raamat , 1975 , lk 128-...
+v1_6_words_flat   ...umite resolutusioonid ja otsused . VI , {1966}{-}{1968.} Tallinn : Eesti Raamat , 1975 , lk 128-...
+
+=====================================================================================
+
+nc_science::nc_17132_741117::14625 (-)
+
+v1_4_words        ...ogrammile tuginedes . // Töörahva Elu . {1962} {,} {21.} juuni .\n\n447 H. Palamets . Mõttevahetus...
+v1_6_words_flat   ...ogrammile tuginedes . // Töörahva Elu . {1962 , 21}{.} juuni .\n\n447 H. Palamets . Mõttevahetus...
+
+=====================================================================================
+
+nc_science::nc_17141_741172::16531 (+)
+
+v1_4_words        ...mise käigus hinnati ka mesimuraka mahla {2}{%-}{lise} vesilahuse värviintensiivsust . 1997. a...
+v1_6_words_flat   ...mise käigus hinnati ka mesimuraka mahla {2%-lise} vesilahuse värviintensiivsust . 1997. a...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::17902 (-)
+
+v1_4_words        ...linn : Juura , 1997 , lk. 11.\n\n370 RT I {2001} {,} {85} , 512.\n\n371 Vt . N. de Sadeleer . Envir...
+v1_6_words_flat   ...linn : Juura , 1997 , lk. 11.\n\n370 RT I {2001 , 85} , 512.\n\n371 Vt . N. de Sadeleer . Envir...
+
+=====================================================================================
+
+nc_science::nc_17148_741232::18687 (?)
+
+v1_4_words        ... Vol. 31 , Issue 4 , p. 1912-1913.\n\n770 {3-3-3-54-03.} - RT III 2003 , 317.\n\n771 N. Treich . W...
+v1_6_words_flat   ... Vol. 31 , Issue 4 , p. 1912-1913.\n\n770 {3}{-}{3}{-}{3}{-}{54}{-}{03.} - RT III 2003 , 317.\n\n771 N. Treich . W...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::20026 (+)
+
+v1_4_words        ... , E. Montiel , A. Smith , P. Palumbo & {L.} {Jussim} . Ethnic and National Stereotypes : The...
+v1_6_words_flat   ... , E. Montiel , A. Smith , P. Palumbo & {L. Jussim} . Ethnic and National Stereotypes : The...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::20309 (+)
+
+v1_4_words        ...s Corpus Doctrinae . Reval , 1662.\n\n234 {V.} {Paatsi} . Eestlase geograafiline silmaring ja g...
+v1_6_words_flat   ...s Corpus Doctrinae . Reval , 1662.\n\n234 {V. Paatsi} . Eestlase geograafiline silmaring ja g...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::20388 (+)
+
+v1_4_words        ... viibis Etioopias šotlane James Bruce ( {1730-1794} ) , kes avastas Sinise Niiluse allika (...
+v1_6_words_flat   ... viibis Etioopias šotlane James Bruce ( {1730}{-}{1794} ) , kes avastas Sinise Niiluse allika (...
+
+=====================================================================================
+
+nc_science::nc_17150_741243::20728 (-)
+
+v1_4_words        ...-12.\n\n436 Eestikeelne raamat 1901-1917. {I.} {Lk} . 9 , 12.\n\n437 Vt . : " Pagganate ö ja ...
+v1_6_words_flat   ...-12.\n\n436 Eestikeelne raamat 1901-1917. {I. Lk} . 9 , 12.\n\n437 Vt . : " Pagganate ö ja ...
+
+=====================================================================================
+
+nc_science::nc_17164_741348::24464 (+)
+
+v1_4_words        ...nende elluviijate vilets sooritus . Kui {T.} {Deal} ja A. Kennedy on oma väga laialdase tun...
+v1_6_words_flat   ...nende elluviijate vilets sooritus . Kui {T. Deal} ja A. Kennedy on oma väga laialdase tun...
+
+=====================================================================================
+
+nc_science::nc_17164_741348::24603 (--)
+
+v1_4_words        ...kahel perioodil — aastatel 1996-1997 ja {1998-1999.} Periodiseerimise aluseks võeti Eesti ma...
+v1_6_words_flat   ...kahel perioodil — aastatel 1996-1997 ja {1998}{-}{1999.} Periodiseerimise aluseks võeti Eesti ma...
+
+=====================================================================================
+
+nc_science::nc_17173_741412::24937 (+)
+
+v1_4_words        ... 24. aprillil , olles selleks eelnevalt {F.} {Löwenilt} luba küsinud . 531 Tallinna magistraat ...
+v1_6_words_flat   ... 24. aprillil , olles selleks eelnevalt {F. Löwenilt} luba küsinud . 531 Tallinna magistraat ...
+
+=====================================================================================
+
+nc_science::nc_17178_741469::27383 (+)
+
+v1_4_words        ...kus hoolsuse mastaabiks oli bonus pater {familias}{'}{e} käitumine . 436 Sarnaselt defineeriti h...
+v1_6_words_flat   ...kus hoolsuse mastaabiks oli bonus pater {familias'e} käitumine . 436 Sarnaselt defineeriti h...
+
+=====================================================================================
+
+nc_science::nc_17178_741469::27528 (?)
+
+v1_4_words        ...93.\n\n31 H. Kötz ; G. Wagner , ( 104 ) , {S.} 11.\n\n32 O. Behrends und andere . Privat...
+v1_6_words_flat   ...93.\n\n31 H. Kötz ; G. Wagner , ( 104 ) , {S}{.} 11.\n\n32 O. Behrends und andere . Privat...
+
+=====================================================================================
+
+nc_science::nc_17193_741578::29775 (+)
+
+v1_4_words        ...d rühmal statistiliselt oluliselt ( p < {0} {,} {05} ) parem võrreldes kontrollrühmaga . Ka ...
+v1_6_words_flat   ...d rühmal statistiliselt oluliselt ( p < {0 , 05} ) parem võrreldes kontrollrühmaga . Ka ...
+
+=====================================================================================
+
+nc_science::nc_17224_741942::32135 (+)
+
+v1_4_words        ...used pole alusetud , sest , nagu osutab {C.} {Lindahl} , on tänapäeva muistendite populariseer...
+v1_6_words_flat   ...used pole alusetud , sest , nagu osutab {C. Lindahl} , on tänapäeva muistendite populariseer...
+
+=====================================================================================
+
+nc_science::nc_17236_742036::33101 (+)
+
+v1_4_words        ...õigusliikumise tekkes mängis teatud osa {H.} {Ibseni} dramaturgia , eriti “ Nukukodu ” , mis ...
+v1_6_words_flat   ...õigusliikumise tekkes mängis teatud osa {H. Ibseni} dramaturgia , eriti “ Nukukodu ” , mis ...
+
+=====================================================================================
+
+nc_periodicals::nc_1870_131676::39130 (-)
+
+v1_4_words        ...oks ( mehed )\n\n19.25 odavise ( mehed )\n\n{19.30} {100} m tõkkejooks ( naised )\n\n19.35 kaugushü...
+v1_6_words_flat   ...oks ( mehed )\n\n19.25 odavise ( mehed )\n\n{19.30 100} m tõkkejooks ( naised )\n\n19.35 kaugushü...
+
+=====================================================================================
+
+nc_periodicals::nc_4467_275747::41134 (+)
+
+v1_4_words        ... kopsu- ja hingamisteede probleeme ning {88}{%} on kannatanud nina- , kõrva- ja kurguha...
+v1_6_words_flat   ... kopsu- ja hingamisteede probleeme ning {88%} on kannatanud nina- , kõrva- ja kurguha...
+
+=====================================================================================
+
+nc_periodicals::nc_6474_364988::41917 (-)
+
+v1_4_words        ...el said vigastada juht ning autos olnud {15-} ja 16aastane neiu , kõik kolm viidi Mus...
+v1_6_words_flat   ...el said vigastada juht ning autos olnud {15}{-} ja 16aastane neiu , kõik kolm viidi Mus...
+
+
+
+=====================================================================================
+
+nc_periodicals::nc_6734_405754::43060 (+)
+
+v1_4_words        ...ister Tony Blairi otsus tõsta oma palka {40}{%} . Senise 9700 naelsterlingi ( 246 000 k...
+v1_6_words_flat   ...ister Tony Blairi otsus tõsta oma palka {40%} . Senise 9700 naelsterlingi ( 246 000 k...
+
+=====================================================================================
+
+nc_periodicals::nc_7604_474694::43497 (+)
+
+v1_4_words        ...allinnas ja Põõsaspeal 35 m/sek ( u 130 {km}{/}{h} ) . Torm pühkis teelt tuhandeid puid , ...
+v1_6_words_flat   ...allinnas ja Põõsaspeal 35 m/sek ( u 130 {km/h} ) . Torm pühkis teelt tuhandeid puid , ...
+
+=====================================================================================
+
+nc_periodicals::nc_8139_507873::43956 (+)
+
+v1_4_words        ...mbes kaks korda . TH Ferriese ligikaudu {3-5} miljoni krooni suuruse kuukahjumi kinni...
+v1_6_words_flat   ...mbes kaks korda . TH Ferriese ligikaudu {3}{-}{5} miljoni krooni suuruse kuukahjumi kinni...
+
+=====================================================================================
+
+nc_periodicals::nc_8230_513510::44290 (--)
+
+v1_4_words        ...s Banka bilansimaht kahanes mais 5 , 94 {51} {,} {564} miljoni latini .\n\nBNS-SL...
+v1_6_words_flat   ...s Banka bilansimaht kahanes mais 5 , 94 {51 , 564} miljoni latini .\n\nBNS-SL...
+
+=====================================================================================
+
+nc_periodicals::nc_8230_513550::44431 (-)
+
+v1_4_words        ...aadionil üllatuslikult FC Lantanale 2 : {3} {.} FC Flora juhtis veel pärast avapoolaega...
+v1_6_words_flat   ...aadionil üllatuslikult FC Lantanale 2 : {3 .} FC Flora juhtis veel pärast avapoolaega...
+
+=====================================================================================
+
+nc_periodicals::nc_8303_518571::45524 (+)
+
+v1_4_words        ...dluse kohaselt perearsti printsiibil .\n\n{27} {.} {10} {.} {1997} kanti äriregistrisse  Otto Harkmann  , ...
+v1_6_words_flat   ...dluse kohaselt perearsti printsiibil .\n\n{27 . 10 . 1997} kanti äriregistrisse  Otto Harkmann  , ...
+
+=====================================================================================
+
+nc_periodicals::nc_8303_518580::45990 (--)
+
+v1_4_words        ...aiselt rahakoti varastanud mehed . Kell {16} {.} 45 astus 53-aastane naine Tallinnas Vab...
+v1_6_words_flat   ...aiselt rahakoti varastanud mehed . Kell {16 .} 45 astus 53-aastane naine Tallinnas Vab...
+=====================================================================================
+
+nc_periodicals::nc_8633_544243::46876 (+)
+
+v1_4_words        ...al püsti seistes tervitas . Hispaanlase {13} {.} film oli Cannes'is kriitikute lemmik . ...
+v1_6_words_flat   ...al püsti seistes tervitas . Hispaanlase {13 .} film oli Cannes'is kriitikute lemmik . ...
+
+=====================================================================================
+
+nc_periodicals::nc_8831_559562::47119 (+)
+
+v1_4_words        ...du Laht 10,92 . Kaugus : hannes Määnikk {7.38} {,} {2.} Peeter Nihgol 7.05 , 3. Ivo Kala 7.05. ...
+v1_6_words_flat   ...du Laht 10,92 . Kaugus : hannes Määnikk {7.38 , 2}{.} Peeter Nihgol 7.05 , 3. Ivo Kala 7.05. ...
+
+=====================================================================================
+
+nc_periodicals::nc_9042_567653::47275 (+)
+
+v1_4_words        ..."\n\nFinaal algab Kalevi hallis täna kell {15.45.}...
+v1_6_words_flat   ..."\n\nFinaal algab Kalevi hallis täna kell {15.45}{.}...
+
+
+=====================================================================================
+
+nc_periodicals::nc_9212_578541::47641 (+)
+
+v1_4_words        ...Andrus Nilk , {andrus.nilk}{@}{postimees.ee}\n\nOlümpiamängudele minekuks kõlbliku val...
+v1_6_words_flat   ...Andrus Nilk , {andrus.nilk@postimees.ee}\n\nOlümpiamängudele minekuks kõlbliku val...
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588911::47929 (-)
+
+v1_4_words        ...imused . Vaherahu jõustus 11. XI 1918.\n\n{12.} XI\n\n1988  valiti  esimeseks sõjajärgsek...
+v1_6_words_flat   ...imused . Vaherahu jõustus 11. XI 1918.\n\n{12}{.} XI\n\n1988  valiti  esimeseks sõjajärgsek...
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588919::48227 (+)
+
+v1_4_words        ...ksmisel ( Einre väitel võetakse sellest {4}{%} II samba katteks )\n\n• pensionifondi 1,6...
+v1_6_words_flat   ...ksmisel ( Einre väitel võetakse sellest {4%} II samba katteks )\n\n• pensionifondi 1,6...
+
+=====================================================================================
+
+nc_periodicals::nc_9369_588938::48605 (+)
+
+v1_4_words        ...nõuab suuri ressursse , on hinnaklassis {15} {000} kr.\n\nArvuti eluiga sõltub Mart Sepa sõn...
+v1_6_words_flat   ...nõuab suuri ressursse , on hinnaklassis {15 000} kr.\n\nArvuti eluiga sõltub Mart Sepa sõn...
+
+=====================================================================================
+
+web13::web13_309050_x::54355 (+)
+
+v1_4_words        ...leia endalt "operatsioonijärgseid" haavu{."} Ta vaatas ebakindlalt oma varvaste pool...
+v1_6_words_flat   ...leia endalt "operatsioonijärgseid" haavu{.}{"} Ta vaatas ebakindlalt oma varvaste pool...
+
+=====================================================================================
+
+web13::web13_316968_x::55082 (--)
+
+v1_4_words        ...ks ei aidata Tallinna linna, kes ehitab {sots.elamispindu}, neid kes teevad supikööke ja toetavad ...
+v1_6_words_flat   ...ks ei aidata Tallinna linna, kes ehitab {sots}{.}{elamispindu}, neid kes teevad supikööke ja toetavad ...
+
+=====================================================================================
+
+web13::web13_340481_x::57247 (+)
+
+v1_4_words        ...stamine hästi.\n\nVasta\n\nahaa\n\n07.11.2011 {09}{:}{56}\n\nSIIN PEAKS MÄNGU TULEMA AGA ÕPETAJAD-K...
+v1_6_words_flat   ...stamine hästi.\n\nVasta\n\nahaa\n\n07.11.2011 {09:56}\n\nSIIN PEAKS MÄNGU TULEMA AGA ÕPETAJAD-K...
+
+=====================================================================================
+
+web13::web13_340744_x::57299 (+)
+
+v1_4_words        ...skit võlgu,et näiteks olin ta ema,ks ta {hülgas.tuli} lihtsalt kuskilt selline mõte.selle inm...
+v1_6_words_flat   ...skit võlgu,et näiteks olin ta ema,ks ta {hülgas}{.}{tuli} lihtsalt kuskilt selline mõte.selle inm...
+
+=====================================================================================
+
+web13::web13_349913_x::59877 (+)
+
+v1_4_words        ... !\n\nVasta\n\nArtikli autorile\n\n22.09.2012 {20}{:}{12}\n\nOh sa vaesekene, küll sul on ikka rask...
+v1_6_words_flat   ... !\n\nVasta\n\nArtikli autorile\n\n22.09.2012 {20:12}\n\nOh sa vaesekene, küll sul on ikka rask...
+=====================================================================================
+
+web13::web13_352419_x::60519 (+)
+
+v1_4_words        ...st ette valmistavad.\n\nEndel\n\n23.04.2009 {13}{:}{45}\n\nUrmas Roosimägi räägib küll kahtlase a...
+v1_6_words_flat   ...st ette valmistavad.\n\nEndel\n\n23.04.2009 {13:45}\n\nUrmas Roosimägi räägib küll kahtlase a...
+
+=====================================================================================
+
+web13::web13_357981_x::61832 (+)
+
+v1_4_words        ...dusel?\n\nVasta\n\nkahjuks küll\n\n03.06.2010 {10}{:}{28}\n\nHirmutamine ja ähvardamine on nii tava...
+v1_6_words_flat   ...dusel?\n\nVasta\n\nkahjuks küll\n\n03.06.2010 {10:28}\n\nHirmutamine ja ähvardamine on nii tava...
+
+=====================================================================================
+
+web13::web13_364011_x::62207 (+)
+
+v1_4_words        ...datsun on küll elumasin\n\nzzz 17.02.2010 {19}{:}{33} mis nipiga kohapeal ratas ringi aetakse...
+v1_6_words_flat   ...datsun on küll elumasin\n\nzzz 17.02.2010 {19:33} mis nipiga kohapeal ratas ringi aetakse...
+=====================================================================================
+
+web13::web13_364230_x::62232 (+)
+
+v1_4_words        ...\n\n80-84 hea\n\n85-89 hea\n\n90-95 väga hea\n\n{96-100} võrratu\n\nKK1\n\n10\n\n15\n\n20\n\n25\n\n50\n\nKK3\n\n...
+v1_6_words_flat   ...\n\n80-84 hea\n\n85-89 hea\n\n90-95 väga hea\n\n{96}{-}{100} võrratu\n\nKK1\n\n10\n\n15\n\n20\n\n25\n\n50\n\nKK3\n\n...
+
+=====================================================================================
+
+web13::web13_456434_x::67203 (+)
+
+v1_4_words        ...usk Jumalasse on tugevam. See on ka õige{."} Kahtlen sügavalt. Jumalat ei ole ju ole...
+v1_6_words_flat   ...usk Jumalasse on tugevam. See on ka õige{.}{"} Kahtlen sügavalt. Jumalat ei ole ju ole...
+
+=====================================================================================
+
+web13::web13_465647_x::67831 (+)
+
+v1_4_words        ...a teha..\n\nVasta\n\nMetsJeesus\n\n11.10.2012 {19}{:}{27}\n\nto mets-jeesus kirjutas:\n\n2 vastust\n\nM...
+v1_6_words_flat   ...a teha..\n\nVasta\n\nMetsJeesus\n\n11.10.2012 {19:27}\n\nto mets-jeesus kirjutas:\n\n2 vastust\n\nM...
+
+=====================================================================================
+
+web13::web13_480961_x::70469 (+)
+
+v1_4_words        ...s nad on ikka veel vabaduses?04.04.2008 {14}{:}{04}\n\n04.04.2008 18:20\n\ntal tütar on ju. 200...
+v1_6_words_flat   ...s nad on ikka veel vabaduses?04.04.2008 {14:04}\n\n04.04.2008 18:20\n\ntal tütar on ju. 200...
+
+=====================================================================================
+
+web13::web13_500048_x::71153 (+)
+
+v1_4_words        ...a seal on ka Jumala Sõna (mp3 ja tekstid{).} Aga kui sa kollata tühjalt maailma sait...
+v1_6_words_flat   ...a seal on ka Jumala Sõna (mp3 ja tekstid{)}{.} Aga kui sa kollata tühjalt maailma sait...
+
+=====================================================================================
+
+web13::web13_525379_x::71742 (+)
+
+v1_4_words        ...ee loob sinu olemusse "lahenduse energia{",} mis pakub teistele ligipääsu nende enda...
+v1_6_words_flat   ...ee loob sinu olemusse "lahenduse energia{"}{,} mis pakub teistele ligipääsu nende enda...
+
+=====================================================================================
+
+web13::web13_549885_x::72569 (+)
+
+v1_4_words        ...aegu superkool\n\nVasta\n\näkki\n\n31.08.2012 {08}{:}{57}\n\nsofi kirjutas:\n\nMis on juhtunud Kadrio...
+v1_6_words_flat   ...aegu superkool\n\nVasta\n\näkki\n\n31.08.2012 {08:57}\n\nsofi kirjutas:\n\nMis on juhtunud Kadrio...
+
+=====================================================================================
+
+web13::web13_584610_x::75419 (+)
+
+v1_4_words        ...oremonditöökotta, meil nüüd kõik rehvid {-50} {%.} Pigem mõtlen ma siin seda, et nt mõni s...
+v1_6_words_flat   ...oremonditöökotta, meil nüüd kõik rehvid {-50 %}{.} Pigem mõtlen ma siin seda, et nt mõni s...
+
+=====================================================================================
+
+web13::web13_602592_x::76780 (+)
+
+v1_4_words        ...idi hoogu selle "sõimamise ja kadedusega{".} keegi ei sõima ja pole ka millegi peale...
+v1_6_words_flat   ...idi hoogu selle "sõimamise ja kadedusega{"}{.} keegi ei sõima ja pole ka millegi peale...
+
+=====================================================================================
+
+web13::web13_603886_x::76877 (+)
+
+v1_4_words        ... see, millest Taavi Veskimägi kirjutas: {http}{://}{www.epl.ee}{/}{artikkel}{/}{451051} Ehk ühel ilusal päeval kell 23:59 öelda...
+v1_6_words_flat   ... see, millest Taavi Veskimägi kirjutas: {http://www.epl.ee/artikkel/451051} Ehk ühel ilusal päeval kell 23:59 öelda...
+
+=====================================================================================
+
+web13::web13_606930_x::77249 (+)
+
+v1_4_words        ...deana babih\n\n23.10.2012 {21}{:}{17}\n\nVaevalt küll keegi üleüldse tuleb paar...
+v1_6_words_flat   ...deana babih\n\n23.10.2012 {21:17}\n\nVaevalt küll keegi üleüldse tuleb paar...
+
+=====================================================================================
+
+web13::web13_620579_x::78055 (?)
+
+v1_4_words        ...av kumb nr õige on tegelt?) Ema jalad A/{A} {2/2} Selle isa ühel kutsil soomes tehtud jal...
+v1_6_words_flat   ...av kumb nr õige on tegelt?) Ema jalad A/{A 2}{/}{2} Selle isa ühel kutsil soomes tehtud jal...
+
+=====================================================================================
+
+wiki17::wiki17_102409_x::79596 (+)
+
+v1_4_words        ... vastajate suhtumist kooseluseadusesse. {40}{%} vastanutest toetas kooseluseadust, sell...
+v1_6_words_flat   ... vastajate suhtumist kooseluseadusesse. {40%} vastanutest toetas kooseluseadust, sell...
+
+=====================================================================================
+
+wiki17::wiki17_108814_x::81226 (+)
+
+v1_4_words        ...mingit mõtet. --Epp 6. märts 2012, kell {02}{:}{31} (EET)...
+v1_6_words_flat   ...mingit mõtet. --Epp 6. märts 2012, kell {02:31} (EET)...
+=====================================================================================
+
+wiki17::wiki17_117926_x::83665 (--)
+
+v1_4_words        ...f**ked up my career for 15 years" (Video{)[}2]\n\nMargit Tõnson. Areeni aasta film 200...
+v1_6_words_flat   ...f**ked up my career for 15 years" (Video{)}{[}2]\n\nMargit Tõnson. Areeni aasta film 200...
+
+
+=====================================================================================
+
+wiki17::wiki17_127857_x::85893 (--)
+
+v1_4_words        ...oses MON810-maisi kasvatamisega. [11][12{][}11][13]\n\nAgressiivse lobitöö tegijana ni...
+v1_6_words_flat   ...oses MON810-maisi kasvatamisega. [11][12{]}{[}11][13]\n\nAgressiivse lobitöö tegijana ni...
+
+=====================================================================================
+
+wiki17::wiki17_128784_x::86150 (--)
+
+v1_4_words        ...g Jr. oma unistusi rahvasummale hüüdis. {"[}24]\n\nKa Föderaalne Juurdlusbüroo (FBI) p...
+v1_6_words_flat   ...g Jr. oma unistusi rahvasummale hüüdis. {"}{[}24]\n\nKa Föderaalne Juurdlusbüroo (FBI) p...
+
+=====================================================================================
+
+wiki17::wiki17_141098_x::89669 (--)
+
+v1_4_words        ...s, kuivades ja väheviljakates kohtades[1{].}\n\nJuured on väikesed, haustoritega teist...
+v1_6_words_flat   ...s, kuivades ja väheviljakates kohtades[1{]}{.}\n\nJuured on väikesed, haustoritega teist...
+
+=====================================================================================
+
+wiki17::wiki17_144822_x::90590 (+)
+
+v1_4_words        ... millegi leebemaga, nt. "x-ist tuleneb y{",} "x on aluseks y-le". --Kamma 30. märts ...
+v1_6_words_flat   ... millegi leebemaga, nt. "x-ist tuleneb y{"}{,} "x on aluseks y-le". --Kamma 30. märts ...
+
+=====================================================================================
+
+wiki17::wiki17_148228_x::91243 (+)
+
+v1_4_words        ... (2001) ja "Poliitiline testament" (2007{).} Kirjastus Bouvier avaldas "Presidendikõ...
+v1_6_words_flat   ... (2001) ja "Poliitiline testament" (2007{)}{.} Kirjastus Bouvier avaldas "Presidendikõ...
+
+=====================================================================================
+
+wiki17::wiki17_154007_x::92803 (+)
+
+v1_4_words        ...i ajakirjanik ning poliitik.\n\nTa kuulus {1992–1995} VII Riigikogus Kuningriiklaste fraktsio...
+v1_6_words_flat   ...i ajakirjanik ning poliitik.\n\nTa kuulus {1992}{–}{1995} VII Riigikogus Kuningriiklaste fraktsio...
+=====================================================================================
+
+wiki17::wiki17_163432_x::95169 (+)
+
+v1_4_words        ...m graatsiat toovad kinke noorele naisele{",} "Venus ja Mars" ning "Venuse sünd"), on...
+v1_6_words_flat   ...m graatsiat toovad kinke noorele naisele{"}{,} "Venus ja Mars" ning "Venuse sünd"), on...
+
+=====================================================================================
+
+wiki17::wiki17_164247_x::95275 (+)
+
+v1_4_words        ...rusilia, Belgia kõrgeim tornelamu (100 m{).}\n\nArt déco stiilis portselankelladele ke...
+v1_6_words_flat   ...rusilia, Belgia kõrgeim tornelamu (100 m{)}{.}\n\nArt déco stiilis portselankelladele ke...
+
+=====================================================================================
+
+wiki17::wiki17_180571_x::99468 (+)
+
+v1_4_words        ...angeable Obligations of Natural Religion{),} Richard Price'il (A Review of the Princ...
+v1_6_words_flat   ...angeable Obligations of Natural Religion{)}{,} Richard Price'il (A Review of the Princ...
+
+=====================================================================================
+
+wiki17::wiki17_191168_x::102500 (+)
+
+v1_4_words        ...t) kirjakeelt (тарашкевіца (taraškievica{))} kasutati ametlikult kuni 1933. aastani....
+v1_6_words_flat   ...t) kirjakeelt (тарашкевіца (taraškievica{)}{)} kasutati ametlikult kuni 1933. aastani....
+
+=====================================================================================
+
+wiki17::wiki17_192352_x::102965 (+)
+
+v1_4_words        ...bariiklane nagu varased Itaalia umanisti{),} oli Budé ühiskonnaelus aktiivne, teenid...
+v1_6_words_flat   ...bariiklane nagu varased Itaalia umanisti{)}{,} oli Budé ühiskonnaelus aktiivne, teenid...
+
+=====================================================================================
+
+wiki17::wiki17_194260_x::103560 (+)
+
+v1_4_words        ...maturott (arutelu) 14. juuni 2016, kell {16}{:}{45} (EEST)...
+v1_6_words_flat   ...maturott (arutelu) 14. juuni 2016, kell {16:45} (EEST)...
+
+=====================================================================================
+
+wiki17::wiki17_203899_x::105967 (+)
+
+v1_4_words        .... Andres (arutelu) 25. juuli 2016, kell {12}{:}{42} (EEST)...
+v1_6_words_flat   .... Andres (arutelu) 25. juuli 2016, kell {12:42} (EEST)...
+=====================================================================================
+
+wiki17::wiki17_43419_x::112093 (+)
+
+v1_4_words        ...taksin tiitlit (nt. Kenti prints Michael{),} kuna need inimesed on pigem tuntud oma ...
+v1_6_words_flat   ...taksin tiitlit (nt. Kenti prints Michael{)}{,} kuna need inimesed on pigem tuntud oma ...
+
+=====================================================================================
+
+wiki17::wiki17_49373_x::113526 (+)
+
+v1_4_words        ... bändi liikmeks ja nimi muudeti Depeche {Mode}{'}{iks}, mis on võetud prantsuse moeajakirjalt....
+v1_6_words_flat   ... bändi liikmeks ja nimi muudeti Depeche {Mode'iks}, mis on võetud prantsuse moeajakirjalt....
+
+=====================================================================================
+
+wiki17::wiki17_49776_x::113816 (?)
+
+v1_4_words        ... H, F ja nüüd reastage ümber C-duuriks. {--}{Tiuks} 15. august 2008, kell 21:12 (UTC)\n\nVaba...
+v1_6_words_flat   ... H, F ja nüüd reastage ümber C-duuriks. {--Tiuks} 15. august 2008, kell 21:12 (UTC)\n\nVaba...
+
+=====================================================================================
+
+wiki17::wiki17_96761_x::124888 (+)
+
+v1_4_words        ... vokaalne (hääle tugevus, toon, rütm jne{.)} ja 55% kehakeel (põhiliselt näoilme)". ...
+v1_6_words_flat   ... vokaalne (hääle tugevus, toon, rütm jne{.}{)} ja 55% kehakeel (põhiliselt näoilme)". ...
+
+=====================================================================================
+
+
+  Summary:
+   72 [+]   --  v1_6 correct
+    7 [-]   --  v1_4 correct
+   12 [--]  --  both v1_6 and v1_4 wrong
+    9 [?]   --  hard to tell
+

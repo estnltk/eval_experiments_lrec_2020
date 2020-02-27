@@ -1,0 +1,52 @@
+# ======================================================================================================
+# ======================================================================================================
+
+>> 13_diff_segment_v1_4_against_v1_6.py
+
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+use_estnltk_quotation_fixes=False
+words
+ nc_fiction     | ratio: 4333684 / 4342983  (0.9979) | only in v1_4: 5420 (0.1248%) | only in v1_6: 3879 (0.0893%) 
+ nc_periodicals | ratio: 4161886 / 4207285  (0.9892) | only in v1_4: 26958 (0.6407%) | only in v1_6: 18441 (0.4383%) 
+ nc_science     | ratio: 4133140 / 4255301  (0.9713) | only in v1_4: 67142 (1.5778%) | only in v1_6: 55019 (1.2930%) 
+ web13          | ratio: 3876334 / 3990018  (0.9715) | only in v1_4: 60528 (1.5170%) | only in v1_6: 53156 (1.3322%) 
+ wiki17         | ratio: 3840368 / 4006989  (0.9584) | only in v1_4: 79752 (1.9903%) | only in v1_6: 86869 (2.1679%) 
+ TOTAL          | ratio: 20345412 / 20802576  (0.9780) | only in v1_4: 239800 (1.1527%) | only in v1_6: 217364 (1.0449%) 
+
+sentences
+ nc_fiction     | ratio: 285206 / 336840  (0.8467) | only in v1_4: 28988 (8.6059%) | only in v1_6: 22646 (6.7231%) 
+ nc_periodicals | ratio: 261292 / 295411  (0.8845) | only in v1_4: 19786 (6.6978%) | only in v1_6: 14333 (4.8519%) 
+ nc_science     | ratio: 234538 / 268231  (0.8744) | only in v1_4: 21152 (7.8857%) | only in v1_6: 12541 (4.6754%) 
+ web13          | ratio: 283486 / 314478  (0.9014) | only in v1_4: 12909 (4.1049%) | only in v1_6: 18083 (5.7502%) 
+ wiki17         | ratio: 259600 / 272074  (0.9542) | only in v1_4: 5896 (2.1671%) | only in v1_6: 6578 (2.4177%) 
+ TOTAL          | ratio: 1324122 / 1487034  (0.8904) | only in v1_4: 88731 (5.9670%) | only in v1_6: 74181 (4.9885%) 
+
+# ======================================================================================================
+# ======================================================================================================
+
+>> 14_diff_segment_against_stanfordnlp.py
+
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+use_estnltk_quotation_fixes=False
+words
+ nc_fiction     | ratio: 4329590 / 4339748  (0.9977) | only in stanford: 4232 (0.0975%) | only in estnltk: 5926 (0.1366%) 
+ nc_periodicals | ratio: 4157778 / 4202621  (0.9893) | only in stanford: 24348 (0.5794%) | only in estnltk: 20495 (0.4877%) 
+ nc_science     | ratio: 4080160 / 4233303  (0.9638) | only in stanford: 71634 (1.6922%) | only in estnltk: 81509 (1.9254%) 
+ web13          | ratio: 3823672 / 3982777  (0.9601) | only in stanford: 79618 (1.9991%) | only in estnltk: 79487 (1.9958%) 
+ wiki17         | ratio: 3881956 / 4005951  (0.9690) | only in stanford: 57920 (1.4458%) | only in estnltk: 66075 (1.6494%) 
+ TOTAL          | ratio: 20273156 / 20764400  (0.9763) | only in stanford: 237752 (1.1450%) | only in estnltk: 253492 (1.2208%) 
+
+sentences
+ nc_fiction     | ratio: 258562 / 344912  (0.7496) | only in stanford: 50382 (14.6072%) | only in estnltk: 35968 (10.4282%) 
+ nc_periodicals | ratio: 240082 / 289354  (0.8297) | only in stanford: 24334 (8.4098%) | only in estnltk: 24938 (8.6185%) 
+ nc_science     | ratio: 183880 / 250594  (0.7338) | only in stanford: 28844 (11.5103%) | only in estnltk: 37870 (15.1121%) 
+ web13          | ratio: 288700 / 325186  (0.8878) | only in stanford: 21010 (6.4609%) | only in estnltk: 15476 (4.7591%) 
+ wiki17         | ratio: 250922 / 274972  (0.9125) | only in stanford: 13133 (4.7761%) | only in estnltk: 10917 (3.9702%) 
+ TOTAL          | ratio: 1222146 / 1485018  (0.8230) | only in stanford: 137703 (9.2728%) | only in estnltk: 125169 (8.4288%) 
+
+# ======================================================================================================
+# ======================================================================================================

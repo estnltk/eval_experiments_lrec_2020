@@ -1,0 +1,69 @@
+
+# =============================================================================================================
+# =============================================================================================================
+
+>> 15_diff_morph_v1_4_against_v1_6.py
+
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+morph_analysis
+ nc_fiction     | modified spans: 8805 / 2166842 (0.0041) | annotations ratio: 4858686 / 4881296 (0.9954) | only in v1_4: 8625 (0.1110%) | only in v1_6: 13985 (0.0795%) 
+ nc_periodicals | modified spans: 8665 / 2080943 (0.0042) | annotations ratio: 4675400 / 4734897 (0.9874) | only in v1_4: 30994 (0.5693%) | only in v1_6: 28503 (0.3895%) 
+ nc_science     | modified spans: 8579 / 2066570 (0.0042) | annotations ratio: 4624296 / 4762619 (0.9710) | only in v1_4: 72909 (1.4098%) | only in v1_6: 65414 (1.1552%) 
+ web13          | modified spans: 10367 / 1938167 (0.0053) | annotations ratio: 4325442 / 4456631 (0.9706) | only in v1_4: 66219 (1.3582%) | only in v1_6: 64970 (1.1927%) 
+ wiki17         | modified spans: 7554 / 1920184 (0.0039) | annotations ratio: 4269868 / 4450012 (0.9595) | only in v1_4: 84469 (1.7922%) | only in v1_6: 95675 (1.9521%) 
+ TOTAL          | modified spans: 43970 / 10172706 (0.0043) | annotations ratio: 22753692 / 23285455 (0.9772) | only in v1_4: 263216 (1.0298%) | only in v1_6: 268547 (0.9335%) 
+ 
+# =============================================================================================================
+# =============================================================================================================
+
+>> 16_diff_morph_against_stanfordnlp.py
+
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+morph_analysis
+ nc_fiction     | modified spans: 363649 / 2164795 (0.1680) | annotations ratio: 3897764 / 4612289 (0.8451) | only in stanfordnlp: 220145 (4.7730%) | only in v1_6: 494380 (10.7188%) 
+ nc_periodicals | modified spans: 386600 / 2078889 (0.1860) | annotations ratio: 3695496 / 4469377 (0.8268) | only in stanfordnlp: 255489 (5.7164%) | only in v1_6: 518392 (11.5988%) 
+ nc_science     | modified spans: 380361 / 2040080 (0.1864) | annotations ratio: 3616412 / 4489186 (0.8056) | only in stanfordnlp: 303508 (6.7609%) | only in v1_6: 569266 (12.6808%) 
+ web13          | modified spans: 366628 / 1911836 (0.1918) | annotations ratio: 3385428 / 4219100 (0.8024) | only in stanfordnlp: 298740 (7.0807%) | only in v1_6: 534932 (12.6788%) 
+ wiki17         | modified spans: 424777 / 1940978 (0.2188) | annotations ratio: 3308760 / 4229446 (0.7823) | only in stanfordnlp: 344518 (8.1457%) | only in v1_6: 576168 (13.6228%) 
+ TOTAL          | modified spans: 1922015 / 10136578 (0.1896) | annotations ratio: 17903860 / 22019398 (0.8131) | only in stanfordnlp: 1422400 (6.4598%) | only in v1_6: 2693138 (12.2308%) 
+
+# =============================================================================================================
+# =============================================================================================================
+
+>> 17_diff_morph_v1_6_against_corpusbased.py
+
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+morph_analysis
+ nc_fiction     | modified spans: 53945 / 2170721 (0.0249) | annotations ratio: 4771588 / 4874143 (0.9790) | only in v1_6_morf: 57534 (0.0000%) | only in v1_6_cb_morf: 45021 (0.0000%) 
+ nc_periodicals | modified spans: 45438 / 2099384 (0.0216) | annotations ratio: 4632234 / 4724997 (0.9804) | only in v1_6_morf: 50086 (0.0000%) | only in v1_6_cb_morf: 42677 (0.0000%) 
+ nc_science     | modified spans: 52667 / 2121589 (0.0248) | annotations ratio: 4640718 / 4740431 (0.9790) | only in v1_6_morf: 57203 (0.0000%) | only in v1_6_cb_morf: 42510 (0.0000%) 
+ web13          | modified spans: 26032 / 1991323 (0.0131) | annotations ratio: 4398314 / 4450855 (0.9882) | only in v1_6_morf: 28534 (0.0000%) | only in v1_6_cb_morf: 24007 (0.0000%) 
+ wiki17         | modified spans: 49229 / 2007053 (0.0245) | annotations ratio: 4352722 / 4453312 (0.9774) | only in v1_6_morf: 54248 (0.0000%) | only in v1_6_cb_morf: 46342 (0.0000%) 
+ TOTAL          | modified spans: 227311 / 10390070 (0.0219) | annotations ratio: 22795576 / 23243738 (0.9807) | only in v1_6_morf: 247605 (0.0000%) | only in v1_6_cb_morf: 200557 (0.0000%) 
+
+
+# =============================================================================================================
+# =============================================================================================================
+
+>> 18_diff_morph_against_neuraldisamb.py
+ 
+JSON files processed:     18486
+
+TOTAL STATISTICS:
+morph_analysis
+ nc_fiction     | modified spans: 223762 / 2170721 (0.1031) | annotations ratio: 4180258 / 4596288 (0.9095) | only in v1_6: 335438 (7.2980%) | only in neuromorph: 80592 (1.7534%) 
+ nc_periodicals | modified spans: 204276 / 2099384 (0.0973) | annotations ratio: 4072348 / 4433140 (0.9186) | only in v1_6: 297582 (6.7127%) | only in neuromorph: 63210 (1.4259%) 
+ nc_science     | modified spans: 214998 / 2121589 (0.1013) | annotations ratio: 4097802 / 4476346 (0.9154) | only in v1_6: 305856 (6.8327%) | only in neuromorph: 72688 (1.6238%) 
+ web13          | modified spans: 225442 / 1991323 (0.1132) | annotations ratio: 3822602 / 4201253 (0.9099) | only in v1_6: 298629 (7.1081%) | only in neuromorph: 80022 (1.9047%) 
+ wiki17         | modified spans: 188395 / 2007053 (0.0939) | annotations ratio: 3884546 / 4204291 (0.9239) | only in v1_6: 254965 (6.0644%) | only in neuromorph: 64780 (1.5408%) 
+ TOTAL          | modified spans: 1056873 / 10390070 (0.1017) | annotations ratio: 20057556 / 21911318 (0.9154) | only in v1_6: 1492470 (6.8114%) | only in neuromorph: 361292 (1.6489%) 
+
+
+# =============================================================================================================
+# =============================================================================================================
