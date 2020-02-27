@@ -11,11 +11,11 @@ In order to conduct the experiments, you need:
 
 * `.vert` files from Estonian National Corpus 2017 (ENC-2017): <br/> 
     [https://doi.org/10.15155/3-00-0000-0000-0000-071E7L](https://doi.org/10.15155/3-00-0000-0000-0000-071E7L) <br/>
-    (.xz compressed files should be unpacked into the current directory)
+    (.xz compressed files should be unpacked into the directory `'scripts_and_data'`)
 
 * JSON files from "Estonian Reference Corpus analysed with EstNLTK ver.1.6_b" (Laur, 2018): <br/>
     [https://doi.org/10.15155/1-00-0000-0000-0000-00156L](https://doi.org/10.15155/1-00-0000-0000-0000-00156L) <br/>
-    (.zip compressed files should be unpacked into sub-directory named `'koond_raw_json'`)
+    (.zip compressed files should be unpacked into sub-directory named `'scripts_and_data/koond_raw_json'`)
 
 * [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) installed and the following environments created:
 
@@ -23,6 +23,8 @@ In order to conduct the experiments, you need:
 	* Environment with Python 3.6 that has [EstNLTK v1.6.4beta](https://github.com/estnltk/estnltk), [StanfordNLP v0.2.0](https://stanfordnlp.github.io/stanfordnlp/), and [tqdm](https://github.com/tqdm/tqdm) installed;
 
 ## Experiment steps
+
+Experiment scripts and additional files can be found from the folder `'scripts_and_data'`.
 
 ### 1. Preprocessing
 
@@ -99,6 +101,6 @@ Once you have obtained big files with "human-readable" differences, you can star
 
 ## Our results
 
-You can find our results from the folder `results`. Annotation similarity ratios are in files prefixed with `eval_`, and manual evaluation results are in files prefixed with `manual_chk_`.
+You can find our results from the folder `'results'`. Annotation similarity ratios are in files prefixed with `eval_`, and manual evaluation results are in files prefixed with `manual_chk_`.
 
 ---
