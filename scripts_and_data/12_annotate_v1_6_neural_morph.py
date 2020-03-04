@@ -41,8 +41,8 @@
 #  multiple instances of the process at the same time on different 
 #  partitions of the corpus, e.g.
 #       
-#       python  12_annotate_v1_6_neural_morph.py  (1,2)
-#       python  12_annotate_v1_6_neural_morph.py  (2,2)
+#       python  12_annotate_v1_6_neural_morph.py   1,2 
+#       python  12_annotate_v1_6_neural_morph.py   2,2 
 #       
 
 import os, os.path, json, codecs, re

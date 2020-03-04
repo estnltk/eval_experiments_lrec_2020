@@ -9,8 +9,8 @@
 #  launch multiple instances of the process at the same time 
 #  on different partitions of the corpus, e.g.
 #       
-#       python  10_annotate_with_stanfordnlp.py  (1,2)
-#       python  10_annotate_with_stanfordnlp.py  (2,2)
+#       python  10_annotate_with_stanfordnlp.py   1,2 
+#       python  10_annotate_with_stanfordnlp.py   2,2 
 #   
 
 import os, os.path, re

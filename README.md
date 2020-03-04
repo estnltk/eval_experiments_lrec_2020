@@ -55,7 +55,7 @@ The final selection of documents (file names) that we obtained after these prepr
 
 ### 2. Corpus annotation
 
-Steps 06-12 involve corpus annotation. Note that this is a time-consuming process, and whenever possible, it is recommended to run multiple instances of the annotation script simultaneously to speed it up. Scripts 08-12 can take an argument, which tells into how many parts the corpus should be split, and which part of the corpus should be processed. For instance, passing `(1,2)` to the script instructs it to split the data into 2 parts and to process only the first part of the data. 
+Steps 06-12 involve corpus annotation. Note that this is a time-consuming process, and whenever possible, it is recommended to run multiple instances of the annotation script simultaneously to speed it up. Scripts 08-12 can take an argument, which tells into how many parts the corpus should be split, and which part of the corpus should be processed. For instance, passing `1,2` to the script instructs it to split the data into 2 parts and to process only the first part of the data. 
 
 Detailed information about the usage can be found in headers of the scripts.     
 

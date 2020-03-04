@@ -10,8 +10,8 @@
 #  multiple instances of the process at the same time on different 
 #  partitions of the corpus, e.g.
 #       
-#       python  08_annotate_v1_6_segmentation.py  (1,2)
-#       python  08_annotate_v1_6_segmentation.py  (2,2)
+#       python  08_annotate_v1_6_segmentation.py   1,2 
+#       python  08_annotate_v1_6_segmentation.py   2,2 
 #       
 
 import os, os.path, json, codecs, re
