@@ -17,6 +17,8 @@ In order to conduct the experiments, you need:
     [https://doi.org/10.15155/1-00-0000-0000-0000-00156L](https://doi.org/10.15155/1-00-0000-0000-0000-00156L) <br/>
     (.zip compressed files should be unpacked into sub-directory named `'scripts_and_data/koond_raw_json'`)
 
+    _Note_ : our experiment corpus is also available in `'scripts_and_data/enc2017_selection_plain_texts_json.zip'`. <br/> If you do not want to make a new random selection, you can use that data and you do not need to download the corpora.  
+
 * [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)) installed and the following environments created:
 
 	* Environment with Python 3.5 that has [EstNLTK v1.4.1](https://github.com/estnltk/estnltk) installed;
@@ -52,6 +54,8 @@ Preprocessing scripts <br/> (to be run in the Python 3.6 environment):
 Detailed usage information can be found in headers of the scripts.
 
 The final selection of documents (file names) that we obtained after these preprocessing steps can be found from the file `enc2017_selection_json_filenames.txt`.
+
+_Update_ : results of our preprocessing (plain text documents with metadata) are also available in  `enc2017_selection_plain_texts_json.zip`. If you do not want to repeat the preprocessing, you can use that as a basis in the following steps.
 
 ### 2. Corpus annotation
 
