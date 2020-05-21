@@ -1,5 +1,5 @@
 
-This repository contains source code of the evaluation experiments reported in the paper _"EstNLTK 1.6: Remastered Estonian NLP Pipeline"_ that was submitted for LREC 2020.
+This repository contains source code of the evaluation experiments reported in LREC 2020 paper _"EstNLTK 1.6: Remastered Estonian NLP Pipeline"_.
 
 The evaluation focuses on the task of full morphological analysis: word and sentence segmentation of the text, followed by morphological analysis and disambiguation.
 The main evaluation compares outputs of EstNLTK's previous version (1.4.1), EstNLTK's version 1.6.4beta, and StanfordNLP's version 0.2.0. 
@@ -106,5 +106,21 @@ Once you have obtained big files with "human-readable" differences, you can star
 ## Our results
 
 You can find our results from the folder `'results'`. Annotation similarity ratios are in files prefixed with `eval_`, and manual evaluation results are in files prefixed with `manual_chk_`.
+
+## Citation
+
+In case you use these scripts or resources, please cite us as follows:
+
+    @InProceedings{laur-EtAl:2020:LREC,
+      author    = {Laur, Sven  and  Orasmaa, Siim  and  Särg, Dage  and  Tammo, Paul},
+      title     = {EstNLTK 1.6: Remastered Estonian NLP Pipeline},
+      booktitle = {Proceedings of The 12th Language Resources and Evaluation Conference},
+      month     = {May},
+      year      = {2020},
+      address   = {Marseille, France},
+      publisher = {European Language Resources Association},
+      pages     = {7154--7162},
+      url       = {https://www.aclweb.org/anthology/2020.lrec-1.884}
+    }
 
 ---
